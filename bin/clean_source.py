@@ -11,6 +11,7 @@ def title(text: str) -> str:
 def clean(filename: pathlib.Path):
     with open(filename) as stream:
         lines = set(title(line) for line in stream)
+        lines.discard("")
         lines = sorted(lines)
 
 
