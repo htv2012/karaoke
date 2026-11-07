@@ -38,6 +38,7 @@ Duong Ve Mien Bac
 Em Oi Ha Noi Pho
 Em Toi
 Em Ve Nao Co Hay
+Em Ve Tinh Khoi
 Gia Biet Tinh Em
 Goi Giac Mo Xua
 Gui Nguoi Em Gai

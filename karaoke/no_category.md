@@ -40,6 +40,7 @@
 - [Em Oi Ha Noi Pho](https://www.youtube.com/results?search_query=Em+Oi+Ha+Noi+Pho+Karaoke)
 - [Em Toi](https://www.youtube.com/results?search_query=Em+Toi+Karaoke)
 - [Em Ve Nao Co Hay](https://www.youtube.com/results?search_query=Em+Ve+Nao+Co+Hay+Karaoke)
+- [Em Ve Tinh Khoi](https://www.youtube.com/results?search_query=Em+Ve+Tinh+Khoi+Karaoke)
 - [Gia Biet Tinh Em](https://www.youtube.com/results?search_query=Gia+Biet+Tinh+Em+Karaoke)
 - [Goi Giac Mo Xua](https://www.youtube.com/results?search_query=Goi+Giac+Mo+Xua+Karaoke)
 - [Gui Nguoi Em Gai](https://www.youtube.com/results?search_query=Gui+Nguoi+Em+Gai+Karaoke)
