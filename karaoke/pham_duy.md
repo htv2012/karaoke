@@ -70,7 +70,7 @@
 - [Kiep Nao Co Yeu Nhau](https://www.youtube.com/results?search_query=Kiep+Nao+Co+Yeu+Nhau+Karaoke)
 - [Ky Niem](https://www.youtube.com/results?search_query=Ky+Niem+Karaoke)
 - [Ky Vat Cho Em](https://www.youtube.com/results?search_query=Ky+Vat+Cho+Em+Karaoke)
-- [Lam Sao Ma Quen Duong](https://www.youtube.com/results?search_query=Lam+Sao+Ma+Quen+Duong+Karaoke)
+- [Lam Sao Ma Quen Duoc](https://www.youtube.com/results?search_query=Lam+Sao+Ma+Quen+Duoc+Karaoke)
 - [Mo Khuc](https://www.youtube.com/results?search_query=Mo+Khuc+Karaoke)
 - [Mong Du](https://www.youtube.com/results?search_query=Mong+Du+Karaoke)
 - [Mua Thu Chet](https://www.youtube.com/results?search_query=Mua+Thu+Chet+Karaoke)
