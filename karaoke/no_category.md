@@ -44,6 +44,7 @@
 - [Gia Biet Tinh Em](https://www.youtube.com/results?search_query=Gia+Biet+Tinh+Em+Karaoke)
 - [Goi Giac Mo Xua](https://www.youtube.com/results?search_query=Goi+Giac+Mo+Xua+Karaoke)
 - [Gui Nguoi Em Gai](https://www.youtube.com/results?search_query=Gui+Nguoi+Em+Gai+Karaoke)
+- [Ha Noi Mua Vang Nhung Con Mua](https://www.youtube.com/results?search_query=Ha+Noi+Mua+Vang+Nhung+Con+Mua+Karaoke)
 - [Han Ly Huong](https://www.youtube.com/results?search_query=Han+Ly+Huong+Karaoke)
 - [Han Mac Tu](https://www.youtube.com/results?search_query=Han+Mac+Tu+Karaoke)
 - [Hinh An Nguoi Em Khong Doi](https://www.youtube.com/results?search_query=Hinh+An+Nguoi+Em+Khong+Doi+Karaoke)
