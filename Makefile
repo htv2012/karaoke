@@ -1,4 +1,6 @@
-.PHONY: generate
+.PHONY: generate add default
+
+default: add
 
 generate:
 	./bin/clean_source.py

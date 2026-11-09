@@ -110,6 +110,7 @@ Toi Se Dua Em Ve
 Trach Ai Vo Tinh
 Vi Ngot Doi Moi
 Vo Ngua Tren Doi Co Non
+Xoa Ten Nguoi Tinh
 Xuân Mien Nam
 Yeu Em
 Yeu Het Con Tim
