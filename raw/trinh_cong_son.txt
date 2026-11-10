@@ -1,78 +1,78 @@
-Ben Doi Hiu Quanh
-Bien Nho
-Biet Dau Nguon Coi
-Bon Mua Thay La
-Ca Dao Me
-Cat Bui
-Chiec La Thu Phai
-Chieu Mot Minh Qua Pho
-Cho Mot Nguoi Nam Xuong
-Co Xot Xa Dua
-Con Tuoi Nao Cho Em
-Cuoi Cung Cho Mot Tinh Yeu
-Dai Bac Ru Dem
-Dau Chan Dia Dang
-De Gio Cuon Di
-Dem Thay Ta La Thac Do
-Diem Xua
-Doa Hoa Vo Thuong
-Doi Goi Em Biet Bao Lan
-Du Muc
-Em Con Nho Hay Em Da Quen
-Em Da Cho Toi Bau Troi
-Em Di Bo Lai Con Duong
-Em Hay Ngu Di
-Gia Tai Cua Me
-Giot Nuoc Mac Cho Que Huong
-Goi Ten Bon Mua
-Hat Tren Nhung Xac Nguoi
-Hay Khoc Di Em
-Hay Song Gium Toi
-Hay Yeu Nhau Di
-Hoa Vang May Do
-Hue Sai Gon Ha Noi
-Lang Le Noi Nay
-Loi Buon Thanh
-Loi Thien Thu Goi
-Moi Ngay Toi Chon Mot Niem Vui
-Mot Coi Di Ve
-Mot Ngay Nhu Moi Ngay
-Mua Hong
-Nang Thuy Tinh
-Ngau Nhien
-Ngay Dai Tren Que Huong
-Nghe Nhung Tan Phai
-Nghe Tieng Muon Trung
-Ngu Ngon Mua Dong
-Nguoi Con Gai Viet Nam Da Vang
-Nguoi Gia Va Em Be
-Nguyet Ca
-Nhin Nhung Mua Thu Di
-Nho Mua Thu Ha Noi
-Nhu Canh Vat Bay
-Nhung Con Mat Tran Gian
-Niu Tay Nghin Trung
-O Tro
-Phoi Pha
-Phuc Am Buon
-Quynh Huong
-Roi Nhu Da Ngay Ngo
-Ru Doi Di Nhe
-Ru Em Tung Ngon Xuan Nong
-Ru Tinh
-Rung Xua Da Khep
-Ta On
-Ta Thay Gi Trong Dem Nay
-Thuong Mot Nguoi
-Tinh Nho
-Tinh Sau
-Tinh Xa
-Tinh Xot Xa Vua
-Toi Ru Em Ngu
-Tuoi Doi Menh Mong
-Uot Mi
-Van Co Em Ben Doi
-Vet Lan Tram
-Xin Mat Troi Ngu Yen
-Xin Tra No Nguoi
-Yeu Dau Tan Theo
+Ben Doi Hiu Quanh,Trinh Cong Son
+Bien Nho,Trinh Cong Son
+Biet Dau Nguon Coi,Trinh Cong Son
+Bon Mua Thay La,Trinh Cong Son
+Ca Dao Me,Trinh Cong Son
+Cat Bui,Trinh Cong Son
+Chiec La Thu Phai,Trinh Cong Son
+Chieu Mot Minh Qua Pho,Trinh Cong Son
+Cho Mot Nguoi Nam Xuong,Trinh Cong Son
+Co Xot Xa Dua,Trinh Cong Son
+Con Tuoi Nao Cho Em,Trinh Cong Son
+Cuoi Cung Cho Mot Tinh Yeu,Trinh Cong Son
+Dai Bac Ru Dem,Trinh Cong Son
+Dau Chan Dia Dang,Trinh Cong Son
+De Gio Cuon Di,Trinh Cong Son
+Dem Thay Ta La Thac Do,Trinh Cong Son
+Diem Xua,Trinh Cong Son
+Doa Hoa Vo Thuong,Trinh Cong Son
+Doi Goi Em Biet Bao Lan,Trinh Cong Son
+Du Muc,Trinh Cong Son
+Em Con Nho Hay Em Da Quen,Trinh Cong Son
+Em Da Cho Toi Bau Troi,Trinh Cong Son
+Em Di Bo Lai Con Duong,Trinh Cong Son
+Em Hay Ngu Di,Trinh Cong Son
+Gia Tai Cua Me,Trinh Cong Son
+Giot Nuoc Mac Cho Que Huong,Trinh Cong Son
+Goi Ten Bon Mua,Trinh Cong Son
+Hat Tren Nhung Xac Nguoi,Trinh Cong Son
+Hay Khoc Di Em,Trinh Cong Son
+Hay Song Gium Toi,Trinh Cong Son
+Hay Yeu Nhau Di,Trinh Cong Son
+Hoa Vang May Do,Trinh Cong Son
+Hue Sai Gon Ha Noi,Trinh Cong Son
+Lang Le Noi Nay,Trinh Cong Son
+Loi Buon Thanh,Trinh Cong Son
+Loi Thien Thu Goi,Trinh Cong Son
+Moi Ngay Toi Chon Mot Niem Vui,Trinh Cong Son
+Mot Coi Di Ve,Trinh Cong Son
+Mot Ngay Nhu Moi Ngay,Trinh Cong Son
+Mua Hong,Trinh Cong Son
+Nang Thuy Tinh,Trinh Cong Son
+Ngau Nhien,Trinh Cong Son
+Ngay Dai Tren Que Huong,Trinh Cong Son
+Nghe Nhung Tan Phai,Trinh Cong Son
+Nghe Tieng Muon Trung,Trinh Cong Son
+Ngu Ngon Mua Dong,Trinh Cong Son
+Nguoi Con Gai Viet Nam Da Vang,Trinh Cong Son
+Nguoi Gia Va Em Be,Trinh Cong Son
+Nguyet Ca,Trinh Cong Son
+Nhin Nhung Mua Thu Di,Trinh Cong Son
+Nho Mua Thu Ha Noi,Trinh Cong Son
+Nhu Canh Vat Bay,Trinh Cong Son
+Nhung Con Mat Tran Gian,Trinh Cong Son
+Niu Tay Nghin Trung,Trinh Cong Son
+O Tro,Trinh Cong Son
+Phoi Pha,Trinh Cong Son
+Phuc Am Buon,Trinh Cong Son
+Quynh Huong,Trinh Cong Son
+Roi Nhu Da Ngay Ngo,Trinh Cong Son
+Ru Doi Di Nhe,Trinh Cong Son
+Ru Em Tung Ngon Xuan Nong,Trinh Cong Son
+Ru Tinh,Trinh Cong Son
+Rung Xua Da Khep,Trinh Cong Son
+Ta On,Trinh Cong Son
+Ta Thay Gi Trong Dem Nay,Trinh Cong Son
+Thuong Mot Nguoi,Trinh Cong Son
+Tinh Nho,Trinh Cong Son
+Tinh Sau,Trinh Cong Son
+Tinh Xa,Trinh Cong Son
+Tinh Xot Xa Vua,Trinh Cong Son
+Toi Ru Em Ngu,Trinh Cong Son
+Tuoi Doi Menh Mong,Trinh Cong Son
+Uot Mi,Trinh Cong Son
+Van Co Em Ben Doi,Trinh Cong Son
+Vet Lan Tram,Trinh Cong Son
+Xin Mat Troi Ngu Yen,Trinh Cong Son
+Xin Tra No Nguoi,Trinh Cong Son
+Yeu Dau Tan Theo,Trinh Cong Son
