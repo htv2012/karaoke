@@ -5,15 +5,26 @@ import csv
 import pathlib
 
 
-def title(text: str) -> str:
-    tokens = [token.title() for token in text.split()]
-    return " ".join(tokens)
+def normalize_text(text: str) -> str:
+    """Normalize text.
+
+    - Consolidate multiple spaces
+    - Title case
+    """
+    out = (" ".join(text.split())).title()
+    return out
 
 
 def clean(filename: pathlib.Path):
+    """Clean up a raw file
+
+    - Remove duplidate
+    - Consolidate 
+    - Title case
+    """
     with open(filename) as stream:
         reader = csv.reader(stream, skipinitialspace=True)
-        rows = sorted({tuple(title(cell) for cell in row) for row in reader})
+        rows = sorted({tuple(normalize_text(cell) for cell in row) for row in reader})
 
     with open(filename, "w") as stream:
         writer = csv.writer(stream, lineterminator="\n")
