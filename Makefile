@@ -1,10 +1,12 @@
-.PHONY: generate add default
+.PHONY: generate add default clean
 
-default: add
+default: generate
 
-generate:
-	./bin/clean_source.py
+generate: clean
 	./bin/generate.py
+
+clean:
+	./bin/clean_source.py
 
 add: generate
 	git add .
