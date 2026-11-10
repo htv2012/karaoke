@@ -1,24 +1,24 @@
-Bay Di Canh Chim Bien
-Con Mua Phun
-De Quen Con Tim
-Dung Xa Em Dem Nay
-Em Di
-Hoang Vu
-Khoc Mot Giong Song
-Loi Ru Mua Dong
-Loi Yeu Thuong
-Mau Mat Nhung
-Mot Tinh Yeu
-Mua Dong Sap Den
-Mua Thu Ru Em
-Mua Xuan Trong Doi Mat Em
-Neu Xa Nhau
-Nguoi Tinh Tram Nam
-Nhu Da Dau Yeu
-Sao Van Con Mua Roi
-Thoang May Bay
-Tieng Mua Dem
-Trai Tim Nguc Tu
-Va Cont Tim Da Vui Tro Lai
-Va Toi Cung Yeu Em
-Xin Mot Ngay Mai Co Nhau
+Bay Di Canh Chim Bien,Duc Huy
+Con Mua Phun,Duc Huy
+De Quen Con Tim,Duc Huy
+Dung Xa Em Dem Nay,Duc Huy
+Em Di,Duc Huy
+Hoang Vu,Duc Huy
+Khoc Mot Giong Song,Duc Huy
+Loi Ru Mua Dong,Duc Huy
+Loi Yeu Thuong,Duc Huy
+Mau Mat Nhung,Duc Huy
+Mot Tinh Yeu,Duc Huy
+Mua Dong Sap Den,Duc Huy
+Mua Thu Ru Em,Duc Huy
+Mua Xuan Trong Doi Mat Em,Duc Huy
+Neu Xa Nhau,Duc Huy
+Nguoi Tinh Tram Nam,Duc Huy
+Nhu Da Dau Yeu,Duc Huy
+Sao Van Con Mua Roi,Duc Huy
+Thoang May Bay,Duc Huy
+Tieng Mua Dem,Duc Huy
+Trai Tim Nguc Tu,Duc Huy
+Va Cont Tim Da Vui Tro Lai,Duc Huy
+Va Toi Cung Yeu Em,Duc Huy
+Xin Mot Ngay Mai Co Nhau,Duc Huy

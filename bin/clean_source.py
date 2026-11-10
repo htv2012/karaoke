@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """Clean up the source files."""
+import csv
 import pathlib
+import logging
+
+logging.basicConfig(level="DEBUG")
+logger = logging.getLogger()
 
 
 def title(text: str) -> str:
@@ -10,20 +15,22 @@ def title(text: str) -> str:
 
 def clean(filename: pathlib.Path):
     with open(filename) as stream:
-        lines = set(title(line) for line in stream)
-        lines.discard("")
-        lines = sorted(lines)
-
+        reader = csv.reader(stream, skipinitialspace=True)
+        rows = sorted(
+            tuple(title(cell) for cell in row)
+        for row in reader
+        )
 
     with open(filename, "w") as stream:
-        stream.write("\n".join(lines))
+        writer=csv.writer(stream, lineterminator="\n")
+        writer.writerows(rows)
 
 
 def main():
     raw_dir = pathlib.Path(__file__).parent.parent / "raw"
     assert raw_dir.is_dir()
 
-    for source in raw_dir.glob("*"):
+    for source in raw_dir.glob("*.txt"):
         clean(source)
 
 

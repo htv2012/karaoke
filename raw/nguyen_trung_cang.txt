@@ -1,10 +1,10 @@
-Anh Van Biet
-Bang Khuang Chieu Noi Tru
-Buoc Tinh Hong
-Con Yeu Em Mai
-Da Khuc
-Giac Mo Qua
-Kho Tang Cua Chung Ta
-Mat Troi Den
-Phien Khuc Mua Dong
-Thuong Nhau Ngay Mua
+Anh Van Biet,Nguyen Trung Cang
+Bang Khuang Chieu Noi Tru,Nguyen Trung Cang
+Buoc Tinh Hong,Nguyen Trung Cang
+Con Yeu Em Mai,Nguyen Trung Cang
+Da Khuc,Nguyen Trung Cang
+Giac Mo Qua,Nguyen Trung Cang
+Kho Tang Cua Chung Ta,Nguyen Trung Cang
+Mat Troi Den,Nguyen Trung Cang
+Phien Khuc Mua Dong,Nguyen Trung Cang
+Thuong Nhau Ngay Mua,Nguyen Trung Cang
