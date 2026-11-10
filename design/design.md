@@ -1,11 +1,7 @@
 Each entry should have
 
-- Title
-    - Should we use Vietnamese text, or text without diacritical marks?
-- Singer gender
-    - Do we really need this field?
-- Author
-    - This is needed when songs share the same title
-- Favorite
-    - List of people who likes this
-
+- Title: Should we use Vietnamese text, or text without diacritical marks?
+- Singer gender: Do we really need this field?
+- Author: This is needed when songs share the same title
+- Favorite: List of people who likes this
+- Tags: list of tags such as "giang sinh", "xuan", "thu", ...
