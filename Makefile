@@ -6,7 +6,7 @@ generate: clean
 	./bin/generate.py
 
 clean:
-	./bin/clean_source.py
+	./bin/normalize_raw.py
 
 add: generate
 	git add .
