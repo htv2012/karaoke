@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Clean up the source files."""
+
 import csv
-import pathlib
 import logging
+import pathlib
 
 logging.basicConfig(level="DEBUG")
 logger = logging.getLogger()
@@ -16,13 +17,10 @@ def title(text: str) -> str:
 def clean(filename: pathlib.Path):
     with open(filename) as stream:
         reader = csv.reader(stream, skipinitialspace=True)
-        rows = sorted(
-            tuple(title(cell) for cell in row)
-        for row in reader
-        )
+        rows = sorted(set(tuple(title(cell) for cell in row) for row in reader))
 
     with open(filename, "w") as stream:
-        writer=csv.writer(stream, lineterminator="\n")
+        writer = csv.writer(stream, lineterminator="\n")
         writer.writerows(rows)
 
 

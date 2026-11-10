@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-import argparse
 import csv
-import fileinput
 import pathlib
 
 
@@ -9,7 +7,7 @@ def create_markdown(row: list[str]) -> str:
     if len(row) == 2:
         terms, author = row
     elif len(row) == 1:
-        terms, = row
+        (terms,) = row
         author = ""
     else:
         raise ValueError(f"Invalid row: {row}")
@@ -22,8 +20,8 @@ def create_markdown(row: list[str]) -> str:
 
 
 def generate(source, dest):
-    title = ' '.join(token.title() for token in source.stem.split("_"))
-    with open(source) as ins, open(dest, 'w') as outs:
+    title = " ".join(token.title() for token in source.stem.split("_"))
+    with open(source) as ins, open(dest, "w") as outs:
         outs.write(f"# {title}\n\n")
         outs.write("| Title | Writer |\n")
         outs.write("| --- | --- |\n")
@@ -32,6 +30,7 @@ def generate(source, dest):
         for row in reader:
             md = create_markdown(row)
             outs.write(md)
+
 
 def main():
     """Entry"""
@@ -42,7 +41,6 @@ def main():
     for source in raw_dir.glob("*.txt"):
         dest = dest_dir / f"{source.stem}.md"
         generate(source, dest)
-
 
 
 if __name__ == "__main__":
