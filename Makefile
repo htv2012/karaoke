@@ -1,14 +1,25 @@
-.PHONY: generate add default clean
+.PHONY: generate add default clean check
 
-default: generate
+default: check generate
 
 generate: clean
 	./bin/generate.py
 
 clean:
-	./bin/clean_source.py
+	./bin/normalize_raw.py
+
+check:
+	uv tool run ruff format bin/g*.py
+	uv tool run ruff check --select I --fix bin/g*.py
+	uv tool run ruff check --fix bin/g*.py
+	uv tool run ty check bin/g*.py
+	#uv tool run ruff format bin/*.py
+	#uv tool run ruff check --select I --fix bin/*.py
+	#uv tool run ruff check --fix bin/*.py
+	#uv tool run ty check bin/*.py
 
 add: generate
 	git add .
 	git commit -m "Add songs"
 	git push
+
