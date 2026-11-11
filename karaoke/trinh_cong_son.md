@@ -8,7 +8,7 @@
 | [Bon Mua Thay La](https://www.youtube.com/results?search_query=Bon+Mua+Thay+La+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Ca Dao Me](https://www.youtube.com/results?search_query=Ca+Dao+Me+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Cat Bui](https://www.youtube.com/results?search_query=Cat+Bui+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
-| [Chiec La Thu Phai](https://www.youtube.com/results?search_query=Chiec+La+Thu+Phai+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) | [thu](thu.md) |
+| [Chiec La Thu Phai](https://www.youtube.com/results?search_query=Chiec+La+Thu+Phai+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) | [mua thu](mua_thu.md) |
 | [Chieu Mot Minh Qua Pho](https://www.youtube.com/results?search_query=Chieu+Mot+Minh+Qua+Pho+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Cho Mot Nguoi Nam Xuong](https://www.youtube.com/results?search_query=Cho+Mot+Nguoi+Nam+Xuong+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Co Xot Xa Dua](https://www.youtube.com/results?search_query=Co+Xot+Xa+Dua+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
@@ -51,8 +51,8 @@
 | [Nguoi Con Gai Viet Nam Da Vang](https://www.youtube.com/results?search_query=Nguoi+Con+Gai+Viet+Nam+Da+Vang+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Nguoi Gia Va Em Be](https://www.youtube.com/results?search_query=Nguoi+Gia+Va+Em+Be+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Nguyet Ca](https://www.youtube.com/results?search_query=Nguyet+Ca+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
-| [Nhin Nhung Mua Thu Di](https://www.youtube.com/results?search_query=Nhin+Nhung+Mua+Thu+Di+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) | [thu](thu.md) |
-| [Nho Mua Thu Ha Noi](https://www.youtube.com/results?search_query=Nho+Mua+Thu+Ha+Noi+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) | [thu](thu.md) |
+| [Nhin Nhung Mua Thu Di](https://www.youtube.com/results?search_query=Nhin+Nhung+Mua+Thu+Di+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) | [mua thu](mua_thu.md) |
+| [Nho Mua Thu Ha Noi](https://www.youtube.com/results?search_query=Nho+Mua+Thu+Ha+Noi+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) | [mua thu](mua_thu.md) |
 | [Nhu Canh Vat Bay](https://www.youtube.com/results?search_query=Nhu+Canh+Vat+Bay+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Nhung Con Mat Tran Gian](https://www.youtube.com/results?search_query=Nhung+Con+Mat+Tran+Gian+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Niu Tay Nghin Trung](https://www.youtube.com/results?search_query=Niu+Tay+Nghin+Trung+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
@@ -62,7 +62,7 @@
 | [Quynh Huong](https://www.youtube.com/results?search_query=Quynh+Huong+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Roi Nhu Da Ngay Ngo](https://www.youtube.com/results?search_query=Roi+Nhu+Da+Ngay+Ngo+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Ru Doi Di Nhe](https://www.youtube.com/results?search_query=Ru+Doi+Di+Nhe+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
-| [Ru Em Tung Ngon Xuan Nong](https://www.youtube.com/results?search_query=Ru+Em+Tung+Ngon+Xuan+Nong+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) | [xuan](xuan.md) |
+| [Ru Em Tung Ngon Xuan Nong](https://www.youtube.com/results?search_query=Ru+Em+Tung+Ngon+Xuan+Nong+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) | [mua xuan](mua_xuan.md) |
 | [Ru Tinh](https://www.youtube.com/results?search_query=Ru+Tinh+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Rung Xua Da Khep](https://www.youtube.com/results?search_query=Rung+Xua+Da+Khep+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Ta On](https://www.youtube.com/results?search_query=Ta+On+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |

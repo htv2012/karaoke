@@ -14,8 +14,8 @@
 | [Mau Mat Nhung](https://www.youtube.com/results?search_query=Mau+Mat+Nhung+Karaoke) | [Duc Huy](duc_huy.md) |  |
 | [Mot Tinh Yeu](https://www.youtube.com/results?search_query=Mot+Tinh+Yeu+Karaoke) | [Duc Huy](duc_huy.md) |  |
 | [Mua Dong Sap Den](https://www.youtube.com/results?search_query=Mua+Dong+Sap+Den+Karaoke) | [Duc Huy](duc_huy.md) |  |
-| [Mua Thu Ru Em](https://www.youtube.com/results?search_query=Mua+Thu+Ru+Em+Karaoke) | [Duc Huy](duc_huy.md) | [thu](thu.md) |
-| [Mua Xuan Trong Doi Mat Em](https://www.youtube.com/results?search_query=Mua+Xuan+Trong+Doi+Mat+Em+Karaoke) | [Duc Huy](duc_huy.md) | [xuan](xuan.md) |
+| [Mua Thu Ru Em](https://www.youtube.com/results?search_query=Mua+Thu+Ru+Em+Karaoke) | [Duc Huy](duc_huy.md) | [mua thu](mua_thu.md) |
+| [Mua Xuan Trong Doi Mat Em](https://www.youtube.com/results?search_query=Mua+Xuan+Trong+Doi+Mat+Em+Karaoke) | [Duc Huy](duc_huy.md) | [mua xuan](mua_xuan.md) |
 | [Neu Xa Nhau](https://www.youtube.com/results?search_query=Neu+Xa+Nhau+Karaoke) | [Duc Huy](duc_huy.md) |  |
 | [Nguoi Tinh Tram Nam](https://www.youtube.com/results?search_query=Nguoi+Tinh+Tram+Nam+Karaoke) | [Duc Huy](duc_huy.md) |  |
 | [Nhu Da Dau Yeu](https://www.youtube.com/results?search_query=Nhu+Da+Dau+Yeu+Karaoke) | [Duc Huy](duc_huy.md) |  |
