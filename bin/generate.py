@@ -75,7 +75,7 @@ def main():
     generate("Favorite Karaoke Songs", entries, dest_dir / "all.md")
 
     # Authors
-    authors = {entry.author for entry in entries}
+    authors = {entry.author for entry in entries if entry.author}
     for author in authors:
         found = [entry for entry in entries if entry.author == author]
         filename = author.replace(" ", "_").lower() + ".md"
