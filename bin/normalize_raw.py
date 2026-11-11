@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Normalize raw.txt
+Normalize raw.csv
 - Make it a real CSV by adding missing author field
 """
 
@@ -20,7 +20,7 @@ def normalize_row(row: list[str]) -> tuple[str]:
 
 
 def main():
-    with open("raw.txt") as stream:
+    with open("raw.csv") as stream:
         seen = set()
         rows = []
         reader = csv.reader(stream)
@@ -31,7 +31,7 @@ def main():
                 bisect.insort(rows, row)
             seen.add(row)
 
-    with open("raw.txt", "w") as stream:
+    with open("raw.csv", "w") as stream:
         writer = csv.writer(stream, lineterminator="\n")
         writer.writerows(rows)
 

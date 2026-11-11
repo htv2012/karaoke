@@ -68,7 +68,7 @@ def main():
     dest_dir = pathlib.Path(__file__).parent.parent / "karaoke"
     dest_dir.mkdir(exist_ok=True)
 
-    with open("raw.txt") as stream:
+    with open("raw.csv") as stream:
         reader = csv.reader(stream, skipinitialspace=True)
         entries = [Entry(*row) for row in reader]
 
