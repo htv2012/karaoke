@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Normalize raw.csv
-- Make it a real CSV by adding missing author field
+- Make it a real CSV by adding missing author and tags field
 """
 
 import bisect
