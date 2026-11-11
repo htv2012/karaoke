@@ -69,7 +69,7 @@ def main():
     dest_dir.mkdir(exist_ok=True)
 
     with open("raw.txt") as stream:
-        reader = csv.reader(stream)
+        reader = csv.reader(stream, skipinitialspace=True)
         entries = [Entry(*row) for row in reader]
 
     generate("Favorite Karaoke Songs", entries, dest_dir / "all.md")

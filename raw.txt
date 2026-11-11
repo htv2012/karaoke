@@ -1,7 +1,7 @@
 Ai Len Xu Hoa Dao,,xuan
 Anh Cho Em Mua Xuan,,xuan
 Anh Da Quen Mua Thu,,thu
-Anh Phai Lam Sao,,
+Anh Phai Lam Sao,Minh Khang,
 Anh Sao Dem,,giang sinh
 Anh Trang Xua,Hoang Trong,
 Anh Van Biet,Nguyen Trung Cang,
@@ -10,7 +10,6 @@ Ao Anh Sut Chi Duong Ta,Pham Duy,
 Ao Lua Ha Dong,Ngo Thuy Mien,
 Ba Me Gio Linh,Pham Duy,
 Ba Me Que,Pham Duy,
-Ba Mua Mua,,
 Bai Ca Hanh Ngo,Le Uyen Phuong,
 Bai Ngoi Ca Tinh Yeu,Pham Duy,
 Bai Thanh Ca Buon,,giang sinh
@@ -64,6 +63,7 @@ Chieu Tren Pha Tam Giang,,
 Chieu Ve Tren Song,Pham Duy,
 Chieu Xuan,,xuan
 Cho Dong,,
+Cho Em Ngay Nang Xanh, Quoc Bao,
 Cho Ky Niem Mua Dong,,
 Cho Lan Cuoi,Le Uyen Phuong,
 Cho Mot Nguoi Nam Xuong,Trinh Cong Son,
@@ -75,6 +75,7 @@ Chu Cuoi,Pham Duy,
 Chu Nhat Tuoi Hong,Pham Duy,
 Chuc Xuan Thanh Son,,xuan
 Chuong Ngan Vang,,giang sinh
+Chuyen Ba Mua Mua,,
 Chuyen Tinh Buon,Pham Duy,
 Co Bac Ky Nho Nho,Pham Duy,
 Co Bao Gio Em Hoi,Pham Duy,
@@ -91,6 +92,7 @@ Con Gi Nua Dau,Pham Duy,
 Con Mua Phun,Duc Huy,
 Con Nang Tren Doi,Le Uyen Phuong,
 Con Quy Lay Chua Tren Troi,Pham Duy,
+Con Ta Voi Nong Nan,Quoc Bao,
 Con Tinh Ta Di,Pham Duy,
 Con Tuoi Nao Cho Em,Trinh Cong Son,
 Con Yeu Em Mai,Nguyen Trung Cang,
@@ -164,6 +166,7 @@ Em Toi,,
 Em Ve Mua Thu,Ngo Thuy Mien,thu
 Em Ve Nao Co Hay,Hoang Trong Thuy,
 Em Ve Tinh Khoi,,
+Em Ve Tinh Khoi, Quoc Bao,
 Gai Xuan,,xuan
 Ganh Lua,Pham Duy,
 Gia Biet Tinh Em,,
