@@ -31,7 +31,7 @@ def main():
                 bisect.insort(rows, row)
             seen.add(row)
 
-    with open('raw.txt', 'w') as stream:
+    with open("raw.txt", "w") as stream:
         writer = csv.writer(stream, lineterminator="\n")
         writer.writerows(rows)
 
