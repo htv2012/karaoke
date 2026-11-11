@@ -239,7 +239,7 @@
 | [La Thu Tran The](https://www.youtube.com/results?search_query=La+Thu+Tran+The+Karaoke) |  |  |
 | [Lam Sao Ma Quen Duoc](https://www.youtube.com/results?search_query=Lam+Sao+Ma+Quen+Duoc+Karaoke) | [Pham Duy](pham_duy.md) |  |
 | [Lan Dau Lan Cuoi](https://www.youtube.com/results?search_query=Lan+Dau+Lan+Cuoi+Karaoke) |  |  |
-| [Lang Dang Chieu Dong Ha Noi](https://www.youtube.com/results?search_query=Lang+Dang+Chieu+Dong+Ha+Noi+Karaoke) | [Phu Quang](phu_quang.md) |  |
+| [Lang Dang Chieu Dong Ha Noi](https://www.youtube.com/results?search_query=Lang+Dang+Chieu+Dong+Ha+Noi+Karaoke) | [Phu Quang](phu_quang.md) | [mua dong](mua_dong.md) |
 | [Lang Le Noi Nay](https://www.youtube.com/results?search_query=Lang+Le+Noi+Nay+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Lau Roi Co Phoi Pha](https://www.youtube.com/results?search_query=Lau+Roi+Co+Phoi+Pha+Karaoke) |  |  |
 | [Loi Buon Thanh](https://www.youtube.com/results?search_query=Loi+Buon+Thanh+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
@@ -351,7 +351,7 @@
 | [Noi Buon](https://www.youtube.com/results?search_query=Noi+Buon+Karaoke) | [Van Phung](van_phung.md) |  |
 | [Noi Buon Dang Hien](https://www.youtube.com/results?search_query=Noi+Buon+Dang+Hien+Karaoke) | [Le Uyen Phuong](le_uyen_phuong.md) |  |
 | [Noi Dau Muon Mang](https://www.youtube.com/results?search_query=Noi+Dau+Muon+Mang+Karaoke) | [Ngo Thuy Mien](ngo_thuy_mien.md) |  |
-| [Noi Nho Mua Dong](https://www.youtube.com/results?search_query=Noi+Nho+Mua+Dong+Karaoke) | [Phu Quang](phu_quang.md) |  |
+| [Noi Nho Mua Dong](https://www.youtube.com/results?search_query=Noi+Nho+Mua+Dong+Karaoke) | [Phu Quang](phu_quang.md) | [mua dong](mua_dong.md) |
 | [Noi Voi Toi Mot Loi](https://www.youtube.com/results?search_query=Noi+Voi+Toi+Mot+Loi+Karaoke) | [Dieu Huong](dieu_huong.md) |  |
 | [Nu Tam Xuan](https://www.youtube.com/results?search_query=Nu+Tam+Xuan+Karaoke) | [Pham Duy](pham_duy.md) | [mua xuan](mua_xuan.md) |
 | [Nua Dem Khan Hua](https://www.youtube.com/results?search_query=Nua+Dem+Khan+Hua+Karaoke) |  |  |
