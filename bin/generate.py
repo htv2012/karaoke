@@ -47,14 +47,7 @@ class Entry:
         return f"[{text}]({url})"
 
 
-def create_markdown(*args):
-    pass
-
-
-def generate(doc_title: str, entries: list[Entry], dest, predicate=None):
-    if predicate is not None:
-        entries = [entry for entry in entries if predicate(entry)]
-
+def generate(doc_title: str, entries: list[Entry], dest):
     if not entries:
         return
 
@@ -75,6 +68,13 @@ def main():
         entries = [Entry(*row) for row in reader]
 
     generate("Favorite Karaoke Songs", entries, dest_dir / "all.md")
+
+    # Authors
+    authors = {entry.author for entry in entries}
+    for author in authors:
+        found = [entry for entry in entries if entry.author == author]
+        filename = author.replace(" ", "_").lower() + ".md"
+        generate(author, found, dest_dir / filename)
 
 
 if __name__ == "__main__":

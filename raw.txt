@@ -1,4 +1,4 @@
-Ai Len Xu Hoa Dao,,
+Ai Len Xu Hoa Dao,,xuan
 Anh Cho Em Mua Xuan,,xuan
 Anh Da Quen Mua Thu,,thu
 Anh Phai Lam Sao,,
@@ -15,7 +15,7 @@ Bai Ca Hanh Ngo,Le Uyen Phuong,
 Bai Ngoi Ca Tinh Yeu,Pham Duy,
 Bai Thanh Ca Buon,,giang sinh
 Bai Tinh Ca Cho Em,Ngo Thuy Mien,
-Bai Tinh Ca Mua Dong,Tram Tu Thieng,
+Bai Tinh Ca Mua Dong,Tram Tu Thieng,dong
 Ban Tinh Cuoi,Ngo Thuy Mien,
 Bang Khuang Chieu Noi Tru,Nguyen Trung Cang,
 Bao Gio Biet Tuong Tu,Pham Duy,

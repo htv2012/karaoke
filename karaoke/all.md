@@ -2,7 +2,7 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Ai Len Xu Hoa Dao](https://www.youtube.com/results?search_query=Ai+Len+Xu+Hoa+Dao+Karaoke) |  |  |
+| [Ai Len Xu Hoa Dao](https://www.youtube.com/results?search_query=Ai+Len+Xu+Hoa+Dao+Karaoke) |  | [xuan](xuan.md) |
 | [Anh Cho Em Mua Xuan](https://www.youtube.com/results?search_query=Anh+Cho+Em+Mua+Xuan+Karaoke) |  | [xuan](xuan.md) |
 | [Anh Da Quen Mua Thu](https://www.youtube.com/results?search_query=Anh+Da+Quen+Mua+Thu+Karaoke) |  | [thu](thu.md) |
 | [Anh Phai Lam Sao](https://www.youtube.com/results?search_query=Anh+Phai+Lam+Sao+Karaoke) |  |  |
@@ -19,7 +19,7 @@
 | [Bai Ngoi Ca Tinh Yeu](https://www.youtube.com/results?search_query=Bai+Ngoi+Ca+Tinh+Yeu+Karaoke) | [Pham Duy](pham_duy.md) |  |
 | [Bai Thanh Ca Buon](https://www.youtube.com/results?search_query=Bai+Thanh+Ca+Buon+Karaoke) |  | [giang sinh](giang_sinh.md) |
 | [Bai Tinh Ca Cho Em](https://www.youtube.com/results?search_query=Bai+Tinh+Ca+Cho+Em+Karaoke) | [Ngo Thuy Mien](ngo_thuy_mien.md) |  |
-| [Bai Tinh Ca Mua Dong](https://www.youtube.com/results?search_query=Bai+Tinh+Ca+Mua+Dong+Karaoke) | [Tram Tu Thieng](tram_tu_thieng.md) |  |
+| [Bai Tinh Ca Mua Dong](https://www.youtube.com/results?search_query=Bai+Tinh+Ca+Mua+Dong+Karaoke) | [Tram Tu Thieng](tram_tu_thieng.md) | [dong](dong.md) |
 | [Ban Tinh Cuoi](https://www.youtube.com/results?search_query=Ban+Tinh+Cuoi+Karaoke) | [Ngo Thuy Mien](ngo_thuy_mien.md) |  |
 | [Bang Khuang Chieu Noi Tru](https://www.youtube.com/results?search_query=Bang+Khuang+Chieu+Noi+Tru+Karaoke) | [Nguyen Trung Cang](nguyen_trung_cang.md) |  |
 | [Bao Gio Biet Tuong Tu](https://www.youtube.com/results?search_query=Bao+Gio+Biet+Tuong+Tu+Karaoke) | [Pham Duy](pham_duy.md) |  |
