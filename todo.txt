@@ -1,2 +1,0 @@
-- Make author clickable
-- Generate a single md file, along with individual ones
