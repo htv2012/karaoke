@@ -51,6 +51,7 @@
 | [Cay Dan Bo Quen](https://www.youtube.com/results?search_query=Cay+Dan+Bo+Quen+Karaoke) | [Pham Duy](pham_duy.md) |  |
 | [Chi Chung Do Thoi](https://www.youtube.com/results?search_query=Chi+Chung+Do+Thoi+Karaoke) | [Pham Duy](pham_duy.md) |  |
 | [Chi Co Mot Nguoi](https://www.youtube.com/results?search_query=Chi+Co+Mot+Nguoi+Karaoke) |  |  |
+| [Chiec La Cuoi Cung](https://www.youtube.com/results?search_query=Chiec+La+Cuoi+Cung+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [tien chien](tien_chien.md) |
 | [Chiec La Mua Dong](https://www.youtube.com/results?search_query=Chiec+La+Mua+Dong+Karaoke) |  |  |
 | [Chiec La Thu Phai](https://www.youtube.com/results?search_query=Chiec+La+Thu+Phai+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) | [mua thu](mua_thu.md) |
 | [Chien Si Vo Danh](https://www.youtube.com/results?search_query=Chien+Si+Vo+Danh+Karaoke) | [Pham Duy](pham_duy.md) |  |
@@ -80,6 +81,7 @@
 | [Chuc Xuan Thanh Son](https://www.youtube.com/results?search_query=Chuc+Xuan+Thanh+Son+Karaoke) |  | [mua xuan](mua_xuan.md) |
 | [Chuong Ngan Vang](https://www.youtube.com/results?search_query=Chuong+Ngan+Vang+Karaoke) |  | [giang sinh](giang_sinh.md) |
 | [Chuyen Ba Mua Mua](https://www.youtube.com/results?search_query=Chuyen+Ba+Mua+Mua+Karaoke) |  |  |
+| [Chuyen Ben](https://www.youtube.com/results?search_query=Chuyen+Ben+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [tien chien](tien_chien.md) |
 | [Chuyen Tinh Buon](https://www.youtube.com/results?search_query=Chuyen+Tinh+Buon+Karaoke) | [Pham Duy](pham_duy.md) |  |
 | [Co Bac Ky Nho Nho](https://www.youtube.com/results?search_query=Co+Bac+Ky+Nho+Nho+Karaoke) | [Pham Duy](pham_duy.md) |  |
 | [Co Bao Gio Em Hoi](https://www.youtube.com/results?search_query=Co+Bao+Gio+Em+Hoi+Karaoke) | [Pham Duy](pham_duy.md) |  |
@@ -189,6 +191,7 @@
 | [Goi Giac Mo Xua](https://www.youtube.com/results?search_query=Goi+Giac+Mo+Xua+Karaoke) |  |  |
 | [Goi Ten Bon Mua](https://www.youtube.com/results?search_query=Goi+Ten+Bon+Mua+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Gui Gio Cho May Ngan Bay](https://www.youtube.com/results?search_query=Gui+Gio+Cho+May+Ngan+Bay+Karaoke) |  |  |
+| [Gui Gio Cho May Ngan Bay](https://www.youtube.com/results?search_query=Gui+Gio+Cho+May+Ngan+Bay+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [tien chien](tien_chien.md) |
 | [Gui Nguoi Em Gai](https://www.youtube.com/results?search_query=Gui+Nguoi+Em+Gai+Karaoke) |  |  |
 | [Gui Toi Em](https://www.youtube.com/results?search_query=Gui+Toi+Em+Karaoke) | [Pham Duy](pham_duy.md) |  |
 | [Ha Hong](https://www.youtube.com/results?search_query=Ha+Hong+Karaoke) | [Pham Duy](pham_duy.md) |  |
@@ -235,7 +238,9 @@
 | [Kiep Ve Sau](https://www.youtube.com/results?search_query=Kiep+Ve+Sau+Karaoke) |  |  |
 | [Ky Niem](https://www.youtube.com/results?search_query=Ky+Niem+Karaoke) | [Pham Duy](pham_duy.md) |  |
 | [Ky Vat Cho Em](https://www.youtube.com/results?search_query=Ky+Vat+Cho+Em+Karaoke) | [Pham Duy](pham_duy.md) |  |
+| [La Do Muon Chieu](https://www.youtube.com/results?search_query=La+Do+Muon+Chieu+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [tien chien](tien_chien.md) |
 | [La Thu](https://www.youtube.com/results?search_query=La+Thu+Karaoke) |  |  |
+| [La Thu](https://www.youtube.com/results?search_query=La+Thu+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [tien chien](tien_chien.md) |
 | [La Thu Tran The](https://www.youtube.com/results?search_query=La+Thu+Tran+The+Karaoke) |  |  |
 | [Lam Sao Ma Quen Duoc](https://www.youtube.com/results?search_query=Lam+Sao+Ma+Quen+Duoc+Karaoke) | [Pham Duy](pham_duy.md) |  |
 | [Lan Dau Lan Cuoi](https://www.youtube.com/results?search_query=Lan+Dau+Lan+Cuoi+Karaoke) |  |  |
@@ -384,7 +389,7 @@
 | [Sang Ngang](https://www.youtube.com/results?search_query=Sang+Ngang+Karaoke) | [Do Le](do_le.md) |  |
 | [Sao Van Con Mua Roi](https://www.youtube.com/results?search_query=Sao+Van+Con+Mua+Roi+Karaoke) | [Duc Huy](duc_huy.md) |  |
 | [Ta Ao Dem Noel](https://www.youtube.com/results?search_query=Ta+Ao+Dem+Noel+Karaoke) |  | [giang sinh](giang_sinh.md) |
-| [Ta Ao Xanh](https://www.youtube.com/results?search_query=Ta+Ao+Xanh+Karaoke) |  |  |
+| [Ta Ao Xanh](https://www.youtube.com/results?search_query=Ta+Ao+Xanh+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [tien chien](tien_chien.md) |
 | [Ta On](https://www.youtube.com/results?search_query=Ta+On+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Ta Thay Gi Trong Dem Nay](https://www.youtube.com/results?search_query=Ta+Thay+Gi+Trong+Dem+Nay+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Tan Vo](https://www.youtube.com/results?search_query=Tan+Vo+Karaoke) |  |  |
@@ -395,6 +400,7 @@
 | [Thu Ca](https://www.youtube.com/results?search_query=Thu+Ca+Karaoke) |  | [mua thu](mua_thu.md) |
 | [Thu Khoc Tren Ngan](https://www.youtube.com/results?search_query=Thu+Khoc+Tren+Ngan+Karaoke) | [Ngo Thuy Mien](ngo_thuy_mien.md) | [mua thu](mua_thu.md) |
 | [Thu Quyen Ru](https://www.youtube.com/results?search_query=Thu+Quyen+Ru+Karaoke) |  | [mua thu](mua_thu.md) |
+| [Thu Quyen Ru](https://www.youtube.com/results?search_query=Thu+Quyen+Ru+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [mua thu](mua_thu.md) [tien chien](tien_chien.md) |
 | [Thu Sau](https://www.youtube.com/results?search_query=Thu+Sau+Karaoke) |  | [mua thu](mua_thu.md) |
 | [Thu Vang](https://www.youtube.com/results?search_query=Thu+Vang+Karaoke) |  | [mua thu](mua_thu.md) |
 | [Thu Ve Trong Mat Em](https://www.youtube.com/results?search_query=Thu+Ve+Trong+Mat+Em+Karaoke) | [Ngo Thuy Mien](ngo_thuy_mien.md) | [mua thu](mua_thu.md) |
@@ -431,6 +437,7 @@
 | [Tinh Khuc Thang Sau](https://www.youtube.com/results?search_query=Tinh+Khuc+Thang+Sau+Karaoke) | [Ngo Thuy Mien](ngo_thuy_mien.md) |  |
 | [Tinh Ky Nu](https://www.youtube.com/results?search_query=Tinh+Ky+Nu+Karaoke) | [Pham Duy](pham_duy.md) |  |
 | [Tinh Nghe Si](https://www.youtube.com/results?search_query=Tinh+Nghe+Si+Karaoke) |  |  |
+| [Tinh Nghe Si](https://www.youtube.com/results?search_query=Tinh+Nghe+Si+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [tien chien](tien_chien.md) |
 | [Tinh Nguoi Ngoai Dao](https://www.youtube.com/results?search_query=Tinh+Nguoi+Ngoai+Dao+Karaoke) |  |  |
 | [Tinh Nho](https://www.youtube.com/results?search_query=Tinh+Nho+Karaoke) | [Trinh Cong Son](trinh_cong_son.md) |  |
 | [Tinh Nong](https://www.youtube.com/results?search_query=Tinh+Nong+Karaoke) |  |  |
