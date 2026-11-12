@@ -31,7 +31,6 @@
 | [Nuoc Mat Mua Thu](https://www.youtube.com/results?search_query=Nuoc+Mat+Mua+Thu+Karaoke) | [Pham Duy](pham_duy.md) | [mua thu](mua_thu.md) |
 | [Thu Ca](https://www.youtube.com/results?search_query=Thu+Ca+Karaoke) |  | [mua thu](mua_thu.md) |
 | [Thu Khoc Tren Ngan](https://www.youtube.com/results?search_query=Thu+Khoc+Tren+Ngan+Karaoke) | [Ngo Thuy Mien](ngo_thuy_mien.md) | [mua thu](mua_thu.md) |
-| [Thu Quyen Ru](https://www.youtube.com/results?search_query=Thu+Quyen+Ru+Karaoke) |  | [mua thu](mua_thu.md) |
 | [Thu Quyen Ru](https://www.youtube.com/results?search_query=Thu+Quyen+Ru+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [mua thu](mua_thu.md) [tien chien](tien_chien.md) |
 | [Thu Sau](https://www.youtube.com/results?search_query=Thu+Sau+Karaoke) |  | [mua thu](mua_thu.md) |
 | [Thu Vang](https://www.youtube.com/results?search_query=Thu+Vang+Karaoke) |  | [mua thu](mua_thu.md) |

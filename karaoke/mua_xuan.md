@@ -2,12 +2,14 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Ai Len Xu Hoa Dao](https://www.youtube.com/results?search_query=Ai+Len+Xu+Hoa+Dao+Karaoke) |  | [mua xuan](mua_xuan.md) |
-| [Anh Cho Em Mua Xuan](https://www.youtube.com/results?search_query=Anh+Cho+Em+Mua+Xuan+Karaoke) |  | [mua xuan](mua_xuan.md) |
+| [Ai Len Xu Hoa Dao](https://www.youtube.com/results?search_query=Ai+Len+Xu+Hoa+Dao+Karaoke) | [Hoang Nguyen](hoang_nguyen.md) | [mua xuan](mua_xuan.md) |
+| [Anh Cho Em Mua Xuan](https://www.youtube.com/results?search_query=Anh+Cho+Em+Mua+Xuan+Karaoke) | [NguyễN HiềN](nguyễn_hiền.md) | [mua xuan](mua_xuan.md) |
+| [Bai Tho Hoa Dao](https://www.youtube.com/results?search_query=Bai+Tho+Hoa+Dao+Karaoke) | [Hoang Nguyen](hoang_nguyen.md) | [mua xuan](mua_xuan.md) |
 | [Ben Xuan](https://www.youtube.com/results?search_query=Ben+Xuan+Karaoke) | [Pham Duy](pham_duy.md) | [mua xuan](mua_xuan.md) |
 | [Canh Buom Vuon Xuan](https://www.youtube.com/results?search_query=Canh+Buom+Vuon+Xuan+Karaoke) |  | [mua xuan](mua_xuan.md) |
 | [Canh Thiep Dau Xuan](https://www.youtube.com/results?search_query=Canh+Thiep+Dau+Xuan+Karaoke) |  | [mua xuan](mua_xuan.md) |
 | [Chieu Xuan](https://www.youtube.com/results?search_query=Chieu+Xuan+Karaoke) |  | [mua xuan](mua_xuan.md) |
+| [Cho Nguoi Tinh Lo](https://www.youtube.com/results?search_query=Cho+Nguoi+Tinh+Lo+Karaoke) | [Hoang Nguyen](hoang_nguyen.md) | [mua xuan](mua_xuan.md) |
 | [Chuc Xuan Thanh Son](https://www.youtube.com/results?search_query=Chuc+Xuan+Thanh+Son+Karaoke) |  | [mua xuan](mua_xuan.md) |
 | [Co Gai Xuan Thi](https://www.youtube.com/results?search_query=Co+Gai+Xuan+Thi+Karaoke) |  | [mua xuan](mua_xuan.md) |
 | [Dem Xuan](https://www.youtube.com/results?search_query=Dem+Xuan+Karaoke) | [Pham Duy](pham_duy.md) | [mua xuan](mua_xuan.md) |
@@ -16,6 +18,7 @@
 | [Don Vang Chieu Xuan](https://www.youtube.com/results?search_query=Don+Vang+Chieu+Xuan+Karaoke) |  | [mua xuan](mua_xuan.md) |
 | [Don Xuan](https://www.youtube.com/results?search_query=Don+Xuan+Karaoke) |  | [mua xuan](mua_xuan.md) |
 | [Don Xuan Nay Nho Xuan Xua](https://www.youtube.com/results?search_query=Don+Xuan+Nay+Nho+Xuan+Xua+Karaoke) |  | [mua xuan](mua_xuan.md) |
+| [Duong Nao Le Thien Thai](https://www.youtube.com/results?search_query=Duong+Nao+Le+Thien+Thai+Karaoke) | [Hoang Nguyen](hoang_nguyen.md) | [mua xuan](mua_xuan.md) |
 | [Em Con Nho Mua Xuan](https://www.youtube.com/results?search_query=Em+Con+Nho+Mua+Xuan+Karaoke) | [Ngo Thuy Mien](ngo_thuy_mien.md) | [mua xuan](mua_xuan.md) |
 | [Gai Xuan](https://www.youtube.com/results?search_query=Gai+Xuan+Karaoke) |  | [mua xuan](mua_xuan.md) |
 | [Hoa Xuan](https://www.youtube.com/results?search_query=Hoa+Xuan+Karaoke) | [Pham Duy](pham_duy.md) | [mua xuan](mua_xuan.md) |
