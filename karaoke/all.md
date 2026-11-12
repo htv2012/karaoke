@@ -399,8 +399,8 @@
 | [Thoi](https://www.youtube.com/results?search_query=Thoi+Karaoke) | [Y Van](y_van.md) |  |
 | [Thu Ca](https://www.youtube.com/results?search_query=Thu+Ca+Karaoke) |  | [mua thu](mua_thu.md) |
 | [Thu Khoc Tren Ngan](https://www.youtube.com/results?search_query=Thu+Khoc+Tren+Ngan+Karaoke) | [Ngo Thuy Mien](ngo_thuy_mien.md) | [mua thu](mua_thu.md) |
-| [Thu Quuyen Ru](https://www.youtube.com/results?search_query=Thu+Quuyen+Ru+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [thu](thu.md) [tien chien](tien_chien.md) |
 | [Thu Quyen Ru](https://www.youtube.com/results?search_query=Thu+Quyen+Ru+Karaoke) |  | [mua thu](mua_thu.md) |
+| [Thu Quyen Ru](https://www.youtube.com/results?search_query=Thu+Quyen+Ru+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [mua thu](mua_thu.md) [tien chien](tien_chien.md) |
 | [Thu Sau](https://www.youtube.com/results?search_query=Thu+Sau+Karaoke) |  | [mua thu](mua_thu.md) |
 | [Thu Vang](https://www.youtube.com/results?search_query=Thu+Vang+Karaoke) |  | [mua thu](mua_thu.md) |
 | [Thu Ve Trong Mat Em](https://www.youtube.com/results?search_query=Thu+Ve+Trong+Mat+Em+Karaoke) | [Ngo Thuy Mien](ngo_thuy_mien.md) | [mua thu](mua_thu.md) |
