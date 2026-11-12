@@ -2,7 +2,7 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Chiec La Cuoi Cung](https://www.youtube.com/results?search_query=Chiec+La+Cuoi+Cung+Karaoke) | [TuấN Khanh](tuấn_khanh.md) | [tiền chiến](tiền_chiến.md) |
+| [Chiec La Cuoi Cung](https://www.youtube.com/results?search_query=Chiec+La+Cuoi+Cung+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) | [tiền chiến](tiền_chiến.md) |
 | [Chuyen Ben](https://www.youtube.com/results?search_query=Chuyen+Ben+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [tiền chiến](tiền_chiến.md) |
 | [Gui Gio Cho May Ngan Bay](https://www.youtube.com/results?search_query=Gui+Gio+Cho+May+Ngan+Bay+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [tiền chiến](tiền_chiến.md) |
 | [La Do Muon Chieu](https://www.youtube.com/results?search_query=La+Do+Muon+Chieu+Karaoke) | [Doan Chuan](doan_chuan.md) [Tu Linh](tu_linh.md) | [tiền chiến](tiền_chiến.md) |

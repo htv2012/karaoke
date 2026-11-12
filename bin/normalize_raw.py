@@ -8,6 +8,23 @@ import bisect
 import csv
 
 
+def title_word(word: str) -> str:
+    """Specialize version of str.title(), which handles Vietnamese words correctly."""
+    return word[0].title() + word[1:].lower()
+
+def title_case(text: str) -> str:
+    """Handle Vietnamese text, separator (the '|' char)."""
+    if '|' in text:
+        li = text.split('|')
+    else:
+        li = [text]
+
+    out = [
+        ' '.join(title_word(word) for word in text.split())
+        for text in li
+    ]
+    return "|".join(out)
+
 def normalize_row(row: list[str]) -> tuple[str]:
     """Normalize a row
 
@@ -16,7 +33,7 @@ def normalize_row(row: list[str]) -> tuple[str]:
     - Lower case the tags field
     """
     name, author, tags, *_ = row + ["", ""]
-    return name.title(), author.title(), tags.lower()
+    return title_case(name) ,title_case(author), tags.lower()
 
 
 def main():
