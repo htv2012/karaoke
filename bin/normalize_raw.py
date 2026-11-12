@@ -26,6 +26,9 @@ def main():
         reader = csv.reader(stream)
 
         for row in reader:
+            if not row:
+                continue
+
             row = normalize_row(row)
             if row not in seen:
                 bisect.insort(rows, row)

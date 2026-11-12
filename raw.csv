@@ -47,6 +47,7 @@ Cat Bui,Trinh Cong Son,
 Cay Dan Bo Quen,Pham Duy,
 Chi Chung Do Thoi,Pham Duy,
 Chi Co Mot Nguoi,,
+Chiec La Cuoi Cung,Doan Chuan|Tu Linh,tien chien
 Chiec La Mua Dong,,
 Chiec La Thu Phai,Trinh Cong Son,mua thu
 Chien Si Vo Danh,Pham Duy,
@@ -76,6 +77,7 @@ Chu Nhat Tuoi Hong,Pham Duy,
 Chuc Xuan Thanh Son,,mua xuan
 Chuong Ngan Vang,,giang sinh
 Chuyen Ba Mua Mua,,
+Chuyen Ben,Doan Chuan|Tu Linh,tien chien
 Chuyen Tinh Buon,Pham Duy,
 Co Bac Ky Nho Nho,Pham Duy,
 Co Bao Gio Em Hoi,Pham Duy,
@@ -185,6 +187,7 @@ Goi Em La Doa Hoa Sau,Pham Duy,
 Goi Giac Mo Xua,,
 Goi Ten Bon Mua,Trinh Cong Son,
 Gui Gio Cho May Ngan Bay,,
+Gui Gio Cho May Ngan Bay,Doan Chuan|Tu Linh,tien chien
 Gui Nguoi Em Gai,,
 Gui Toi Em,Pham Duy,
 Ha Hong,Pham Duy,
@@ -231,7 +234,9 @@ Kiep Nao Co Yeu Nhau,Pham Duy,
 Kiep Ve Sau,,
 Ky Niem,Pham Duy,
 Ky Vat Cho Em,Pham Duy,
+La Do Muon Chieu,Doan Chuan|Tu Linh,tien chien
 La Thu,,
+La Thu,Doan Chuan|Tu Linh,tien chien
 La Thu Tran The,,
 Lam Sao Ma Quen Duoc,Pham Duy,
 Lan Dau Lan Cuoi,,
@@ -380,7 +385,7 @@ Rung Xua Da Khep,Trinh Cong Son,
 Sang Ngang,Do Le,
 Sao Van Con Mua Roi,Duc Huy,
 Ta Ao Dem Noel,,giang sinh
-Ta Ao Xanh,,
+Ta Ao Xanh,Doan Chuan|Tu Linh,tien chien
 Ta On,Trinh Cong Son,
 Ta Thay Gi Trong Dem Nay,Trinh Cong Son,
 Tan Vo,,
@@ -390,6 +395,7 @@ Thoang May Bay,Duc Huy,
 Thoi,Y Van,
 Thu Ca,,mua thu
 Thu Khoc Tren Ngan,Ngo Thuy Mien,mua thu
+Thu Quuyen Ru,Doan Chuan|Tu Linh,tien chien|thu
 Thu Quyen Ru,,mua thu
 Thu Sau,,mua thu
 Thu Vang,,mua thu
@@ -427,6 +433,7 @@ Tinh Khuc Mua Xuan,Ngo Thuy Mien,mua xuan
 Tinh Khuc Thang Sau,Ngo Thuy Mien,
 Tinh Ky Nu,Pham Duy,
 Tinh Nghe Si,,
+Tinh Nghe Si,Doan Chuan|Tu Linh,tien chien
 Tinh Nguoi Ngoai Dao,,
 Tinh Nho,Trinh Cong Son,
 Tinh Nong,,

@@ -16,39 +16,41 @@ class Entry:
         return f"| {self._name} | {self._author} | {self._tags} |\n"
 
     def split_tags(self) -> list[str]:
-        if self.tags == "":
-            return []
-        return sorted(self.tags.split("|"))
+        return self._split(self.tags)
+
+    def split_authors(self) -> list[str]:
+        return self._split(self.author)
 
     def tag_match(self, tag: str) -> bool:
         return tag in self.split_tags()
+
+    def author_match(self, author: str) -> bool:
+        return author in self.split_authors()
 
     @property
     def _name(self):
         terms = f"{self.name} Karaoke".split()
         query = "+".join(terms)
         url = f"https://www.youtube.com/results?search_query={query}"
-        return self._make_link(self.name, url)
+        return self.make_link(self.name, url)
 
     @property
     def _author(self):
-        if self.author == "":
-            return ""
-
-        url = f"{self.author.replace(' ', '_').lower()}.md"
-        return self._make_link(self.author, url)
+        return " ".join(self.make_link(author) for author in self.split_authors())
 
     @property
     def _tags(self):
-        return " ".join(self._make_tag(tag) for tag in self.split_tags())
+        return " ".join(self.make_link(tag) for tag in self.split_tags())
+
+    def _split(self, text: str) -> list[str]:
+        if text == "":
+            return []
+        return sorted(text.split("|"))
 
     @staticmethod
-    def _make_tag(tag: str):
-        url = tag.replace(" ", "_") + ".md"
-        return Entry._make_link(tag, url)
-
-    @staticmethod
-    def _make_link(text: str, url: str) -> str:
+    def make_link(text: str, url: str | None = None):
+        if url is None:
+            url = text.replace(" ", "_").lower() + ".md"
         return f"[{text}]({url})"
 
 
@@ -75,9 +77,11 @@ def main():
     generate("Favorite Karaoke Songs", entries, dest_dir / "all.md")
 
     # Authors
-    authors = {entry.author for entry in entries if entry.author}
+    authors = set()
+    for entry in entries:
+        authors.update(entry.split_authors())
     for author in authors:
-        found = [entry for entry in entries if entry.author == author]
+        found = [entry for entry in entries if entry.author_match(author)]
         filename = author.replace(" ", "_").lower() + ".md"
         generate(author, found, dest_dir / filename)
 
