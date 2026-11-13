@@ -2,8 +2,8 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Anh Van Khong Doi Thay](https://www.youtube.com/results?search_query=Anh+Van+Khong+Doi+Thay+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
-| [Ao Anh Sut Chi Duong Ta](https://www.youtube.com/results?search_query=Ao+Anh+Sut+Chi+Duong+Ta+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Anh Vẫn Không Đổi Thay](https://www.youtube.com/results?search_query=Anh+Vẫn+Không+Đổi+Thay+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Áo Anh Sứt Chỉ Đường Tà](https://www.youtube.com/results?search_query=Áo+Anh+Sứt+Chỉ+Đường+Tà+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Ba Me Gio Linh](https://www.youtube.com/results?search_query=Ba+Me+Gio+Linh+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Ba Me Que](https://www.youtube.com/results?search_query=Ba+Me+Que+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Bai Ngoi Ca Tinh Yeu](https://www.youtube.com/results?search_query=Bai+Ngoi+Ca+Tinh+Yeu+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
