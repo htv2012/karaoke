@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | [Anh Vẫn Không Đổi Thay](https://www.youtube.com/results?search_query=Anh+Vẫn+Không+Đổi+Thay+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Áo Anh Sứt Chỉ Đường Tà](https://www.youtube.com/results?search_query=Áo+Anh+Sứt+Chỉ+Đường+Tà+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
-| [Bao Gio Biet Tuong Tu](https://www.youtube.com/results?search_query=Bao+Gio+Biet+Tuong+Tu+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Bao Giờ Biết Tương Tư](https://www.youtube.com/results?search_query=Bao+Giờ+Biết+Tương+Tư+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Bà Mẹ Gio Linh](https://www.youtube.com/results?search_query=Bà+Mẹ+Gio+Linh+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Bà Mẹ Quê](https://www.youtube.com/results?search_query=Bà+Mẹ+Quê+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Bài Ngợi Ca Tình Yêu](https://www.youtube.com/results?search_query=Bài+Ngợi+Ca+Tình+Yêu+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
