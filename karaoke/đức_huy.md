@@ -21,8 +21,8 @@
 | [Thoáng Mây Bay](https://www.youtube.com/results?search_query=Thoáng+Mây+Bay+Karaoke) | [Đức Huy](đức_huy.md) |  |
 | [Tiếng Mưa Đêm](https://www.youtube.com/results?search_query=Tiếng+Mưa+Đêm+Karaoke) | [Đức Huy](đức_huy.md) |  |
 | [Trái Tim Ngục Tù](https://www.youtube.com/results?search_query=Trái+Tim+Ngục+Tù+Karaoke) | [Đức Huy](đức_huy.md) |  |
-| [Va Toi Cung Yeu Em](https://www.youtube.com/results?search_query=Va+Toi+Cung+Yeu+Em+Karaoke) | [Đức Huy](đức_huy.md) |  |
 | [Và Con Tim Đã Vui Trở Lại](https://www.youtube.com/results?search_query=Và+Con+Tim+Đã+Vui+Trở+Lại+Karaoke) | [Đức Huy](đức_huy.md) |  |
+| [Và Tôi Cũng Yêu Em](https://www.youtube.com/results?search_query=Và+Tôi+Cũng+Yêu+Em+Karaoke) | [Đức Huy](đức_huy.md) |  |
 | [Xin Một Ngày Mai Có Nhau](https://www.youtube.com/results?search_query=Xin+Một+Ngày+Mai+Có+Nhau+Karaoke) | [Đức Huy](đức_huy.md) |  |
 | [Để Quên Con Tim](https://www.youtube.com/results?search_query=Để+Quên+Con+Tim+Karaoke) | [Đức Huy](đức_huy.md) |  |
 | [Đừng Xa Em Đêm Nay](https://www.youtube.com/results?search_query=Đừng+Xa+Em+Đêm+Nay+Karaoke) | [Đức Huy](đức_huy.md) |  |
