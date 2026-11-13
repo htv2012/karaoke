@@ -15,5 +15,5 @@
 | [Mưa](https://www.youtube.com/results?search_query=Mưa+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
 | [Mưa Trên Phím Ngà](https://www.youtube.com/results?search_query=Mưa+Trên+Phím+Ngà+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
 | [Nhớ Bến Đà Giang](https://www.youtube.com/results?search_query=Nhớ+Bến+Đà+Giang+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
-| [Noi Buon](https://www.youtube.com/results?search_query=Noi+Buon+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
+| [Nỗi Buồn](https://www.youtube.com/results?search_query=Nỗi+Buồn+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
 | [Tình](https://www.youtube.com/results?search_query=Tình+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
