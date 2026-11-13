@@ -29,7 +29,7 @@
 | [Mua Xuan Cua Me](https://www.youtube.com/results?search_query=Mua+Xuan+Cua+Me+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Mua Xuan Dau Tien](https://www.youtube.com/results?search_query=Mua+Xuan+Dau+Tien+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) | [mùa xuân](mùa_xuân.md) |
 | [Mua Xuan Dau Tien](https://www.youtube.com/results?search_query=Mua+Xuan+Dau+Tien+Karaoke) | [Văn Cao](văn_cao.md) | [mùa xuân](mùa_xuân.md) |
-| [Mua Xuan Trong Doi Mat Em](https://www.youtube.com/results?search_query=Mua+Xuan+Trong+Doi+Mat+Em+Karaoke) | [Đức Huy](đức_huy.md) | [mùa xuân](mùa_xuân.md) |
+| [Mùa Thu Trong Mắt Em](https://www.youtube.com/results?search_query=Mùa+Thu+Trong+Mắt+Em+Karaoke) | [Đức Huy](đức_huy.md) | [mùa xuân](mùa_xuân.md) |
 | [Mùa Xuân Trên Cao](https://www.youtube.com/results?search_query=Mùa+Xuân+Trên+Cao+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) | [mùa xuân](mùa_xuân.md) |
 | [Nang Xuan](https://www.youtube.com/results?search_query=Nang+Xuan+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Nu Tam Xuan](https://www.youtube.com/results?search_query=Nu+Tam+Xuan+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |

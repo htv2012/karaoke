@@ -8,6 +8,7 @@
 | [Cao Cung Len](https://www.youtube.com/results?search_query=Cao+Cung+Len+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Cau Cho Nhau](https://www.youtube.com/results?search_query=Cau+Cho+Nhau+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Chuong Ngan Vang](https://www.youtube.com/results?search_query=Chuong+Ngan+Vang+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
+| [Dem Buon Nhu Thanh Ca](https://www.youtube.com/results?search_query=Dem+Buon+Nhu+Thanh+Ca+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Dem Nay Noel Ve](https://www.youtube.com/results?search_query=Dem+Nay+Noel+Ve+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Dem Thanh Vo Cung](https://www.youtube.com/results?search_query=Dem+Thanh+Vo+Cung+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Du Am Mua Giang Sinh](https://www.youtube.com/results?search_query=Du+Am+Mua+Giang+Sinh+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
