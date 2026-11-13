@@ -12,6 +12,7 @@
 | [Cuộc Tình Tàn](https://www.youtube.com/results?search_query=Cuộc+Tình+Tàn+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Em Đẹp Nhất Đêm Nay](https://www.youtube.com/results?search_query=Em+Đẹp+Nhất+Đêm+Nay+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Giàn Thiên Lý Đã Xa](https://www.youtube.com/results?search_query=Giàn+Thiên+Lý+Đã+Xa+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
+| [Giòng Sông Xanh](https://www.youtube.com/results?search_query=Giòng+Sông+Xanh+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Hai Khía Cạnh Cuộc Đời](https://www.youtube.com/results?search_query=Hai+Khía+Cạnh+Cuộc+Đời+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Hãy Yêu Chàng](https://www.youtube.com/results?search_query=Hãy+Yêu+Chàng+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Hận Tình Trong Mưa](https://www.youtube.com/results?search_query=Hận+Tình+Trong+Mưa+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |

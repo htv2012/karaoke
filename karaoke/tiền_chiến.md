@@ -10,3 +10,4 @@
 | [Ta Ao Xanh](https://www.youtube.com/results?search_query=Ta+Ao+Xanh+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
 | [Thu Quyen Ru](https://www.youtube.com/results?search_query=Thu+Quyen+Ru+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [mùa thu](mùa_thu.md) [tiền chiến](tiền_chiến.md) |
 | [Tinh Nghe Si](https://www.youtube.com/results?search_query=Tinh+Nghe+Si+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
+| [Đêm Ngắn Tình Dài](https://www.youtube.com/results?search_query=Đêm+Ngắn+Tình+Dài+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) | [tiền chiến](tiền_chiến.md) |
