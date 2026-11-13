@@ -4,10 +4,10 @@
 | --- | --- | --- |
 | [Anh Vẫn Không Đổi Thay](https://www.youtube.com/results?search_query=Anh+Vẫn+Không+Đổi+Thay+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Áo Anh Sứt Chỉ Đường Tà](https://www.youtube.com/results?search_query=Áo+Anh+Sứt+Chỉ+Đường+Tà+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
-| [Ba Me Gio Linh](https://www.youtube.com/results?search_query=Ba+Me+Gio+Linh+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
-| [Ba Me Que](https://www.youtube.com/results?search_query=Ba+Me+Que+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
-| [Bai Ngoi Ca Tinh Yeu](https://www.youtube.com/results?search_query=Bai+Ngoi+Ca+Tinh+Yeu+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Bao Gio Biet Tuong Tu](https://www.youtube.com/results?search_query=Bao+Gio+Biet+Tuong+Tu+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Bà Mẹ Gio Linh](https://www.youtube.com/results?search_query=Bà+Mẹ+Gio+Linh+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Bà Mẹ Quê](https://www.youtube.com/results?search_query=Bà+Mẹ+Quê+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Bài Ngợi Ca Tình Yêu](https://www.youtube.com/results?search_query=Bài+Ngợi+Ca+Tình+Yêu+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Biet Ra Sao Ngay Sau](https://www.youtube.com/results?search_query=Biet+Ra+Sao+Ngay+Sau+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Binh Ca](https://www.youtube.com/results?search_query=Binh+Ca+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Can Nha Xinh](https://www.youtube.com/results?search_query=Can+Nha+Xinh+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
