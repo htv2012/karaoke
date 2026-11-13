@@ -21,6 +21,7 @@
 | [Duong Nao Le Thien Thai](https://www.youtube.com/results?search_query=Duong+Nao+Le+Thien+Thai+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |
 | [Em Con Nho Mua Xuan](https://www.youtube.com/results?search_query=Em+Con+Nho+Mua+Xuan+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa xuân](mùa_xuân.md) |
 | [Gai Xuan](https://www.youtube.com/results?search_query=Gai+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
+| [Gió Mùa Xuân Tới](https://www.youtube.com/results?search_query=Gió+Mùa+Xuân+Tới+Karaoke) | [Hoàng Trọng](hoàng_trọng.md) | [mùa xuân](mùa_xuân.md) |
 | [Hoa Xuan](https://www.youtube.com/results?search_query=Hoa+Xuan+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Khuc Hat Thanh Xuan](https://www.youtube.com/results?search_query=Khuc+Hat+Thanh+Xuan+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Mong Chieu Xuan](https://www.youtube.com/results?search_query=Mong+Chieu+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
