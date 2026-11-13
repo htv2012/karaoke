@@ -35,14 +35,14 @@
 | [Ru Em Tung Ngon Xuan Nong](https://www.youtube.com/results?search_query=Ru+Em+Tung+Ngon+Xuan+Nong+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa xuân](mùa_xuân.md) |
 | [Tinh Khuc Mua Xuan](https://www.youtube.com/results?search_query=Tinh+Khuc+Mua+Xuan+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa xuân](mùa_xuân.md) |
 | [Tinh Xuan](https://www.youtube.com/results?search_query=Tinh+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
-| [Xuan Ca](https://www.youtube.com/results?search_query=Xuan+Ca+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Xuan Da Ve](https://www.youtube.com/results?search_query=Xuan+Da+Ve+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuan Hien](https://www.youtube.com/results?search_query=Xuan+Hien+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuan Mien Nam](https://www.youtube.com/results?search_query=Xuan+Mien+Nam+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuan Muon](https://www.youtube.com/results?search_query=Xuan+Muon+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuan Nay Con Khong Ve](https://www.youtube.com/results?search_query=Xuan+Nay+Con+Khong+Ve+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuan Nghe Si Hanh Khuc](https://www.youtube.com/results?search_query=Xuan+Nghe+Si+Hanh+Khuc+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
-| [Xuan Thi](https://www.youtube.com/results?search_query=Xuan+Thi+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Xuan Va Tuoi Tre](https://www.youtube.com/results?search_query=Xuan+Va+Tuoi+Tre+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuan Yeu Thuong](https://www.youtube.com/results?search_query=Xuan+Yeu+Thuong+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
+| [Xuàn Thì](https://www.youtube.com/results?search_query=Xuàn+Thì+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
+| [Xuân Ca](https://www.youtube.com/results?search_query=Xuân+Ca+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Đêm Xuân](https://www.youtube.com/results?search_query=Đêm+Xuân+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
