@@ -27,7 +27,7 @@
 | [Hát Trên Những Xác Người](https://www.youtube.com/results?search_query=Hát+Trên+Những+Xác+Người+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Hãy Khóc Đi Em](https://www.youtube.com/results?search_query=Hãy+Khóc+Đi+Em+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Hãy Sống Giùm Tôi](https://www.youtube.com/results?search_query=Hãy+Sống+Giùm+Tôi+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
-| [Hãy Yêu Nha Đi](https://www.youtube.com/results?search_query=Hãy+Yêu+Nha+Đi+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
+| [Hãy Yêu Nhau Đi](https://www.youtube.com/results?search_query=Hãy+Yêu+Nhau+Đi+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Hoa Vàng Mấy Độ](https://www.youtube.com/results?search_query=Hoa+Vàng+Mấy+Độ+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Huế Sài Gòn Hà Nội](https://www.youtube.com/results?search_query=Huế+Sài+Gòn+Hà+Nội+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Lặng Lẽ Nơi Này](https://www.youtube.com/results?search_query=Lặng+Lẽ+Nơi+Này+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
@@ -38,7 +38,7 @@
 | [Một Ngày Như Mọi Ngày](https://www.youtube.com/results?search_query=Một+Ngày+Như+Mọi+Ngày+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Mưa Hồng](https://www.youtube.com/results?search_query=Mưa+Hồng+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Ngày Dài Trên Quê Hương](https://www.youtube.com/results?search_query=Ngày+Dài+Trên+Quê+Hương+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
-| [Ngh Những Tàn Phai](https://www.youtube.com/results?search_query=Ngh+Những+Tàn+Phai+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
+| [Nghe Những Tàn Phai](https://www.youtube.com/results?search_query=Nghe+Những+Tàn+Phai+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Nghe Tiếng Muôn Trùng](https://www.youtube.com/results?search_query=Nghe+Tiếng+Muôn+Trùng+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Nguyệt Ca](https://www.youtube.com/results?search_query=Nguyệt+Ca+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Ngụ Ngôn Mùa Đông](https://www.youtube.com/results?search_query=Ngụ+Ngôn+Mùa+Đông+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
@@ -50,7 +50,7 @@
 | [Như Cánh Vạc Bay](https://www.youtube.com/results?search_query=Như+Cánh+Vạc+Bay+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Những Con Mắt Trần Gian](https://www.youtube.com/results?search_query=Những+Con+Mắt+Trần+Gian+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Níu Tay Nghìn Trùng](https://www.youtube.com/results?search_query=Níu+Tay+Nghìn+Trùng+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
-| [Nắng Thuỷ Tinh](https://www.youtube.com/results?search_query=Nắng+Thuỷ+Tinh+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
+| [Nắng Thủy Tinh](https://www.youtube.com/results?search_query=Nắng+Thủy+Tinh+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Phúc Âm Buồn](https://www.youtube.com/results?search_query=Phúc+Âm+Buồn+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Phôi Pha](https://www.youtube.com/results?search_query=Phôi+Pha+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Quỳnh Hương](https://www.youtube.com/results?search_query=Quỳnh+Hương+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |

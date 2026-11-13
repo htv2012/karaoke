@@ -6,6 +6,7 @@
 | [Anh Cho Em Mùa Xuân](https://www.youtube.com/results?search_query=Anh+Cho+Em+Mùa+Xuân+Karaoke) | [Nguyễn Hiền](nguyễn_hiền.md) | [mùa xuân](mùa_xuân.md) |
 | [Bài Thơ Hoa Đào](https://www.youtube.com/results?search_query=Bài+Thơ+Hoa+Đào+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |
 | [Bến Xuân](https://www.youtube.com/results?search_query=Bến+Xuân+Karaoke) | [Văn Cao](văn_cao.md) | [mùa xuân](mùa_xuân.md) |
+| [Ca Khúc Nừng Xuân](https://www.youtube.com/results?search_query=Ca+Khúc+Nừng+Xuân+Karaoke) | [Văn Phụng](văn_phụng.md) | [mùa xuân](mùa_xuân.md) |
 | [Canh Buom Vuon Xuan](https://www.youtube.com/results?search_query=Canh+Buom+Vuon+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Canh Thiep Dau Xuan](https://www.youtube.com/results?search_query=Canh+Thiep+Dau+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Chieu Xuan](https://www.youtube.com/results?search_query=Chieu+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
