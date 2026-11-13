@@ -14,11 +14,7 @@ def title_word(word: str) -> str:
 
 def title_case(text: str) -> str:
     """Handle Vietnamese text, separator (the '|' char)."""
-    if '|' in text:
-        li = text.split('|')
-    else:
-        li = [text]
-
+    li = text.split('|')
     out = [
         ' '.join(title_word(word) for word in text.split())
         for text in li
