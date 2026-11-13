@@ -4,9 +4,8 @@
 | --- | --- | --- |
 | [Ánh Sao Đêm](https://www.youtube.com/results?search_query=Ánh+Sao+Đêm+Karaoke) | [Vũ Quang Trung](vũ_quang_trung.md) | [giáng sinh](giáng_sinh.md) |
 | [Bài Thánh Ca Buồn](https://www.youtube.com/results?search_query=Bài+Thánh+Ca+Buồn+Karaoke) | [Nguyễn Vũ](nguyễn_vũ.md) | [giáng sinh](giáng_sinh.md) |
-| [Bong Nho Giao Duong](https://www.youtube.com/results?search_query=Bong+Nho+Giao+Duong+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
-| [Cao Cung Len](https://www.youtube.com/results?search_query=Cao+Cung+Len+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
-| [Cau Cho Nhau](https://www.youtube.com/results?search_query=Cau+Cho+Nhau+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
+| [Bóng Nhỏ Giáo Đường](https://www.youtube.com/results?search_query=Bóng+Nhỏ+Giáo+Đường+Karaoke) | [Phượng Linh](phượng_linh.md) | [công giáo](công_giáo.md) [giáng sinh](giáng_sinh.md) |
+| [Cao Cung Lên](https://www.youtube.com/results?search_query=Cao+Cung+Lên+Karaoke) | [Hoài Đức](hoài_đức.md) [Nguyễn Khắc Xuyên](nguyễn_khắc_xuyên.md) | [giáng sinh](giáng_sinh.md) |
 | [Chuong Ngan Vang](https://www.youtube.com/results?search_query=Chuong+Ngan+Vang+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Dem Buon Nhu Thanh Ca](https://www.youtube.com/results?search_query=Dem+Buon+Nhu+Thanh+Ca+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Dem Nay Noel Ve](https://www.youtube.com/results?search_query=Dem+Nay+Noel+Ve+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
@@ -19,4 +18,6 @@
 | [Mau Xanh Noel](https://www.youtube.com/results?search_query=Mau+Xanh+Noel+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Mua Hoa Tuyet](https://www.youtube.com/results?search_query=Mua+Hoa+Tuyet+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Mua Sao Sang](https://www.youtube.com/results?search_query=Mua+Sao+Sang+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
+| [Mùa Đông Năm Ấy](https://www.youtube.com/results?search_query=Mùa+Đông+Năm+Ấy+Karaoke) | [Hoài Đức](hoài_đức.md) | [giáng sinh](giáng_sinh.md) |
+| [Nguyện Cầu Cho Nhau](https://www.youtube.com/results?search_query=Nguyện+Cầu+Cho+Nhau+Karaoke) | [Phanxicô](phanxicô.md) | [giáng sinh](giáng_sinh.md) |
 | [Ta Ao Dem Noel](https://www.youtube.com/results?search_query=Ta+Ao+Dem+Noel+Karaoke) |  | [giáng sinh](giáng_sinh.md) |

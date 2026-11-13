@@ -6,7 +6,7 @@
 | [Bến Xuân](https://www.youtube.com/results?search_query=Bến+Xuân+Karaoke) | [Văn Cao](văn_cao.md) | [mùa xuân](mùa_xuân.md) |
 | [Cung Đàn Xưa](https://www.youtube.com/results?search_query=Cung+Đàn+Xưa+Karaoke) | [Văn Cao](văn_cao.md) |  |
 | [Làng Tôi](https://www.youtube.com/results?search_query=Làng+Tôi+Karaoke) | [Văn Cao](văn_cao.md) |  |
-| [Mua Xuan Dau Tien](https://www.youtube.com/results?search_query=Mua+Xuan+Dau+Tien+Karaoke) | [Văn Cao](văn_cao.md) | [mùa xuân](mùa_xuân.md) |
+| [Mùa Xuân Đầu Tiên](https://www.youtube.com/results?search_query=Mùa+Xuân+Đầu+Tiên+Karaoke) | [Văn Cao](văn_cao.md) | [mùa xuân](mùa_xuân.md) |
 | [Ngày Mùa](https://www.youtube.com/results?search_query=Ngày+Mùa+Karaoke) | [Văn Cao](văn_cao.md) |  |
 | [Suối Mơ](https://www.youtube.com/results?search_query=Suối+Mơ+Karaoke) | [Văn Cao](văn_cao.md) |  |
 | [Thiên Thai](https://www.youtube.com/results?search_query=Thiên+Thai+Karaoke) | [Văn Cao](văn_cao.md) |  |

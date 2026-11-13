@@ -3,6 +3,7 @@
 | Name | Author | Tags |
 | --- | --- | --- |
 | [Anh Đã Quên Mùa Thu](https://www.youtube.com/results?search_query=Anh+Đã+Quên+Mùa+Thu+Karaoke) | [Nam Lộc](nam_lộc.md) [Tùng Giang](tùng_giang.md) | [mùa thu](mùa_thu.md) |
+| [Chi Co Mot Nguoi](https://www.youtube.com/results?search_query=Chi+Co+Mot+Nguoi+Karaoke) | [Minh Kỳ](minh_kỳ.md) | [mùa thu](mùa_thu.md) |
 | [Chiếc Lá Thu Phai](https://www.youtube.com/results?search_query=Chiếc+Lá+Thu+Phai+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
 | [Co Phai Em Mua Thu Ha Noi](https://www.youtube.com/results?search_query=Co+Phai+Em+Mua+Thu+Ha+Noi+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Dau Phai Boi Mua Thu](https://www.youtube.com/results?search_query=Dau+Phai+Boi+Mua+Thu+Karaoke) | [Phú Quang](phú_quang.md) | [mùa thu](mùa_thu.md) |

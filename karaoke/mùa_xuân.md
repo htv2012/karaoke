@@ -8,8 +8,8 @@
 | [Bến Xuân](https://www.youtube.com/results?search_query=Bến+Xuân+Karaoke) | [Văn Cao](văn_cao.md) | [mùa xuân](mùa_xuân.md) |
 | [Bến Xuân Xanh](https://www.youtube.com/results?search_query=Bến+Xuân+Xanh+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) | [mùa xuân](mùa_xuân.md) |
 | [Ca Khúc Nừng Xuân](https://www.youtube.com/results?search_query=Ca+Khúc+Nừng+Xuân+Karaoke) | [Văn Phụng](văn_phụng.md) | [mùa xuân](mùa_xuân.md) |
-| [Canh Buom Vuon Xuan](https://www.youtube.com/results?search_query=Canh+Buom+Vuon+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
-| [Canh Thiep Dau Xuan](https://www.youtube.com/results?search_query=Canh+Thiep+Dau+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
+| [Canh Buom Vuon Xuan](https://www.youtube.com/results?search_query=Canh+Buom+Vuon+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
+| [Cánh Thiệp Đầu Xuân](https://www.youtube.com/results?search_query=Cánh+Thiệp+Đầu+Xuân+Karaoke) | [Lê Dinh](lê_dinh.md) [Minh Kỳ](minh_kỳ.md) | [mùa xuân](mùa_xuân.md) |
 | [Chieu Xuan](https://www.youtube.com/results?search_query=Chieu+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Cho Nguoi Tinh Lo](https://www.youtube.com/results?search_query=Cho+Nguoi+Tinh+Lo+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |
 | [Chuc Xuan Thanh Son](https://www.youtube.com/results?search_query=Chuc+Xuan+Thanh+Son+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
@@ -28,15 +28,16 @@
 | [Mong Chieu Xuan](https://www.youtube.com/results?search_query=Mong+Chieu+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Mua Xuan](https://www.youtube.com/results?search_query=Mua+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Mua Xuan Cua Me](https://www.youtube.com/results?search_query=Mua+Xuan+Cua+Me+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
-| [Mua Xuan Dau Tien](https://www.youtube.com/results?search_query=Mua+Xuan+Dau+Tien+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) | [mùa xuân](mùa_xuân.md) |
-| [Mua Xuan Dau Tien](https://www.youtube.com/results?search_query=Mua+Xuan+Dau+Tien+Karaoke) | [Văn Cao](văn_cao.md) | [mùa xuân](mùa_xuân.md) |
 | [Mùa Thu Trong Mắt Em](https://www.youtube.com/results?search_query=Mùa+Thu+Trong+Mắt+Em+Karaoke) | [Đức Huy](đức_huy.md) | [mùa xuân](mùa_xuân.md) |
 | [Mùa Xuân Trên Cao](https://www.youtube.com/results?search_query=Mùa+Xuân+Trên+Cao+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) | [mùa xuân](mùa_xuân.md) |
+| [Mùa Xuân Đầu Tiên](https://www.youtube.com/results?search_query=Mùa+Xuân+Đầu+Tiên+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) | [mùa xuân](mùa_xuân.md) |
+| [Mùa Xuân Đầu Tiên](https://www.youtube.com/results?search_query=Mùa+Xuân+Đầu+Tiên+Karaoke) | [Văn Cao](văn_cao.md) | [mùa xuân](mùa_xuân.md) |
 | [Nụ Tầm Xuân](https://www.youtube.com/results?search_query=Nụ+Tầm+Xuân+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Nắng Xuân](https://www.youtube.com/results?search_query=Nắng+Xuân+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
 | [Ru Em Từng Ngón Xuân Nồng](https://www.youtube.com/results?search_query=Ru+Em+Từng+Ngón+Xuân+Nồng+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa xuân](mùa_xuân.md) |
 | [Tinh Khuc Mua Xuan](https://www.youtube.com/results?search_query=Tinh+Khuc+Mua+Xuan+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa xuân](mùa_xuân.md) |
 | [Tinh Xuan](https://www.youtube.com/results?search_query=Tinh+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
+| [Tâm Sự Ngày Xuân](https://www.youtube.com/results?search_query=Tâm+Sự+Ngày+Xuân+Karaoke) | [Hoài An](hoài_an.md) | [mùa xuân](mùa_xuân.md) |
 | [Xuan Da Ve](https://www.youtube.com/results?search_query=Xuan+Da+Ve+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuan Hien](https://www.youtube.com/results?search_query=Xuan+Hien+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuan Mien Nam](https://www.youtube.com/results?search_query=Xuan+Mien+Nam+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
@@ -47,4 +48,5 @@
 | [Xuan Yeu Thuong](https://www.youtube.com/results?search_query=Xuan+Yeu+Thuong+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuàn Thì](https://www.youtube.com/results?search_query=Xuàn+Thì+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Xuân Ca](https://www.youtube.com/results?search_query=Xuân+Ca+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
+| [Đón Xuân Thanh Bình](https://www.youtube.com/results?search_query=Đón+Xuân+Thanh+Bình+Karaoke) | [Minh Kỳ](minh_kỳ.md) | [mùa xuân](mùa_xuân.md) |
 | [Đêm Xuân](https://www.youtube.com/results?search_query=Đêm+Xuân+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
