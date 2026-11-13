@@ -95,6 +95,7 @@
 | [Chuyen Tinh Buon](https://www.youtube.com/results?search_query=Chuyen+Tinh+Buon+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Chuyện Tình Cô Lái Đò Bến Hạ](https://www.youtube.com/results?search_query=Chuyện+Tình+Cô+Lái+Đò+Bến+Hạ+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) |  |
 | [Chuyện Tình Người Trinh Nũ Tên Thi](https://www.youtube.com/results?search_query=Chuyện+Tình+Người+Trinh+Nũ+Tên+Thi+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) |  |
+| [Chuyện Tình Người Đan Áo](https://www.youtube.com/results?search_query=Chuyện+Tình+Người+Đan+Áo+Karaoke) | [Trường Sa](trường_sa.md) |  |
 | [Chuyện Đêm Mưa](https://www.youtube.com/results?search_query=Chuyện+Đêm+Mưa+Karaoke) | [Nguyễn Hiền](nguyễn_hiền.md) |  |
 | [Co Bac Ky Nho Nho](https://www.youtube.com/results?search_query=Co+Bac+Ky+Nho+Nho+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Co Bao Gio Em Hoi](https://www.youtube.com/results?search_query=Co+Bao+Gio+Em+Hoi+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
@@ -327,7 +328,6 @@
 | [Mua Thu May Ngan](https://www.youtube.com/results?search_query=Mua+Thu+May+Ngan+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Mua Thu Paris](https://www.youtube.com/results?search_query=Mua+Thu+Paris+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Mua Thu Ru Em](https://www.youtube.com/results?search_query=Mua+Thu+Ru+Em+Karaoke) | [Đức Huy](đức_huy.md) | [mùa thu](mùa_thu.md) |
-| [Mua Thu Trong Mua](https://www.youtube.com/results?search_query=Mua+Thu+Trong+Mua+Karaoke) | [Trường Sa](trường_sa.md) | [mùa thu](mùa_thu.md) |
 | [Mua Thu Xa Em](https://www.youtube.com/results?search_query=Mua+Thu+Xa+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Mua Thu Yeu Duong](https://www.youtube.com/results?search_query=Mua+Thu+Yeu+Duong+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Mua Tinh Yeu](https://www.youtube.com/results?search_query=Mua+Tinh+Yeu+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
@@ -336,8 +336,10 @@
 | [Mua Xuan Dau Tien](https://www.youtube.com/results?search_query=Mua+Xuan+Dau+Tien+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) | [mùa xuân](mùa_xuân.md) |
 | [Mua Xuan Dau Tien](https://www.youtube.com/results?search_query=Mua+Xuan+Dau+Tien+Karaoke) | [Văn Cao](văn_cao.md) | [mùa xuân](mùa_xuân.md) |
 | [Mua Xuan Trong Doi Mat Em](https://www.youtube.com/results?search_query=Mua+Xuan+Trong+Doi+Mat+Em+Karaoke) | [Đức Huy](đức_huy.md) | [mùa xuân](mùa_xuân.md) |
+| [Mùa Thu Trong Mưa](https://www.youtube.com/results?search_query=Mùa+Thu+Trong+Mưa+Karaoke) | [Trường Sa](trường_sa.md) | [mùa thu](mùa_thu.md) |
 | [Mấy Nhịp Cầu Tre](https://www.youtube.com/results?search_query=Mấy+Nhịp+Cầu+Tre+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) |  |
 | [Mộng Lành](https://www.youtube.com/results?search_query=Mộng+Lành+Karaoke) | [Hoàng Trọng](hoàng_trọng.md) |  |
+| [Một Mai Em Đi](https://www.youtube.com/results?search_query=Một+Mai+Em+Đi+Karaoke) | [Trường Sa](trường_sa.md) |  |
 | [Nang Ha](https://www.youtube.com/results?search_query=Nang+Ha+Karaoke) |  |  |
 | [Nang Paris Nang Sai Gon](https://www.youtube.com/results?search_query=Nang+Paris+Nang+Sai+Gon+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Nang Thu](https://www.youtube.com/results?search_query=Nang+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
@@ -426,6 +428,7 @@
 | [Ru Em Tung Ngon Xuan Nong](https://www.youtube.com/results?search_query=Ru+Em+Tung+Ngon+Xuan+Nong+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa xuân](mùa_xuân.md) |
 | [Ru Tinh](https://www.youtube.com/results?search_query=Ru+Tinh+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Rung Xua Da Khep](https://www.youtube.com/results?search_query=Rung+Xua+Da+Khep+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
+| [Rồi Mai Tôi Đưa Em](https://www.youtube.com/results?search_query=Rồi+Mai+Tôi+Đưa+Em+Karaoke) | [Trường Sa](trường_sa.md) |  |
 | [Rước Tình Về Với Quê Hương](https://www.youtube.com/results?search_query=Rước+Tình+Về+Với+Quê+Hương+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) |  |
 | [Sang Ngang](https://www.youtube.com/results?search_query=Sang+Ngang+Karaoke) | [Đỗ Lễ](đỗ_lễ.md) |  |
 | [Sao Van Con Mua Roi](https://www.youtube.com/results?search_query=Sao+Van+Con+Mua+Roi+Karaoke) | [Đức Huy](đức_huy.md) |  |

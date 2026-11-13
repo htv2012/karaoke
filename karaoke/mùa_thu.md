@@ -21,9 +21,9 @@
 | [Mua Thu May Ngan](https://www.youtube.com/results?search_query=Mua+Thu+May+Ngan+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Mua Thu Paris](https://www.youtube.com/results?search_query=Mua+Thu+Paris+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Mua Thu Ru Em](https://www.youtube.com/results?search_query=Mua+Thu+Ru+Em+Karaoke) | [Đức Huy](đức_huy.md) | [mùa thu](mùa_thu.md) |
-| [Mua Thu Trong Mua](https://www.youtube.com/results?search_query=Mua+Thu+Trong+Mua+Karaoke) | [Trường Sa](trường_sa.md) | [mùa thu](mùa_thu.md) |
 | [Mua Thu Xa Em](https://www.youtube.com/results?search_query=Mua+Thu+Xa+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Mua Thu Yeu Duong](https://www.youtube.com/results?search_query=Mua+Thu+Yeu+Duong+Karaoke) |  | [mùa thu](mùa_thu.md) |
+| [Mùa Thu Trong Mưa](https://www.youtube.com/results?search_query=Mùa+Thu+Trong+Mưa+Karaoke) | [Trường Sa](trường_sa.md) | [mùa thu](mùa_thu.md) |
 | [Nang Thu](https://www.youtube.com/results?search_query=Nang+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Nghin Thu Ao Tim](https://www.youtube.com/results?search_query=Nghin+Thu+Ao+Tim+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Nhin Nhung Mua Thu Di](https://www.youtube.com/results?search_query=Nhin+Nhung+Mua+Thu+Di+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
