@@ -2,5 +2,6 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Noi Voi Toi Mot Loi](https://www.youtube.com/results?search_query=Noi+Voi+Toi+Mot+Loi+Karaoke) | [Diệu Hương](diệu_hương.md) |  |
-| [Phien Da Sau](https://www.youtube.com/results?search_query=Phien+Da+Sau+Karaoke) | [Diệu Hương](diệu_hương.md) |  |
+| [Chỉ Có Một Thời](https://www.youtube.com/results?search_query=Chỉ+Có+Một+Thời+Karaoke) | [Diệu Hương](diệu_hương.md) |  |
+| [Nói Với Tôi Một Lời](https://www.youtube.com/results?search_query=Nói+Với+Tôi+Một+Lời+Karaoke) | [Diệu Hương](diệu_hương.md) |  |
+| [Phiến Đá Sầu](https://www.youtube.com/results?search_query=Phiến+Đá+Sầu+Karaoke) | [Diệu Hương](diệu_hương.md) |  |

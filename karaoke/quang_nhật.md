@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Nho Oi](https://www.youtube.com/results?search_query=Nho+Oi+Karaoke) | [Quang Nhật](quang_nhật.md) |  |
+| [Nhỏ Ơi](https://www.youtube.com/results?search_query=Nhỏ+Ơi+Karaoke) | [Quang Nhật](quang_nhật.md) |  |

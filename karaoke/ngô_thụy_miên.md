@@ -2,9 +2,9 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Ao Lua Ha Dong](https://www.youtube.com/results?search_query=Ao+Lua+Ha+Dong+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
-| [Bai Tinh Ca Cho Em](https://www.youtube.com/results?search_query=Bai+Tinh+Ca+Cho+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
-| [Ban Tinh Cuoi](https://www.youtube.com/results?search_query=Ban+Tinh+Cuoi+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
+| [Áo Lụa Hà Đông](https://www.youtube.com/results?search_query=Áo+Lụa+Hà+Đông+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
+| [Bài Tình Ca Cho Em](https://www.youtube.com/results?search_query=Bài+Tình+Ca+Cho+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
+| [Bản Tình Cuối](https://www.youtube.com/results?search_query=Bản+Tình+Cuối+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Can Thiet](https://www.youtube.com/results?search_query=Can+Thiet+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Chieu Nay Khong Co Em](https://www.youtube.com/results?search_query=Chieu+Nay+Khong+Co+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Dau Tinh Sau](https://www.youtube.com/results?search_query=Dau+Tinh+Sau+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
