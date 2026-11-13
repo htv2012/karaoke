@@ -13,6 +13,7 @@
 | [Chieu Xuan](https://www.youtube.com/results?search_query=Chieu+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Cho Nguoi Tinh Lo](https://www.youtube.com/results?search_query=Cho+Nguoi+Tinh+Lo+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |
 | [Chuc Xuan Thanh Son](https://www.youtube.com/results?search_query=Chuc+Xuan+Thanh+Son+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
+| [Chuyện Buồn Ngày Xuân](https://www.youtube.com/results?search_query=Chuyện+Buồn+Ngày+Xuân+Karaoke) | [Lam Phương](lam_phương.md) | [mùa xuân](mùa_xuân.md) |
 | [Co Gai Xuan Thi](https://www.youtube.com/results?search_query=Co+Gai+Xuan+Thi+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Diep Khuc Mua Xuan](https://www.youtube.com/results?search_query=Diep+Khuc+Mua+Xuan+Karaoke) | [Quốc Dũng](quốc_dũng.md) | [mùa xuân](mùa_xuân.md) |
 | [Diu Dang Sac Xuan](https://www.youtube.com/results?search_query=Diu+Dang+Sac+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |

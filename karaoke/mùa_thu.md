@@ -4,6 +4,7 @@
 | --- | --- | --- |
 | [Anh Đã Quên Mùa Thu](https://www.youtube.com/results?search_query=Anh+Đã+Quên+Mùa+Thu+Karaoke) | [Nam Lộc](nam_lộc.md) [Tùng Giang](tùng_giang.md) | [mùa thu](mùa_thu.md) |
 | [Chi Co Mot Nguoi](https://www.youtube.com/results?search_query=Chi+Co+Mot+Nguoi+Karaoke) | [Minh Kỳ](minh_kỳ.md) | [mùa thu](mùa_thu.md) |
+| [Chiều Thu Ấy](https://www.youtube.com/results?search_query=Chiều+Thu+Ấy+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |
 | [Chiếc Lá Thu Phai](https://www.youtube.com/results?search_query=Chiếc+Lá+Thu+Phai+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
 | [Co Phai Em Mua Thu Ha Noi](https://www.youtube.com/results?search_query=Co+Phai+Em+Mua+Thu+Ha+Noi+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Dau Phai Boi Mua Thu](https://www.youtube.com/results?search_query=Dau+Phai+Boi+Mua+Thu+Karaoke) | [Phú Quang](phú_quang.md) | [mùa thu](mùa_thu.md) |
@@ -20,7 +21,7 @@
 | [Mua Thu La Bay](https://www.youtube.com/results?search_query=Mua+Thu+La+Bay+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Mua Thu May Ngan](https://www.youtube.com/results?search_query=Mua+Thu+May+Ngan+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Mua Thu Xa Em](https://www.youtube.com/results?search_query=Mua+Thu+Xa+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
-| [Mua Thu Yeu Duong](https://www.youtube.com/results?search_query=Mua+Thu+Yeu+Duong+Karaoke) |  | [mùa thu](mùa_thu.md) |
+| [Mua Thu Yeu Duong](https://www.youtube.com/results?search_query=Mua+Thu+Yeu+Duong+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |
 | [Mùa Thu Chết](https://www.youtube.com/results?search_query=Mùa+Thu+Chết+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Mùa Thu Paris](https://www.youtube.com/results?search_query=Mùa+Thu+Paris+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Mùa Thu Ru Em](https://www.youtube.com/results?search_query=Mùa+Thu+Ru+Em+Karaoke) | [Đức Huy](đức_huy.md) | [mùa thu](mùa_thu.md) |
@@ -34,7 +35,7 @@
 | [Thu Cô Liêu](https://www.youtube.com/results?search_query=Thu+Cô+Liêu+Karaoke) | [Văn Cao](văn_cao.md) | [mùa thu](mùa_thu.md) |
 | [Thu Khoc Tren Ngan](https://www.youtube.com/results?search_query=Thu+Khoc+Tren+Ngan+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Thu Quyen Ru](https://www.youtube.com/results?search_query=Thu+Quyen+Ru+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [mùa thu](mùa_thu.md) [tiền chiến](tiền_chiến.md) |
-| [Thu Sau](https://www.youtube.com/results?search_query=Thu+Sau+Karaoke) |  | [mùa thu](mùa_thu.md) |
+| [Thu Sầu](https://www.youtube.com/results?search_query=Thu+Sầu+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |
 | [Thu Vang](https://www.youtube.com/results?search_query=Thu+Vang+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Thu Ve Trong Mat Em](https://www.youtube.com/results?search_query=Thu+Ve+Trong+Mat+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Tinh Vao Thu](https://www.youtube.com/results?search_query=Tinh+Vao+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
