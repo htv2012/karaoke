@@ -2,7 +2,7 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Anh Đã Quên Mùa Thu](https://www.youtube.com/results?search_query=Anh+Đã+Quên+Mùa+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
+| [Anh Đã Quên Mùa Thu](https://www.youtube.com/results?search_query=Anh+Đã+Quên+Mùa+Thu+Karaoke) | [Nam Lộc](nam_lộc.md) [Tùng Giang](tùng_giang.md) | [mùa thu](mùa_thu.md) |
 | [Chiec La Thu Phai](https://www.youtube.com/results?search_query=Chiec+La+Thu+Phai+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
 | [Co Phai Em Mua Thu Ha Noi](https://www.youtube.com/results?search_query=Co+Phai+Em+Mua+Thu+Ha+Noi+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Dau Phai Boi Mua Thu](https://www.youtube.com/results?search_query=Dau+Phai+Boi+Mua+Thu+Karaoke) | [Phú Quang](phú_quang.md) | [mùa thu](mùa_thu.md) |
@@ -27,7 +27,7 @@
 | [Nghin Thu Ao Tim](https://www.youtube.com/results?search_query=Nghin+Thu+Ao+Tim+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Nhin Nhung Mua Thu Di](https://www.youtube.com/results?search_query=Nhin+Nhung+Mua+Thu+Di+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
 | [Nho Mua Thu Ha Noi](https://www.youtube.com/results?search_query=Nho+Mua+Thu+Ha+Noi+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
-| [Nắng Thu](https://www.youtube.com/results?search_query=Nắng+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
+| [Nắng Thu](https://www.youtube.com/results?search_query=Nắng+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) [ngoại quốc](ngoại_quốc.md) |
 | [Nước Mắt Mùa Thu](https://www.youtube.com/results?search_query=Nước+Mắt+Mùa+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Thu Ca](https://www.youtube.com/results?search_query=Thu+Ca+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Thu Cô Liêu](https://www.youtube.com/results?search_query=Thu+Cô+Liêu+Karaoke) | [Văn Cao](văn_cao.md) | [mùa thu](mùa_thu.md) |
@@ -38,4 +38,5 @@
 | [Thu Ve Trong Mat Em](https://www.youtube.com/results?search_query=Thu+Ve+Trong+Mat+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Tinh Vao Thu](https://www.youtube.com/results?search_query=Tinh+Vao+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Tiếng Thu](https://www.youtube.com/results?search_query=Tiếng+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
+| [Trưng Vương Khung Cửa Mùa Thu](https://www.youtube.com/results?search_query=Trưng+Vương+Khung+Cửa+Mùa+Thu+Karaoke) | [Nam Lộc](nam_lộc.md) | [mùa thu](mùa_thu.md) [ngoại quốc](ngoại_quốc.md) |
 | [Tuong Khong Con Mua Thu](https://www.youtube.com/results?search_query=Tuong+Khong+Con+Mua+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
