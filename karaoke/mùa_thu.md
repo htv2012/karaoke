@@ -28,7 +28,7 @@
 | [Nghin Thu Ao Tim](https://www.youtube.com/results?search_query=Nghin+Thu+Ao+Tim+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Nhin Nhung Mua Thu Di](https://www.youtube.com/results?search_query=Nhin+Nhung+Mua+Thu+Di+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
 | [Nho Mua Thu Ha Noi](https://www.youtube.com/results?search_query=Nho+Mua+Thu+Ha+Noi+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
-| [Nuoc Mat Mua Thu](https://www.youtube.com/results?search_query=Nuoc+Mat+Mua+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
+| [Nước Mắt Mùa Thu](https://www.youtube.com/results?search_query=Nước+Mắt+Mùa+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Thu Ca](https://www.youtube.com/results?search_query=Thu+Ca+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Thu Cô Liêu](https://www.youtube.com/results?search_query=Thu+Cô+Liêu+Karaoke) | [Văn Cao](văn_cao.md) | [mùa thu](mùa_thu.md) |
 | [Thu Khoc Tren Ngan](https://www.youtube.com/results?search_query=Thu+Khoc+Tren+Ngan+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
@@ -36,6 +36,6 @@
 | [Thu Sau](https://www.youtube.com/results?search_query=Thu+Sau+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Thu Vang](https://www.youtube.com/results?search_query=Thu+Vang+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Thu Ve Trong Mat Em](https://www.youtube.com/results?search_query=Thu+Ve+Trong+Mat+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
-| [Tieng Thu](https://www.youtube.com/results?search_query=Tieng+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Tinh Vao Thu](https://www.youtube.com/results?search_query=Tinh+Vao+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
+| [Tiếng Thu](https://www.youtube.com/results?search_query=Tiếng+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Tuong Khong Con Mua Thu](https://www.youtube.com/results?search_query=Tuong+Khong+Con+Mua+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
