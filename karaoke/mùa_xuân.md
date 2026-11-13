@@ -32,7 +32,7 @@
 | [Mùa Xuân Trên Cao](https://www.youtube.com/results?search_query=Mùa+Xuân+Trên+Cao+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) | [mùa xuân](mùa_xuân.md) |
 | [Nụ Tầm Xuân](https://www.youtube.com/results?search_query=Nụ+Tầm+Xuân+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Nắng Xuân](https://www.youtube.com/results?search_query=Nắng+Xuân+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
-| [Ru Em Tung Ngon Xuan Nong](https://www.youtube.com/results?search_query=Ru+Em+Tung+Ngon+Xuan+Nong+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa xuân](mùa_xuân.md) |
+| [Ru Em Từng Ngón Xuân Nồng](https://www.youtube.com/results?search_query=Ru+Em+Từng+Ngón+Xuân+Nồng+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa xuân](mùa_xuân.md) |
 | [Tinh Khuc Mua Xuan](https://www.youtube.com/results?search_query=Tinh+Khuc+Mua+Xuan+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa xuân](mùa_xuân.md) |
 | [Tinh Xuan](https://www.youtube.com/results?search_query=Tinh+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuan Da Ve](https://www.youtube.com/results?search_query=Xuan+Da+Ve+Karaoke) |  | [mùa xuân](mùa_xuân.md) |

@@ -3,7 +3,7 @@
 | Name | Author | Tags |
 | --- | --- | --- |
 | [Anh Đã Quên Mùa Thu](https://www.youtube.com/results?search_query=Anh+Đã+Quên+Mùa+Thu+Karaoke) | [Nam Lộc](nam_lộc.md) [Tùng Giang](tùng_giang.md) | [mùa thu](mùa_thu.md) |
-| [Chiec La Thu Phai](https://www.youtube.com/results?search_query=Chiec+La+Thu+Phai+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
+| [Chiếc Lá Thu Phai](https://www.youtube.com/results?search_query=Chiếc+Lá+Thu+Phai+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
 | [Co Phai Em Mua Thu Ha Noi](https://www.youtube.com/results?search_query=Co+Phai+Em+Mua+Thu+Ha+Noi+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Dau Phai Boi Mua Thu](https://www.youtube.com/results?search_query=Dau+Phai+Boi+Mua+Thu+Karaoke) | [Phú Quang](phú_quang.md) | [mùa thu](mùa_thu.md) |
 | [Em Ve Mua Thu](https://www.youtube.com/results?search_query=Em+Ve+Mua+Thu+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
@@ -25,8 +25,8 @@
 | [Mùa Thu Ru Em](https://www.youtube.com/results?search_query=Mùa+Thu+Ru+Em+Karaoke) | [Đức Huy](đức_huy.md) | [mùa thu](mùa_thu.md) |
 | [Mùa Thu Trong Mưa](https://www.youtube.com/results?search_query=Mùa+Thu+Trong+Mưa+Karaoke) | [Trường Sa](trường_sa.md) | [mùa thu](mùa_thu.md) |
 | [Nghin Thu Ao Tim](https://www.youtube.com/results?search_query=Nghin+Thu+Ao+Tim+Karaoke) |  | [mùa thu](mùa_thu.md) |
-| [Nhin Nhung Mua Thu Di](https://www.youtube.com/results?search_query=Nhin+Nhung+Mua+Thu+Di+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
-| [Nho Mua Thu Ha Noi](https://www.youtube.com/results?search_query=Nho+Mua+Thu+Ha+Noi+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
+| [Nhìn Những Mùa Thu Đi](https://www.youtube.com/results?search_query=Nhìn+Những+Mùa+Thu+Đi+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
+| [Nhớ Mùa Thu Hà Nội](https://www.youtube.com/results?search_query=Nhớ+Mùa+Thu+Hà+Nội+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
 | [Nắng Thu](https://www.youtube.com/results?search_query=Nắng+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) [ngoại quốc](ngoại_quốc.md) |
 | [Nước Mắt Mùa Thu](https://www.youtube.com/results?search_query=Nước+Mắt+Mùa+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Thu Ca](https://www.youtube.com/results?search_query=Thu+Ca+Karaoke) |  | [mùa thu](mùa_thu.md) |
