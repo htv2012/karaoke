@@ -109,6 +109,7 @@
 | [Con Nang Tren Doi](https://www.youtube.com/results?search_query=Con+Nang+Tren+Doi+Karaoke) | [Lê Uyên Phương](lê_uyên_phương.md) |  |
 | [Con Quy Lay Chua Tren Troi](https://www.youtube.com/results?search_query=Con+Quy+Lay+Chua+Tren+Troi+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Con Ta Voi Nong Nan](https://www.youtube.com/results?search_query=Con+Ta+Voi+Nong+Nan+Karaoke) | [Quốc Bảo](quốc_bảo.md) |  |
+| [Con Thuyền Không Bến](https://www.youtube.com/results?search_query=Con+Thuyền+Không+Bến+Karaoke) | [Đặng Thế Phong](đặng_thế_phong.md) |  |
 | [Con Tinh Ta Di](https://www.youtube.com/results?search_query=Con+Tinh+Ta+Di+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Con Tuoi Nao Cho Em](https://www.youtube.com/results?search_query=Con+Tuoi+Nao+Cho+Em+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Con Yeu Em Mai](https://www.youtube.com/results?search_query=Con+Yeu+Em+Mai+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
@@ -203,6 +204,7 @@
 | [Giot Nang Hong](https://www.youtube.com/results?search_query=Giot+Nang+Hong+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Giot Nuoc Mac Cho Que Huong](https://www.youtube.com/results?search_query=Giot+Nuoc+Mac+Cho+Que+Huong+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Giot Nuoc Mat Nga](https://www.youtube.com/results?search_query=Giot+Nuoc+Mat+Nga+Karaoke) |  |  |
+| [Giọt Mưa Thu](https://www.youtube.com/results?search_query=Giọt+Mưa+Thu+Karaoke) | [Đặng Thế Phong](đặng_thế_phong.md) |  |
 | [Goi Em La Doa Hoa Sau](https://www.youtube.com/results?search_query=Goi+Em+La+Doa+Hoa+Sau+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Goi Giac Mo Xua](https://www.youtube.com/results?search_query=Goi+Giac+Mo+Xua+Karaoke) |  |  |
 | [Goi Ten Bon Mua](https://www.youtube.com/results?search_query=Goi+Ten+Bon+Mua+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
@@ -406,7 +408,6 @@
 | [Phuong Yeu](https://www.youtube.com/results?search_query=Phuong+Yeu+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Phải Chi Em Biết](https://www.youtube.com/results?search_query=Phải+Chi+Em+Biết+Karaoke) |  |  |
 | [Que Ngheo](https://www.youtube.com/results?search_query=Que+Ngheo+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
-| [Quen Di Tinh Yeu Cu](https://www.youtube.com/results?search_query=Quen+Di+Tinh+Yeu+Cu+Karaoke) | [Trịnh Nam Sơn](trịnh_nam_sơn.md) |  |
 | [Quynh Huong](https://www.youtube.com/results?search_query=Quynh+Huong+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Quên Đi Tình Yêu Cũ](https://www.youtube.com/results?search_query=Quên+Đi+Tình+Yêu+Cũ+Karaoke) | [Trịnh Nam Sơn](trịnh_nam_sơn.md) |  |
 | [Rieng Mot Goc Troi](https://www.youtube.com/results?search_query=Rieng+Mot+Goc+Troi+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
