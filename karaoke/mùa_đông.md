@@ -3,6 +3,7 @@
 | Name | Author | Tags |
 | --- | --- | --- |
 | [Bài Tình Ca Mùa Đông](https://www.youtube.com/results?search_query=Bài+Tình+Ca+Mùa+Đông+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) | [mùa đông](mùa_đông.md) |
+| [Chiều Đông](https://www.youtube.com/results?search_query=Chiều+Đông+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa đông](mùa_đông.md) |
 | [Dem Dong](https://www.youtube.com/results?search_query=Dem+Dong+Karaoke) |  | [mùa đông](mùa_đông.md) |
 | [Lang Dang Chieu Dong Ha Noi](https://www.youtube.com/results?search_query=Lang+Dang+Chieu+Dong+Ha+Noi+Karaoke) | [Phú Quang](phú_quang.md) | [mùa đông](mùa_đông.md) |
 | [Lời Ru Mùa Đông](https://www.youtube.com/results?search_query=Lời+Ru+Mùa+Đông+Karaoke) | [Đức Huy](đức_huy.md) | [mùa đông](mùa_đông.md) |
