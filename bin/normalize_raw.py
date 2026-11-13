@@ -20,7 +20,7 @@ def title_case(text: str) -> str:
     return "|".join(out)
 
 
-def normalize_row(row: list[str]) -> tuple[str]:
+def normalize_row(row: list[str]) -> tuple[str, str, str]:
     """Normalize a row
 
     - Ensure it has 3 fields: name, author, and tags
