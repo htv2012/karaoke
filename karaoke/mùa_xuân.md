@@ -15,8 +15,7 @@
 | [Chuc Xuan Thanh Son](https://www.youtube.com/results?search_query=Chuc+Xuan+Thanh+Son+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Chuyện Buồn Ngày Xuân](https://www.youtube.com/results?search_query=Chuyện+Buồn+Ngày+Xuân+Karaoke) | [Lam Phương](lam_phương.md) | [mùa xuân](mùa_xuân.md) |
 | [Co Gai Xuan Thi](https://www.youtube.com/results?search_query=Co+Gai+Xuan+Thi+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
-| [Diep Khuc Mua Xuan](https://www.youtube.com/results?search_query=Diep+Khuc+Mua+Xuan+Karaoke) | [Quốc Dũng](quốc_dũng.md) | [mùa xuân](mùa_xuân.md) |
-| [Diu Dang Sac Xuan](https://www.youtube.com/results?search_query=Diu+Dang+Sac+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
+| [Dịu Dàng Sắc Xuân](https://www.youtube.com/results?search_query=Dịu+Dàng+Sắc+Xuân+Karaoke) | [Nguyễn Nam](nguyễn_nam.md) | [mùa xuân](mùa_xuân.md) |
 | [Don Vang Chieu Xuan](https://www.youtube.com/results?search_query=Don+Vang+Chieu+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Don Xuan](https://www.youtube.com/results?search_query=Don+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Don Xuan Nay Nho Xuan Xua](https://www.youtube.com/results?search_query=Don+Xuan+Nay+Nho+Xuan+Xua+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
@@ -49,5 +48,6 @@
 | [Xuan Yeu Thuong](https://www.youtube.com/results?search_query=Xuan+Yeu+Thuong+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Xuàn Thì](https://www.youtube.com/results?search_query=Xuàn+Thì+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Xuân Ca](https://www.youtube.com/results?search_query=Xuân+Ca+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
+| [Điệp Khúc Mùa Xuân](https://www.youtube.com/results?search_query=Điệp+Khúc+Mùa+Xuân+Karaoke) | [Quốc Dũng](quốc_dũng.md) | [mùa xuân](mùa_xuân.md) |
 | [Đón Xuân Thanh Bình](https://www.youtube.com/results?search_query=Đón+Xuân+Thanh+Bình+Karaoke) | [Minh Kỳ](minh_kỳ.md) | [mùa xuân](mùa_xuân.md) |
 | [Đêm Xuân](https://www.youtube.com/results?search_query=Đêm+Xuân+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
