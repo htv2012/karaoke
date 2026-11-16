@@ -48,7 +48,7 @@ class Entry:
         return sorted(text.split("|"))
 
     @staticmethod
-    def make_link(text: str, url: str | None = None):
+    def make_link(text: str, url=None):
         if url is None:
             url = text.replace(" ", "_").lower() + ".md"
         return f"[{text}]({url})"
