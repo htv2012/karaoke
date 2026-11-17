@@ -92,14 +92,13 @@
 | [Chỉ Chừng Đó Thôi](https://www.youtube.com/results?search_query=Chỉ+Chừng+Đó+Thôi+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Chỉ Có Một Thời](https://www.youtube.com/results?search_query=Chỉ+Có+Một+Thời+Karaoke) | [Diệu Hương](diệu_hương.md) |  |
 | [Chỉ Là Giấc Mơ Qua](https://www.youtube.com/results?search_query=Chỉ+Là+Giấc+Mơ+Qua+Karaoke) | [Nam Lộc](nam_lộc.md) | [ngoại quốc](ngoại_quốc.md) |
-| [Cho Dong](https://www.youtube.com/results?search_query=Cho+Dong+Karaoke) |  |  |
-| [Cho Em Ngay Nang Xanh](https://www.youtube.com/results?search_query=Cho+Em+Ngay+Nang+Xanh+Karaoke) | [Quốc Bảo](quốc_bảo.md) |  |
+| [Cho Em Ngày Nắng Xanh](https://www.youtube.com/results?search_query=Cho+Em+Ngày+Nắng+Xanh+Karaoke) | [Quốc Bảo](quốc_bảo.md) |  |
 | [Cho Em Quên Tuổi Ngọc](https://www.youtube.com/results?search_query=Cho+Em+Quên+Tuổi+Ngọc+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Cho Ky Niem Mua Dong](https://www.youtube.com/results?search_query=Cho+Ky+Niem+Mua+Dong+Karaoke) |  |  |
 | [Cho Lần Cuối](https://www.youtube.com/results?search_query=Cho+Lần+Cuối+Karaoke) | [Lê Uyên Phương](lê_uyên_phương.md) |  |
 | [Cho Một Ngườ Nằm Xuống](https://www.youtube.com/results?search_query=Cho+Một+Ngườ+Nằm+Xuống+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Cho Nguoi](https://www.youtube.com/results?search_query=Cho+Nguoi+Karaoke) |  |  |
-| [Cho Nguoi Tinh Lo](https://www.youtube.com/results?search_query=Cho+Nguoi+Tinh+Lo+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |
+| [Cho Người Tình Lỡ](https://www.youtube.com/results?search_query=Cho+Người+Tình+Lỡ+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |
 | [Cho Quên Thú Đau Thương](https://www.youtube.com/results?search_query=Cho+Quên+Thú+Đau+Thương+Karaoke) | [Nam Lộc](nam_lộc.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Chuc Xuan Thanh Son](https://www.youtube.com/results?search_query=Chuc+Xuan+Thanh+Son+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Chung Thủy](https://www.youtube.com/results?search_query=Chung+Thủy+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
@@ -123,6 +122,7 @@
 | [Chờ](https://www.youtube.com/results?search_query=Chờ+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Chờ Người](https://www.youtube.com/results?search_query=Chờ+Người+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Chờ Nhau](https://www.youtube.com/results?search_query=Chờ+Nhau+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Chờ Đông](https://www.youtube.com/results?search_query=Chờ+Đông+Karaoke) | [Trần Thiện Thanh](trần_thiện_thanh.md) |  |
 | [Chợt Nghĩ Về Hai Nơi](https://www.youtube.com/results?search_query=Chợt+Nghĩ+Về+Hai+Nơi+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) |  |
 | [Co Gai Xuan Thi](https://www.youtube.com/results?search_query=Co+Gai+Xuan+Thi+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Co Nhung Niem Rieng](https://www.youtube.com/results?search_query=Co+Nhung+Niem+Rieng+Karaoke) | [Lê Tín Hương](lê_tín_hương.md) |  |
@@ -130,7 +130,6 @@
 | [Coi Buon](https://www.youtube.com/results?search_query=Coi+Buon+Karaoke) |  |  |
 | [Con Duong Toi Ve](https://www.youtube.com/results?search_query=Con+Duong+Toi+Ve+Karaoke) | [Lê Tín Hương](lê_tín_hương.md) |  |
 | [Con Quỳ Lạy Chúa Trên Trời](https://www.youtube.com/results?search_query=Con+Quỳ+Lạy+Chúa+Trên+Trời+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
-| [Con Ta Voi Nong Nan](https://www.youtube.com/results?search_query=Con+Ta+Voi+Nong+Nan+Karaoke) | [Quốc Bảo](quốc_bảo.md) |  |
 | [Con Thuyền Không Bến](https://www.youtube.com/results?search_query=Con+Thuyền+Không+Bến+Karaoke) | [Đặng Thế Phong](đặng_thế_phong.md) |  |
 | [Con Yeu Em Mai](https://www.youtube.com/results?search_query=Con+Yeu+Em+Mai+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
 | [Con Đường Màu Xanh](https://www.youtube.com/results?search_query=Con+Đường+Màu+Xanh+Karaoke) | [Trịnh Nam Sơn](trịnh_nam_sơn.md) |  |
@@ -138,6 +137,7 @@
 | [Còn Chút Gì Để Nhớ](https://www.youtube.com/results?search_query=Còn+Chút+Gì+Để+Nhớ+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Còn Gì Nữa Đâu](https://www.youtube.com/results?search_query=Còn+Gì+Nữa+Đâu+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Còn Nắng Trên Đồi](https://www.youtube.com/results?search_query=Còn+Nắng+Trên+Đồi+Karaoke) | [Lê Uyên Phương](lê_uyên_phương.md) |  |
+| [Còn Ta Với Nồng Nàn](https://www.youtube.com/results?search_query=Còn+Ta+Với+Nồng+Nàn+Karaoke) | [Quốc Bảo](quốc_bảo.md) |  |
 | [Còn Tuổi Nào Cho Em](https://www.youtube.com/results?search_query=Còn+Tuổi+Nào+Cho+Em+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Có Bao Giờ Em Hỏi](https://www.youtube.com/results?search_query=Có+Bao+Giờ+Em+Hỏi+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Cỏ Úa](https://www.youtube.com/results?search_query=Cỏ+Úa+Karaoke) | [Lam Phương](lam_phương.md) |  |
@@ -180,9 +180,9 @@
 | [Em Hiền Như Ma Sơ](https://www.youtube.com/results?search_query=Em+Hiền+Như+Ma+Sơ+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Em Lễ Chùa Này](https://www.youtube.com/results?search_query=Em+Lễ+Chùa+Này+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Em Tôi](https://www.youtube.com/results?search_query=Em+Tôi+Karaoke) |  |  |
-| [Em Ve Tinh Khôi](https://www.youtube.com/results?search_query=Em+Ve+Tinh+Khôi+Karaoke) | [Quốc Bảo](quốc_bảo.md) |  |
 | [Em Về Mùa Thu](https://www.youtube.com/results?search_query=Em+Về+Mùa+Thu+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Em Về Nào Có Hay](https://www.youtube.com/results?search_query=Em+Về+Nào+Có+Hay+Karaoke) | [Hoàng Trọng Thụy](hoàng_trọng_thụy.md) |  |
+| [Em Về Tinh Khôi](https://www.youtube.com/results?search_query=Em+Về+Tinh+Khôi+Karaoke) | [Quốc Bảo](quốc_bảo.md) |  |
 | [Em Đã Cho Tôi Bầu Trớ̀i](https://www.youtube.com/results?search_query=Em+Đã+Cho+Tôi+Bầu+Trớ̀i+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Em Đẹp Nhất Đêm Nay](https://www.youtube.com/results?search_query=Em+Đẹp+Nhất+Đêm+Nay+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Em Đi](https://www.youtube.com/results?search_query=Em+Đi+Karaoke) | [Đức Huy](đức_huy.md) |  |

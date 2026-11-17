@@ -11,7 +11,7 @@
 | [Canh Buom Vuon Xuan](https://www.youtube.com/results?search_query=Canh+Buom+Vuon+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
 | [Cánh Thiệp Đầu Xuân](https://www.youtube.com/results?search_query=Cánh+Thiệp+Đầu+Xuân+Karaoke) | [Lê Dinh](lê_dinh.md) [Minh Kỳ](minh_kỳ.md) | [mùa xuân](mùa_xuân.md) |
 | [Chieu Xuan](https://www.youtube.com/results?search_query=Chieu+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
-| [Cho Nguoi Tinh Lo](https://www.youtube.com/results?search_query=Cho+Nguoi+Tinh+Lo+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |
+| [Cho Người Tình Lỡ](https://www.youtube.com/results?search_query=Cho+Người+Tình+Lỡ+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |
 | [Chuc Xuan Thanh Son](https://www.youtube.com/results?search_query=Chuc+Xuan+Thanh+Son+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Chuyện Buồn Ngày Xuân](https://www.youtube.com/results?search_query=Chuyện+Buồn+Ngày+Xuân+Karaoke) | [Lam Phương](lam_phương.md) | [mùa xuân](mùa_xuân.md) |
 | [Co Gai Xuan Thi](https://www.youtube.com/results?search_query=Co+Gai+Xuan+Thi+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
