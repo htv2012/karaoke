@@ -16,7 +16,7 @@
 | [Chúc Xuân](https://www.youtube.com/results?search_query=Chúc+Xuân+Karaoke) | [Thanh Son](thanh_son.md) | [mùa xuân](mùa_xuân.md) |
 | [Dịu Dàng Sắc Xuân](https://www.youtube.com/results?search_query=Dịu+Dàng+Sắc+Xuân+Karaoke) | [Nguyễn Nam](nguyễn_nam.md) | [mùa xuân](mùa_xuân.md) |
 | [Em Còn Nhớ Mùa Xuân](https://www.youtube.com/results?search_query=Em+Còn+Nhớ+Mùa+Xuân+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa xuân](mùa_xuân.md) |
-| [Gái Xuân](https://www.youtube.com/results?search_query=Gái+Xuân+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
+| [Gái Xuân](https://www.youtube.com/results?search_query=Gái+Xuân+Karaoke) | [Từ Vũ](từ_vũ.md) | [mùa xuân](mùa_xuân.md) |
 | [Gió Mùa Xuân Tới](https://www.youtube.com/results?search_query=Gió+Mùa+Xuân+Tới+Karaoke) | [Hoàng Trọng](hoàng_trọng.md) | [mùa xuân](mùa_xuân.md) |
 | [Hoa Xuân](https://www.youtube.com/results?search_query=Hoa+Xuân+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Khúc Hát Thanh Xuân](https://www.youtube.com/results?search_query=Khúc+Hát+Thanh+Xuân+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |

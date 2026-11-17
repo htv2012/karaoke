@@ -7,7 +7,7 @@
 | [Bóng Nhỏ Giáo Đường](https://www.youtube.com/results?search_query=Bóng+Nhỏ+Giáo+Đường+Karaoke) | [Phượng Linh](phượng_linh.md) | [công giáo](công_giáo.md) [giáng sinh](giáng_sinh.md) |
 | [Cao Cung Lên](https://www.youtube.com/results?search_query=Cao+Cung+Lên+Karaoke) | [Hoài Đức](hoài_đức.md) [Nguyễn Khắc Xuyên](nguyễn_khắc_xuyên.md) | [giáng sinh](giáng_sinh.md) |
 | [Chuông Ngân Vang](https://www.youtube.com/results?search_query=Chuông+Ngân+Vang+Karaoke) |  | [giáng sinh](giáng_sinh.md) [ngoại quốc](ngoại_quốc.md) |
-| [Dư Âm Mùa Giáng Sinh](https://www.youtube.com/results?search_query=Dư+Âm+Mùa+Giáng+Sinh+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
+| [Dư Âm Mùa Giáng Sinh](https://www.youtube.com/results?search_query=Dư+Âm+Mùa+Giáng+Sinh+Karaoke) | [Ngân Giang](ngân_giang.md) | [giáng sinh](giáng_sinh.md) |
 | [Hai Mùa Noel](https://www.youtube.com/results?search_query=Hai+Mùa+Noel+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Hang Belem](https://www.youtube.com/results?search_query=Hang+Belem+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Lời Con Xin Chúa](https://www.youtube.com/results?search_query=Lời+Con+Xin+Chúa+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
