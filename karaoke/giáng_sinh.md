@@ -12,7 +12,7 @@
 | [Hang Belem](https://www.youtube.com/results?search_query=Hang+Belem+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Lời Con Xin Chúa](https://www.youtube.com/results?search_query=Lời+Con+Xin+Chúa+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Màu Xanh Noel](https://www.youtube.com/results?search_query=Màu+Xanh+Noel+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
-| [Mùa Hoa Tuyề](https://www.youtube.com/results?search_query=Mùa+Hoa+Tuyề+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
+| [Mùa Hoa Tuyết](https://www.youtube.com/results?search_query=Mùa+Hoa+Tuyết+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Mùa Sao Sáng](https://www.youtube.com/results?search_query=Mùa+Sao+Sáng+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Mùa Đông Năm Ấy](https://www.youtube.com/results?search_query=Mùa+Đông+Năm+Ấy+Karaoke) | [Hoài Đức](hoài_đức.md) | [giáng sinh](giáng_sinh.md) |
 | [Nguyện Cầu Cho Nhau](https://www.youtube.com/results?search_query=Nguyện+Cầu+Cho+Nhau+Karaoke) | [Phanxicô](phanxicô.md) | [giáng sinh](giáng_sinh.md) |
