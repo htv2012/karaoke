@@ -8,7 +8,7 @@
 | [Bến Xuân](https://www.youtube.com/results?search_query=Bến+Xuân+Karaoke) | [Văn Cao](văn_cao.md) | [mùa xuân](mùa_xuân.md) |
 | [Bến Xuân Xanh](https://www.youtube.com/results?search_query=Bến+Xuân+Xanh+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) | [mùa xuân](mùa_xuân.md) |
 | [Ca Khúc Nừng Xuân](https://www.youtube.com/results?search_query=Ca+Khúc+Nừng+Xuân+Karaoke) | [Văn Phụng](văn_phụng.md) | [mùa xuân](mùa_xuân.md) |
-| [Canh Buom Vuon Xuan](https://www.youtube.com/results?search_query=Canh+Buom+Vuon+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
+| [Cánh Bướm Vườn Xuân](https://www.youtube.com/results?search_query=Cánh+Bướm+Vườn+Xuân+Karaoke) |  | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
 | [Cánh Thiệp Đầu Xuân](https://www.youtube.com/results?search_query=Cánh+Thiệp+Đầu+Xuân+Karaoke) | [Lê Dinh](lê_dinh.md) [Minh Kỳ](minh_kỳ.md) | [mùa xuân](mùa_xuân.md) |
 | [Chiều Xuân](https://www.youtube.com/results?search_query=Chiều+Xuân+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
 | [Cho Người Tình Lỡ](https://www.youtube.com/results?search_query=Cho+Người+Tình+Lỡ+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |

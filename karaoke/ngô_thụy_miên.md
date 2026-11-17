@@ -5,8 +5,8 @@
 | [Áo Lụa Hà Đông](https://www.youtube.com/results?search_query=Áo+Lụa+Hà+Đông+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Bài Tình Ca Cho Em](https://www.youtube.com/results?search_query=Bài+Tình+Ca+Cho+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Bản Tình Cuối](https://www.youtube.com/results?search_query=Bản+Tình+Cuối+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
-| [Can Thiet](https://www.youtube.com/results?search_query=Can+Thiet+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Chiều Nay Không Có Em](https://www.youtube.com/results?search_query=Chiều+Nay+Không+Có+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
+| [Cần Thiết](https://www.youtube.com/results?search_query=Cần+Thiết+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Dấu Tình Sầu](https://www.youtube.com/results?search_query=Dấu+Tình+Sầu+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Dốc Mơ](https://www.youtube.com/results?search_query=Dốc+Mơ+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Em Còn Nhớ Mùa Xuân](https://www.youtube.com/results?search_query=Em+Còn+Nhớ+Mùa+Xuân+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa xuân](mùa_xuân.md) |

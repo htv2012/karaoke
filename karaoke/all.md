@@ -44,7 +44,6 @@
 | [Bóng Chiều Xưa](https://www.youtube.com/results?search_query=Bóng+Chiều+Xưa+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) [Minh Trang](minh_trang.md) |  |
 | [Bóng Người Đi](https://www.youtube.com/results?search_query=Bóng+Người+Đi+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
 | [Bóng Nhỏ Giáo Đường](https://www.youtube.com/results?search_query=Bóng+Nhỏ+Giáo+Đường+Karaoke) | [Phượng Linh](phượng_linh.md) | [công giáo](công_giáo.md) [giáng sinh](giáng_sinh.md) |
-| [Buoc Tinh Hong](https://www.youtube.com/results?search_query=Buoc+Tinh+Hong+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
 | [Buồn Tàn Thu](https://www.youtube.com/results?search_query=Buồn+Tàn+Thu+Karaoke) | [Văn Cao](văn_cao.md) |  |
 | [Buồn Đến Bao Giờ](https://www.youtube.com/results?search_query=Buồn+Đến+Bao+Giờ+Karaoke) | [Lê Uyên Phương](lê_uyên_phương.md) |  |
 | [Bâng Khuâng Chiều Nội Trú](https://www.youtube.com/results?search_query=Bâng+Khuâng+Chiều+Nội+Trú+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
@@ -54,16 +53,16 @@
 | [Bến Xuân Xanh](https://www.youtube.com/results?search_query=Bến+Xuân+Xanh+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) | [mùa xuân](mùa_xuân.md) |
 | [Bốn Mùa Thay Lá](https://www.youtube.com/results?search_query=Bốn+Mùa+Thay+Lá+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Bơ Vơ](https://www.youtube.com/results?search_query=Bơ+Vơ+Karaoke) | [Hoàng Trọng](hoàng_trọng.md) |  |
+| [Bước Tình Hồng](https://www.youtube.com/results?search_query=Bước+Tình+Hồng+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
 | [Bức Tâm Thư](https://www.youtube.com/results?search_query=Bức+Tâm+Thư+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Ca Dao Mẹ](https://www.youtube.com/results?search_query=Ca+Dao+Mẹ+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Ca Khúc Nừng Xuân](https://www.youtube.com/results?search_query=Ca+Khúc+Nừng+Xuân+Karaoke) | [Văn Phụng](văn_phụng.md) | [mùa xuân](mùa_xuân.md) |
-| [Can Thiet](https://www.youtube.com/results?search_query=Can+Thiet+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
-| [Canh Buom Vuon Xuan](https://www.youtube.com/results?search_query=Canh+Buom+Vuon+Xuan+Karaoke) |  | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
 | [Cao Cung Lên](https://www.youtube.com/results?search_query=Cao+Cung+Lên+Karaoke) | [Hoài Đức](hoài_đức.md) [Nguyễn Khắc Xuyên](nguyễn_khắc_xuyên.md) | [giáng sinh](giáng_sinh.md) |
 | [Cà Phê Đáng](https://www.youtube.com/results?search_query=Cà+Phê+Đáng+Karaoke) | [Hoài An](hoài_an.md) |  |
 | [Cà Phê Đáng Trở Lại](https://www.youtube.com/results?search_query=Cà+Phê+Đáng+Trở+Lại+Karaoke) | [Đào Phi Dương](đào_phi_dương.md) |  |
 | [Cành Hoa Trắng](https://www.youtube.com/results?search_query=Cành+Hoa+Trắng+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Các Anh Đi](https://www.youtube.com/results?search_query=Các+Anh+Đi+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
+| [Cánh Bướm Vườn Xuân](https://www.youtube.com/results?search_query=Cánh+Bướm+Vườn+Xuân+Karaoke) |  | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
 | [Cánh Hoa Xưa](https://www.youtube.com/results?search_query=Cánh+Hoa+Xưa+Karaoke) | [Hoàng Trọng](hoàng_trọng.md) |  |
 | [Cánh Thiệp Đầu Xuân](https://www.youtube.com/results?search_query=Cánh+Thiệp+Đầu+Xuân+Karaoke) | [Lê Dinh](lê_dinh.md) [Minh Kỳ](minh_kỳ.md) | [mùa xuân](mùa_xuân.md) |
 | [Cát Bụi](https://www.youtube.com/results?search_query=Cát+Bụi+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
@@ -142,6 +141,7 @@
 | [Cuối Cùng Cho Một Tình Yêu](https://www.youtube.com/results?search_query=Cuối+Cùng+Cho+Một+Tình+Yêu+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Cuộc Tình Tàn](https://www.youtube.com/results?search_query=Cuộc+Tình+Tàn+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Cây Đàn Bỏ Quên](https://www.youtube.com/results?search_query=Cây+Đàn+Bỏ+Quên+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Cần Thiết](https://www.youtube.com/results?search_query=Cần+Thiết+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Cô Bắc Kỳ Nho Nhỏ](https://www.youtube.com/results?search_query=Cô+Bắc+Kỳ+Nho+Nhỏ+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Cô Hái Mơ](https://www.youtube.com/results?search_query=Cô+Hái+Mơ+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Căn Nhà Xinh](https://www.youtube.com/results?search_query=Căn+Nhà+Xinh+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
@@ -161,7 +161,6 @@
 | [Dốc Mơ](https://www.youtube.com/results?search_query=Dốc+Mơ+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Dư Âm Mùa Giáng Sinh](https://www.youtube.com/results?search_query=Dư+Âm+Mùa+Giáng+Sinh+Karaoke) |  | [giáng sinh](giáng_sinh.md) |
 | [Dưới Giàn Hoa Cũ](https://www.youtube.com/results?search_query=Dưới+Giàn+Hoa+Cũ+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) |  |
-| [Dừng Bước Gian Hồ](https://www.youtube.com/results?search_query=Dừng+Bước+Gian+Hồ+Karaoke) |  |  |
 | [Dừng Bước Giang Hồ](https://www.youtube.com/results?search_query=Dừng+Bước+Giang+Hồ+Karaoke) | [Hoàng Trọng](hoàng_trọng.md) |  |
 | [Em Bé Quê](https://www.youtube.com/results?search_query=Em+Bé+Quê+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Em Còn Nhớ Hay Em Đã Quên](https://www.youtube.com/results?search_query=Em+Còn+Nhớ+Hay+Em+Đã+Quên+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
@@ -457,11 +456,11 @@
 | [Thu Sầu](https://www.youtube.com/results?search_query=Thu+Sầu+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |
 | [Thu Vàng](https://www.youtube.com/results?search_query=Thu+Vàng+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Thu Về Trong Mắt Em](https://www.youtube.com/results?search_query=Thu+Về+Trong+Mắt+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
-| [Thuong Nhau Ngay Mua](https://www.youtube.com/results?search_query=Thuong+Nhau+Ngay+Mua+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
 | [Thuyền Viễn Xứ](https://www.youtube.com/results?search_query=Thuyền+Viễn+Xứ+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Thuở Ấy Có Em](https://www.youtube.com/results?search_query=Thuở+Ấy+Có+Em+Karaoke) | [Huỳnh Anh](huỳnh_anh.md) |  |
 | [Thôi](https://www.youtube.com/results?search_query=Thôi+Karaoke) | [Y Vân](y_vân.md) |  |
 | [Thương Một Người](https://www.youtube.com/results?search_query=Thương+Một+Người+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
+| [Thương Nhau Ngày Mưa](https://www.youtube.com/results?search_query=Thương+Nhau+Ngày+Mưa+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
 | [Thương Tình Ca](https://www.youtube.com/results?search_query=Thương+Tình+Ca+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Tiếng Hát Sông Lô](https://www.youtube.com/results?search_query=Tiếng+Hát+Sông+Lô+Karaoke) |  |  |
 | [Tiếng Hò Miền Nam](https://www.youtube.com/results?search_query=Tiếng+Hò+Miền+Nam+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
