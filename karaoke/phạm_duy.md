@@ -128,7 +128,6 @@
 | [Vết Thù Trên Lưng Ngựa Hoang](https://www.youtube.com/results?search_query=Vết+Thù+Trên+Lưng+Ngựa+Hoang+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Vắng Bóng Người Yêu](https://www.youtube.com/results?search_query=Vắng+Bóng+Người+Yêu+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Vợ Chồng Quê](https://www.youtube.com/results?search_query=Vợ+Chồng+Quê+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
-| [Xuàn Thì](https://www.youtube.com/results?search_query=Xuàn+Thì+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Xuân Ca](https://www.youtube.com/results?search_query=Xuân+Ca+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa xuân](mùa_xuân.md) |
 | [Yêu Em Bằng Cả Trái Tin](https://www.youtube.com/results?search_query=Yêu+Em+Bằng+Cả+Trái+Tin+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Ông Trăng Xuống Chơi](https://www.youtube.com/results?search_query=Ông+Trăng+Xuống+Chơi+Karaoke) | [Phạm Duy](phạm_duy.md) |  |

@@ -3,13 +3,13 @@
 | Name | Author | Tags |
 | --- | --- | --- |
 | [Anh Đã Quên Mùa Thu](https://www.youtube.com/results?search_query=Anh+Đã+Quên+Mùa+Thu+Karaoke) | [Nam Lộc](nam_lộc.md) [Tùng Giang](tùng_giang.md) | [mùa thu](mùa_thu.md) |
-| [Chi Co Mot Nguoi](https://www.youtube.com/results?search_query=Chi+Co+Mot+Nguoi+Karaoke) | [Minh Kỳ](minh_kỳ.md) | [mùa thu](mùa_thu.md) |
 | [Chiều Thu Ấy](https://www.youtube.com/results?search_query=Chiều+Thu+Ấy+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |
 | [Chiếc Lá Thu Phai](https://www.youtube.com/results?search_query=Chiếc+Lá+Thu+Phai+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) | [mùa thu](mùa_thu.md) |
-| [Co Phai Em Mua Thu Ha Noi](https://www.youtube.com/results?search_query=Co+Phai+Em+Mua+Thu+Ha+Noi+Karaoke) |  | [mùa thu](mùa_thu.md) |
+| [Chỉ Có Một Người](https://www.youtube.com/results?search_query=Chỉ+Có+Một+Người+Karaoke) | [Minh Kỳ](minh_kỳ.md) | [mùa thu](mùa_thu.md) |
+| [Có Phải Em Mùa Thu Hà Nội](https://www.youtube.com/results?search_query=Có+Phải+Em+Mùa+Thu+Hà+Nội+Karaoke) | [Trần Quang Lộc](trần_quang_lộc.md) | [mùa thu](mùa_thu.md) |
 | [Em Về Mùa Thu](https://www.youtube.com/results?search_query=Em+Về+Mùa+Thu+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Giọt Mưa Thu](https://www.youtube.com/results?search_query=Giọt+Mưa+Thu+Karaoke) | [Đặng Thế Phong](đặng_thế_phong.md) | [mùa thu](mùa_thu.md) |
-| [Hoai Thu](https://www.youtube.com/results?search_query=Hoai+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
+| [Hoài Thu](https://www.youtube.com/results?search_query=Hoài+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Không Còn Mùa Thu](https://www.youtube.com/results?search_query=Không+Còn+Mùa+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Mùa Thu Cánh Nâu](https://www.youtube.com/results?search_query=Mùa+Thu+Cánh+Nâu+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Mùa Thu Cho Em](https://www.youtube.com/results?search_query=Mùa+Thu+Cho+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
@@ -39,5 +39,5 @@
 | [Tiếng Thu](https://www.youtube.com/results?search_query=Tiếng+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
 | [Tình Vào Thu](https://www.youtube.com/results?search_query=Tình+Vào+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Trưng Vương Khung Cửa Mùa Thu](https://www.youtube.com/results?search_query=Trưng+Vương+Khung+Cửa+Mùa+Thu+Karaoke) | [Nam Lộc](nam_lộc.md) | [mùa thu](mùa_thu.md) [ngoại quốc](ngoại_quốc.md) |
-| [Tuong Khong Con Mua Thu](https://www.youtube.com/results?search_query=Tuong+Khong+Con+Mua+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
+| [Tưởng Không Còn Mùa Thu](https://www.youtube.com/results?search_query=Tưởng+Không+Còn+Mùa+Thu+Karaoke) |  | [mùa thu](mùa_thu.md) |
 | [Đâu Phải Bởi Mùa Thu](https://www.youtube.com/results?search_query=Đâu+Phải+Bởi+Mùa+Thu+Karaoke) | [Phú Quang](phú_quang.md) | [mùa thu](mùa_thu.md) |
