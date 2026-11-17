@@ -2,5 +2,6 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Nhung Ngay Yeu Nhau](https://www.youtube.com/results?search_query=Nhung+Ngay+Yeu+Nhau+Karaoke) | [Y Vân](y_vân.md) |  |
-| [Thoi](https://www.youtube.com/results?search_query=Thoi+Karaoke) | [Y Vân](y_vân.md) |  |
+| [Ngăn Cách](https://www.youtube.com/results?search_query=Ngăn+Cách+Karaoke) | [Y Vân](y_vân.md) |  |
+| [Những Ngày Yêu Nhau](https://www.youtube.com/results?search_query=Những+Ngày+Yêu+Nhau+Karaoke) | [Y Vân](y_vân.md) |  |
+| [Thôi](https://www.youtube.com/results?search_query=Thôi+Karaoke) | [Y Vân](y_vân.md) |  |

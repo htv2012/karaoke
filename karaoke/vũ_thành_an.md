@@ -2,5 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Doi Da Vang](https://www.youtube.com/results?search_query=Doi+Da+Vang+Karaoke) | [Vũ Thành An](vũ_thành_an.md) |  |
-| [Roi Cung Gia](https://www.youtube.com/results?search_query=Roi+Cung+Gia+Karaoke) | [Vũ Thành An](vũ_thành_an.md) |  |
+| [Rồi Cũng Già](https://www.youtube.com/results?search_query=Rồi+Cũng+Già+Karaoke) | [Vũ Thành An](vũ_thành_an.md) |  |
+| [Đời Đá Vàn](https://www.youtube.com/results?search_query=Đời+Đá+Vàn+Karaoke) | [Vũ Thành An](vũ_thành_an.md) |  |

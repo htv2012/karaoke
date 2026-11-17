@@ -21,7 +21,7 @@
 | [Kiếp Nghèo](https://www.youtube.com/results?search_query=Kiếp+Nghèo+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Kiếp Ve Sầu](https://www.youtube.com/results?search_query=Kiếp+Ve+Sầu+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Lầm](https://www.youtube.com/results?search_query=Lầm+Karaoke) | [Lam Phương](lam_phương.md) |  |
-| [Mua Thu Yeu Duong](https://www.youtube.com/results?search_query=Mua+Thu+Yeu+Duong+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |
+| [Mùa Thu Yêu Đương](https://www.youtube.com/results?search_query=Mùa+Thu+Yêu+Đương+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |
 | [Một Mình](https://www.youtube.com/results?search_query=Một+Mình+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Mưa Lệ](https://www.youtube.com/results?search_query=Mưa+Lệ+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Ngày Buồn](https://www.youtube.com/results?search_query=Ngày+Buồn+Karaoke) | [Lam Phương](lam_phương.md) |  |

@@ -34,7 +34,7 @@
 | [Căn Nhà Xinh](https://www.youtube.com/results?search_query=Căn+Nhà+Xinh+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Dạ Lai Hương](https://www.youtube.com/results?search_query=Dạ+Lai+Hương+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Em Bé Quê](https://www.youtube.com/results?search_query=Em+Bé+Quê+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
-| [Em Hien Nhu Ma Soeur](https://www.youtube.com/results?search_query=Em+Hien+Nhu+Ma+Soeur+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Em Hiền Như Ma Soeur](https://www.youtube.com/results?search_query=Em+Hiền+Như+Ma+Soeur+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Em Hiền Như Ma Sơ](https://www.youtube.com/results?search_query=Em+Hiền+Như+Ma+Sơ+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Em Lễ Chùa Này](https://www.youtube.com/results?search_query=Em+Lễ+Chùa+Này+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Em Đẹp Nhất Đêm Nay](https://www.youtube.com/results?search_query=Em+Đẹp+Nhất+Đêm+Nay+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |

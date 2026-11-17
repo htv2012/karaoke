@@ -6,7 +6,8 @@
 | [Buoc Tinh Hong](https://www.youtube.com/results?search_query=Buoc+Tinh+Hong+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
 | [Bâng Khuâng Chiều Nội Trú](https://www.youtube.com/results?search_query=Bâng+Khuâng+Chiều+Nội+Trú+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
 | [Con Yeu Em Mai](https://www.youtube.com/results?search_query=Con+Yeu+Em+Mai+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
-| [Giac Mo Qua](https://www.youtube.com/results?search_query=Giac+Mo+Qua+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
-| [Kho Tang Cua Chung Ta](https://www.youtube.com/results?search_query=Kho+Tang+Cua+Chung+Ta+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
-| [Mat Troi Den](https://www.youtube.com/results?search_query=Mat+Troi+Den+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
+| [Giấc Mơ Qua](https://www.youtube.com/results?search_query=Giấc+Mơ+Qua+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
+| [Kho Tàng Của Chúng Ta](https://www.youtube.com/results?search_query=Kho+Tàng+Của+Chúng+Ta+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
+| [Mặt Trời Đen](https://www.youtube.com/results?search_query=Mặt+Trời+Đen+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
 | [Thuong Nhau Ngay Mua](https://www.youtube.com/results?search_query=Thuong+Nhau+Ngay+Mua+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
+| [Tình Ca Hồng](https://www.youtube.com/results?search_query=Tình+Ca+Hồng+Karaoke) | [Nguyễn Trung Cang](nguyễn_trung_cang.md) |  |
