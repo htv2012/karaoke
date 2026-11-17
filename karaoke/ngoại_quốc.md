@@ -6,8 +6,10 @@
 | [Biết Ra Sao Ngày Sau](https://www.youtube.com/results?search_query=Biết+Ra+Sao+Ngày+Sau+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Cánh Bướm Vườn Xuân](https://www.youtube.com/results?search_query=Cánh+Bướm+Vườn+Xuân+Karaoke) |  | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
 | [Chiều Tà Serenade](https://www.youtube.com/results?search_query=Chiều+Tà+Serenade+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
+| [Chiếc Là Mùa Đông](https://www.youtube.com/results?search_query=Chiếc+Là+Mùa+Đông+Karaoke) | [Khúc Lan](khúc_lan.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Chỉ Là Giấc Mơ Qua](https://www.youtube.com/results?search_query=Chỉ+Là+Giấc+Mơ+Qua+Karaoke) | [Nam Lộc](nam_lộc.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Cho Quên Thú Đau Thương](https://www.youtube.com/results?search_query=Cho+Quên+Thú+Đau+Thương+Karaoke) | [Nam Lộc](nam_lộc.md) | [ngoại quốc](ngoại_quốc.md) |
+| [Chuông Ngân Vang](https://www.youtube.com/results?search_query=Chuông+Ngân+Vang+Karaoke) |  | [giáng sinh](giáng_sinh.md) [ngoại quốc](ngoại_quốc.md) |
 | [Chú Bé Đánh Trống](https://www.youtube.com/results?search_query=Chú+Bé+Đánh+Trống+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Chủ Nhật Tươi Hồng](https://www.youtube.com/results?search_query=Chủ+Nhật+Tươi+Hồng+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Cuộc Tình Tàn](https://www.youtube.com/results?search_query=Cuộc+Tình+Tàn+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |

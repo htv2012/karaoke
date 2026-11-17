@@ -10,7 +10,7 @@
 | [Ca Khúc Nừng Xuân](https://www.youtube.com/results?search_query=Ca+Khúc+Nừng+Xuân+Karaoke) | [Văn Phụng](văn_phụng.md) | [mùa xuân](mùa_xuân.md) |
 | [Cánh Bướm Vườn Xuân](https://www.youtube.com/results?search_query=Cánh+Bướm+Vườn+Xuân+Karaoke) |  | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
 | [Cánh Thiệp Đầu Xuân](https://www.youtube.com/results?search_query=Cánh+Thiệp+Đầu+Xuân+Karaoke) | [Lê Dinh](lê_dinh.md) [Minh Kỳ](minh_kỳ.md) | [mùa xuân](mùa_xuân.md) |
-| [Chiều Xuân](https://www.youtube.com/results?search_query=Chiều+Xuân+Karaoke) |  | [mùa xuân](mùa_xuân.md) |
+| [Chiều Xuân](https://www.youtube.com/results?search_query=Chiều+Xuân+Karaoke) | [Ngọc Châu](ngọc_châu.md) | [mùa xuân](mùa_xuân.md) |
 | [Cho Người Tình Lỡ](https://www.youtube.com/results?search_query=Cho+Người+Tình+Lỡ+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |
 | [Chuyện Buồn Ngày Xuân](https://www.youtube.com/results?search_query=Chuyện+Buồn+Ngày+Xuân+Karaoke) | [Lam Phương](lam_phương.md) | [mùa xuân](mùa_xuân.md) |
 | [Chúc Xuân](https://www.youtube.com/results?search_query=Chúc+Xuân+Karaoke) | [Thanh Son](thanh_son.md) | [mùa xuân](mùa_xuân.md) |

@@ -2,6 +2,7 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
+| [Chiều Mưa Công Viên](https://www.youtube.com/results?search_query=Chiều+Mưa+Công+Viên+Karaoke) | [Y Vân](y_vân.md) |  |
 | [Ngăn Cách](https://www.youtube.com/results?search_query=Ngăn+Cách+Karaoke) | [Y Vân](y_vân.md) |  |
 | [Những Ngày Yêu Nhau](https://www.youtube.com/results?search_query=Những+Ngày+Yêu+Nhau+Karaoke) | [Y Vân](y_vân.md) |  |
 | [Thôi](https://www.youtube.com/results?search_query=Thôi+Karaoke) | [Y Vân](y_vân.md) |  |
