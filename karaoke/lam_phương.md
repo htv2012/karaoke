@@ -5,7 +5,7 @@
 | [Bé Yêu](https://www.youtube.com/results?search_query=Bé+Yêu+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Biết Đến Bao Giờ](https://www.youtube.com/results?search_query=Biết+Đến+Bao+Giờ+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Biển Tình](https://www.youtube.com/results?search_query=Biển+Tình+Karaoke) | [Lam Phương](lam_phương.md) |  |
-| [Bức Tâm Thư](https://www.youtube.com/results?search_query=Bức+Tâm+Thư+Karaoke) | [Lam Phương](lam_phương.md) |  |
+| [Bức Tâm Thư](https://www.youtube.com/results?search_query=Bức+Tâm+Thư+Karaoke) | [Hồ Đình Phương](hồ_đình_phương.md) [Lam Phương](lam_phương.md) |  |
 | [Chiều Hành Quân](https://www.youtube.com/results?search_query=Chiều+Hành+Quân+Karaoke) | [Lam Phương](lam_phương.md) | [nhạc lính](nhạc_lính.md) |
 | [Chiều Tàn](https://www.youtube.com/results?search_query=Chiều+Tàn+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Chiều Thu Ấy](https://www.youtube.com/results?search_query=Chiều+Thu+Ấy+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |

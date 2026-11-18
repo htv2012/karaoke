@@ -11,4 +11,4 @@
 | [Một Ngày Vui Mùa Đông](https://www.youtube.com/results?search_query=Một+Ngày+Vui+Mùa+Đông+Karaoke) | [Lê Uyên Phương](lê_uyên_phương.md) | [mùa đông](mùa_đông.md) |
 | [Nỗi Nhớ Mùa Đông](https://www.youtube.com/results?search_query=Nỗi+Nhớ+Mùa+Đông+Karaoke) | [Phú Quang](phú_quang.md) | [mùa đông](mùa_đông.md) |
 | [Đêm Chợ Phiên Mùa Đông](https://www.youtube.com/results?search_query=Đêm+Chợ+Phiên+Mùa+Đông+Karaoke) | [Lê Uyên Phương](lê_uyên_phương.md) | [mùa đông](mùa_đông.md) |
-| [Đêm Đông](https://www.youtube.com/results?search_query=Đêm+Đông+Karaoke) |  | [mùa đông](mùa_đông.md) |
+| [Đêm Đông](https://www.youtube.com/results?search_query=Đêm+Đông+Karaoke) | [Nguyễn Văn Thương](nguyễn_văn_thương.md) | [mùa đông](mùa_đông.md) |

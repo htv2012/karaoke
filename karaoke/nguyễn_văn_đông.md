@@ -10,3 +10,4 @@
 | [Nhớ Một Chiều Xuân](https://www.youtube.com/results?search_query=Nhớ+Một+Chiều+Xuân+Karaoke) | [Nguyễn Văn Đông](nguyễn_văn_đông.md) |  |
 | [Phiên Gác Đêm Xuân](https://www.youtube.com/results?search_query=Phiên+Gác+Đêm+Xuân+Karaoke) | [Nguyễn Văn Đông](nguyễn_văn_đông.md) | [nhạc lính](nhạc_lính.md) |
 | [Sắc Hoa Màu Nhớ](https://www.youtube.com/results?search_query=Sắc+Hoa+Màu+Nhớ+Karaoke) | [Nguyễn Văn Đông](nguyễn_văn_đông.md) |  |
+| [Tình Người Ngoại Đạo](https://www.youtube.com/results?search_query=Tình+Người+Ngoại+Đạo+Karaoke) | [Nguyễn Văn Đông](nguyễn_văn_đông.md) |  |

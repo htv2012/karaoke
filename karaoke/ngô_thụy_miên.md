@@ -18,6 +18,7 @@
 | [Mùa Thu Xa Em](https://www.youtube.com/results?search_query=Mùa+Thu+Xa+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Một Cõi Tình Phai](https://www.youtube.com/results?search_query=Một+Cõi+Tình+Phai+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Mắt Biếc](https://www.youtube.com/results?search_query=Mắt+Biếc+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
+| [Mắt Thu](https://www.youtube.com/results?search_query=Mắt+Thu+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Niệm Phút Cuối](https://www.youtube.com/results?search_query=Niệm+Phút+Cuối+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Nỗi Đau Muộn Màng](https://www.youtube.com/results?search_query=Nỗi+Đau+Muộn+Màng+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Nắng Paris Nắng Sài Gòn](https://www.youtube.com/results?search_query=Nắng+Paris+Nắng+Sài+Gòn+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |

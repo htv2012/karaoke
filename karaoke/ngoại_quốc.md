@@ -20,7 +20,7 @@
 | [Hãy Yêu Chàng](https://www.youtube.com/results?search_query=Hãy+Yêu+Chàng+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Hận Tình Trong Mưa](https://www.youtube.com/results?search_query=Hận+Tình+Trong+Mưa+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Khi Xưa Ta Bé](https://www.youtube.com/results?search_query=Khi+Xưa+Ta+Bé+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
-| [Mùa Thu Là Bay](https://www.youtube.com/results?search_query=Mùa+Thu+Là+Bay+Karaoke) | [Nam Lộc](nam_lộc.md) | [ngoại quốc](ngoại_quốc.md) |
+| [Mùa Thu Lá Bay](https://www.youtube.com/results?search_query=Mùa+Thu+Lá+Bay+Karaoke) | [Nam Lộc](nam_lộc.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Mùa Tình Yêu](https://www.youtube.com/results?search_query=Mùa+Tình+Yêu+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Mây Lang Thang](https://www.youtube.com/results?search_query=Mây+Lang+Thang+Karaoke) | [Nam Lộc](nam_lộc.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Một Thời Để Yêu](https://www.youtube.com/results?search_query=Một+Thời+Để+Yêu+Karaoke) | [Nam Lộc](nam_lộc.md) | [ngoại quốc](ngoại_quốc.md) |
@@ -34,9 +34,12 @@
 | [Sài Gòn Ơi Vĩnh Biệt](https://www.youtube.com/results?search_query=Sài+Gòn+Ơi+Vĩnh+Biệt+Karaoke) | [Nam Lộc](nam_lộc.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Tiễn Em Nơi Phi Trường](https://www.youtube.com/results?search_query=Tiễn+Em+Nơi+Phi+Trường+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Tình Cho Không](https://www.youtube.com/results?search_query=Tình+Cho+Không+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
+| [Tình Nồng](https://www.youtube.com/results?search_query=Tình+Nồng+Karaoke) | [Khúc Lan](khúc_lan.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Tình Yêu Ơi Tình Yêu](https://www.youtube.com/results?search_query=Tình+Yêu+Ơi+Tình+Yêu+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Trở Về Mái Nhà Xưa](https://www.youtube.com/results?search_query=Trở+Về+Mái+Nhà+Xưa+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Trưng Vương Khung Cửa Mùa Thu](https://www.youtube.com/results?search_query=Trưng+Vương+Khung+Cửa+Mùa+Thu+Karaoke) | [Nam Lộc](nam_lộc.md) | [mùa thu](mùa_thu.md) [ngoại quốc](ngoại_quốc.md) |
 | [Vắng Bóng Người Yêu](https://www.youtube.com/results?search_query=Vắng+Bóng+Người+Yêu+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
+| [Xuân Yêu Thương](https://www.youtube.com/results?search_query=Xuân+Yêu+Thương+Karaoke) | [Lê Đức Cường](lê_đức_cường.md) | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
 | [Yêu Em Bằng Cả Trái Tin](https://www.youtube.com/results?search_query=Yêu+Em+Bằng+Cả+Trái+Tin+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
+| [Đêm Thắnh Vô Cùng](https://www.youtube.com/results?search_query=Đêm+Thắnh+Vô+Cùng+Karaoke) | [Hùng Lân](hùng_lân.md) | [giáng sinh](giáng_sinh.md) [ngoại quốc](ngoại_quốc.md) |
 | [Đừng Phá Vỡ Ân Tình](https://www.youtube.com/results?search_query=Đừng+Phá+Vỡ+Ân+Tình+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |

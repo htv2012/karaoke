@@ -96,6 +96,7 @@
 | [Thà Như Giọt Mưa](https://www.youtube.com/results?search_query=Thà+Như+Giọt+Mưa+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Thuyền Viễn Xứ](https://www.youtube.com/results?search_query=Thuyền+Viễn+Xứ+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Thương Tình Ca](https://www.youtube.com/results?search_query=Thương+Tình+Ca+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Tiếng Hát Sông Lô](https://www.youtube.com/results?search_query=Tiếng+Hát+Sông+Lô+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Tiếng Hò Miền Nam](https://www.youtube.com/results?search_query=Tiếng+Hò+Miền+Nam+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Tiếng Sáo Thiên Thai](https://www.youtube.com/results?search_query=Tiếng+Sáo+Thiên+Thai+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Tiếng Thu](https://www.youtube.com/results?search_query=Tiếng+Thu+Karaoke) | [Phạm Duy](phạm_duy.md) | [mùa thu](mùa_thu.md) |
