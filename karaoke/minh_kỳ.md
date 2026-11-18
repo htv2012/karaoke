@@ -11,4 +11,5 @@
 | [Sầu Tím Thiệp Hồng](https://www.youtube.com/results?search_query=Sầu+Tím+Thiệp+Hồng+Karaoke) | [Hoài Linh](hoài_linh.md) [Minh Kỳ](minh_kỳ.md) |  |
 | [Tình Đời](https://www.youtube.com/results?search_query=Tình+Đời+Karaoke) | [Minh Kỳ](minh_kỳ.md) [Vũ Chương](vũ_chương.md) |  |
 | [Xuân Đã Về](https://www.youtube.com/results?search_query=Xuân+Đã+Về+Karaoke) | [Minh Kỳ](minh_kỳ.md) | [mùa xuân](mùa_xuân.md) |
+| [Đám Cưới Nhà Binh](https://www.youtube.com/results?search_query=Đám+Cưới+Nhà+Binh+Karaoke) | [Minh Kỳ](minh_kỳ.md) [Vũ Chương](vũ_chương.md) | [nhạc lính](nhạc_lính.md) |
 | [Đón Xuân Thanh Bình](https://www.youtube.com/results?search_query=Đón+Xuân+Thanh+Bình+Karaoke) | [Minh Kỳ](minh_kỳ.md) | [mùa xuân](mùa_xuân.md) |
