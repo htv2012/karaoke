@@ -392,7 +392,6 @@
 | [Nghìn Năm Vẫn Chưa Quên](https://www.youtube.com/results?search_query=Nghìn+Năm+Vẫn+Chưa+Quên+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Nghìn Trùng Xa Cách](https://www.youtube.com/results?search_query=Nghìn+Trùng+Xa+Cách+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Ngọc Lan](https://www.youtube.com/results?search_query=Ngọc+Lan+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) |  |
-| [Nguoi Yeu Cu Co Nguoi Yeu Moi](https://www.youtube.com/results?search_query=Nguoi+Yeu+Cu+Co+Nguoi+Yeu+Moi+Karaoke) | [Hamlet Trương](hamlet_trương.md) |  |
 | [Nguyện Cầu Cho Nhau](https://www.youtube.com/results?search_query=Nguyện+Cầu+Cho+Nhau+Karaoke) | [Phanxicô](phanxicô.md) | [giáng sinh](giáng_sinh.md) |
 | [Nguyệt Ca](https://www.youtube.com/results?search_query=Nguyệt+Ca+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
 | [Ngụ Ngôn Mùa Đông](https://www.youtube.com/results?search_query=Ngụ+Ngôn+Mùa+Đông+Karaoke) | [Trịnh Công Sơn](trịnh_công_sơn.md) |  |
@@ -406,6 +405,7 @@
 | [Người Thợ Săn Và Đàn Chim Nhỏ](https://www.youtube.com/results?search_query=Người+Thợ+Săn+Và+Đàn+Chim+Nhỏ+Karaoke) | [Anh Bằng](anh_bằng.md) |  |
 | [Người Tình Trăm Năm](https://www.youtube.com/results?search_query=Người+Tình+Trăm+Năm+Karaoke) | [Đức Huy](đức_huy.md) |  |
 | [Người Về](https://www.youtube.com/results?search_query=Người+Về+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
+| [Người Yêu Cũ Có Người Yêu Mới](https://www.youtube.com/results?search_query=Người+Yêu+Cũ+Có+Người+Yêu+Mới+Karaoke) | [Hamlet Trương](hamlet_trương.md) |  |
 | [Người Yêu Nếu Ra Đi](https://www.youtube.com/results?search_query=Người+Yêu+Nếu+Ra+Đi+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Nha Trang Ngày Về](https://www.youtube.com/results?search_query=Nha+Trang+Ngày+Về+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Nhạt Nhòa](https://www.youtube.com/results?search_query=Nhạt+Nhòa+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) |  |
