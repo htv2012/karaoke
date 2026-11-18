@@ -5,7 +5,7 @@
 | [Bé Yêu](https://www.youtube.com/results?search_query=Bé+Yêu+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Biết Đến Bao Giờ](https://www.youtube.com/results?search_query=Biết+Đến+Bao+Giờ+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Biển Tình](https://www.youtube.com/results?search_query=Biển+Tình+Karaoke) | [Lam Phương](lam_phương.md) |  |
-| [Bức Tâm Thư](https://www.youtube.com/results?search_query=Bức+Tâm+Thư+Karaoke) | [Lam Phương](lam_phương.md) |  |
+| [Bức Tâm Thư](https://www.youtube.com/results?search_query=Bức+Tâm+Thư+Karaoke) | [Hồ Đình Phương](hồ_đình_phương.md) [Lam Phương](lam_phương.md) |  |
 | [Chiều Hành Quân](https://www.youtube.com/results?search_query=Chiều+Hành+Quân+Karaoke) | [Lam Phương](lam_phương.md) | [nhạc lính](nhạc_lính.md) |
 | [Chiều Tàn](https://www.youtube.com/results?search_query=Chiều+Tàn+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Chiều Thu Ấy](https://www.youtube.com/results?search_query=Chiều+Thu+Ấy+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |
@@ -21,7 +21,7 @@
 | [Kiếp Nghèo](https://www.youtube.com/results?search_query=Kiếp+Nghèo+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Kiếp Ve Sầu](https://www.youtube.com/results?search_query=Kiếp+Ve+Sầu+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Lầm](https://www.youtube.com/results?search_query=Lầm+Karaoke) | [Lam Phương](lam_phương.md) |  |
-| [Mua Thu Yeu Duong](https://www.youtube.com/results?search_query=Mua+Thu+Yeu+Duong+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |
+| [Mùa Thu Yêu Đương](https://www.youtube.com/results?search_query=Mùa+Thu+Yêu+Đương+Karaoke) | [Lam Phương](lam_phương.md) | [mùa thu](mùa_thu.md) |
 | [Một Mình](https://www.youtube.com/results?search_query=Một+Mình+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Mưa Lệ](https://www.youtube.com/results?search_query=Mưa+Lệ+Karaoke) | [Lam Phương](lam_phương.md) |  |
 | [Ngày Buồn](https://www.youtube.com/results?search_query=Ngày+Buồn+Karaoke) | [Lam Phương](lam_phương.md) |  |

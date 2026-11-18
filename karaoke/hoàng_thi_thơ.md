@@ -12,8 +12,8 @@
 | [Hình Ảnh Người Em Không Đợi](https://www.youtube.com/results?search_query=Hình+Ảnh+Người+Em+Không+Đợi+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) |  |
 | [Hỏi Người Còn Nhớ Đến Ta](https://www.youtube.com/results?search_query=Hỏi+Người+Còn+Nhớ+Đến+Ta+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) |  |
 | [Kinh Chiều](https://www.youtube.com/results?search_query=Kinh+Chiều+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) |  |
-| [Mua Thu Dong Kinh](https://www.youtube.com/results?search_query=Mua+Thu+Dong+Kinh+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) | [mùa thu](mùa_thu.md) |
-| [Mấy Nhịp Cầu Tre](https://www.youtube.com/results?search_query=Mấy+Nhịp+Cầu+Tre+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) | [mùa đông](mùa_đông.md) |
+| [Mùa Thu Đông Kinh](https://www.youtube.com/results?search_query=Mùa+Thu+Đông+Kinh+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) | [mùa thu](mùa_thu.md) |
+| [Mấy Nhịp Cầu Tre](https://www.youtube.com/results?search_query=Mấy+Nhịp+Cầu+Tre+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) | [mùa xuân](mùa_xuân.md) |
 | [Niềm Đau Của Cát](https://www.youtube.com/results?search_query=Niềm+Đau+Của+Cát+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) |  |
 | [Rong Chơi Cuối Đời Quên Lãng](https://www.youtube.com/results?search_query=Rong+Chơi+Cuối+Đời+Quên+Lãng+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) |  |
 | [Rước Tình Về Với Quê Hương](https://www.youtube.com/results?search_query=Rước+Tình+Về+Với+Quê+Hương+Karaoke) | [Hoàng Thi Thơ](hoàng_thi_thơ.md) |  |

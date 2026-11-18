@@ -6,6 +6,7 @@
 | [Bến Xuân Xanh](https://www.youtube.com/results?search_query=Bến+Xuân+Xanh+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) | [mùa xuân](mùa_xuân.md) |
 | [Chiều](https://www.youtube.com/results?search_query=Chiều+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) [Hồ Dzếnh](hồ_dzếnh.md) |  |
 | [Giòng Sông Xanh](https://www.youtube.com/results?search_query=Giòng+Sông+Xanh+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) | [ngoại quốc](ngoại_quốc.md) |
+| [Khúc Nhạc Dưới Trăng](https://www.youtube.com/results?search_query=Khúc+Nhạc+Dưới+Trăng+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) |  |
 | [Kiếp Hoa](https://www.youtube.com/results?search_query=Kiếp+Hoa+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) |  |
 | [Ngọc Lan](https://www.youtube.com/results?search_query=Ngọc+Lan+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) |  |
 | [Tiếng Xưa](https://www.youtube.com/results?search_query=Tiếng+Xưa+Karaoke) | [Dương Thiệu Tước](dương_thiệu_tước.md) |  |

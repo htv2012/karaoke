@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Nguoi Yeu Cu Co Nguoi Yeu Moi](https://www.youtube.com/results?search_query=Nguoi+Yeu+Cu+Co+Nguoi+Yeu+Moi+Karaoke) | [Hamlet Trương](hamlet_trương.md) |  |
+| [Người Yêu Cũ Có Người Yêu Mới](https://www.youtube.com/results?search_query=Người+Yêu+Cũ+Có+Người+Yêu+Mới+Karaoke) | [Hamlet Trương](hamlet_trương.md) |  |

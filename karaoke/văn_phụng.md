@@ -17,3 +17,4 @@
 | [Nhớ Bến Đà Giang](https://www.youtube.com/results?search_query=Nhớ+Bến+Đà+Giang+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
 | [Nỗi Buồn](https://www.youtube.com/results?search_query=Nỗi+Buồn+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
 | [Tình](https://www.youtube.com/results?search_query=Tình+Karaoke) | [Văn Phụng](văn_phụng.md) |  |
+| [Xuân Miển Nam](https://www.youtube.com/results?search_query=Xuân+Miển+Nam+Karaoke) | [Văn Phụng](văn_phụng.md) | [mùa xuân](mùa_xuân.md) |

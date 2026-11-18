@@ -2,4 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Thuo Ay Co Em](https://www.youtube.com/results?search_query=Thuo+Ay+Co+Em+Karaoke) | [Huỳnh Anh](huỳnh_anh.md) |  |
+| [Loan Mắt Nhung](https://www.youtube.com/results?search_query=Loan+Mắt+Nhung+Karaoke) | [Huỳnh Anh](huỳnh_anh.md) |  |
+| [Thuở Ấy Có Em](https://www.youtube.com/results?search_query=Thuở+Ấy+Có+Em+Karaoke) | [Huỳnh Anh](huỳnh_anh.md) |  |
