@@ -8,4 +8,5 @@
 | [Hoa Soan Bên Thềm Cũ](https://www.youtube.com/results?search_query=Hoa+Soan+Bên+Thềm+Cũ+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) |  |
 | [Mùa Xuân Đầu Tiên](https://www.youtube.com/results?search_query=Mùa+Xuân+Đầu+Tiên+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) | [mùa xuân](mùa_xuân.md) |
 | [Nhạt Nhòa](https://www.youtube.com/results?search_query=Nhạt+Nhòa+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) |  |
+| [Quán Nửa Khuya](https://www.youtube.com/results?search_query=Quán+Nửa+Khuya+Karaoke) | [Hoài Linh](hoài_linh.md) [Tuấn Khanh](tuấn_khanh.md) |  |
 | [Đêm Này Nghỉ Đỡ Chân](https://www.youtube.com/results?search_query=Đêm+Này+Nghỉ+Đỡ+Chân+Karaoke) | [Tuấn Khanh](tuấn_khanh.md) |  |

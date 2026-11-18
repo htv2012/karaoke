@@ -5,7 +5,6 @@
 | [Ai Biểu Anh Làm Thinh](https://www.youtube.com/results?search_query=Ai+Biểu+Anh+Làm+Thinh+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) |  |
 | [Bài Hương Ca Vô Tận](https://www.youtube.com/results?search_query=Bài+Hương+Ca+Vô+Tận+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) |  |
 | [Bài Tình Ca Mùa Đông](https://www.youtube.com/results?search_query=Bài+Tình+Ca+Mùa+Đông+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) | [mùa đông](mùa_đông.md) |
-| [Biệt Khúc](https://www.youtube.com/results?search_query=Biệt+Khúc+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) |  |
 | [Chuyện Một Cây Cầu Đã Gãy](https://www.youtube.com/results?search_query=Chuyện+Một+Cây+Cầu+Đã+Gãy+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) |  |
 | [Chợt Nghĩ Về Hai Nơi](https://www.youtube.com/results?search_query=Chợt+Nghĩ+Về+Hai+Nơi+Karaoke) | [Trầm Tử Thiêng](trầm_tử_thiêng.md) |  |
 | [Cơn Mưa Hạ](https://www.youtube.com/results?search_query=Cơn+Mưa+Hạ+Karaoke) | [Trúc Hồ](trúc_hồ.md) [Trầm Tử Thiêng](trầm_tử_thiêng.md) |  |

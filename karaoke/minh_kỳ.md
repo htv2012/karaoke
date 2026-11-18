@@ -8,4 +8,6 @@
 | [Chuyến Tàu Hoàng Hôn](https://www.youtube.com/results?search_query=Chuyến+Tàu+Hoàng+Hôn+Karaoke) | [Hoài Linh](hoài_linh.md) [Minh Kỳ](minh_kỳ.md) |  |
 | [Chuyện Ba Mùa Mưa](https://www.youtube.com/results?search_query=Chuyện+Ba+Mùa+Mưa+Karaoke) | [Dạ Cầm](dạ_cầm.md) [Minh Kỳ](minh_kỳ.md) |  |
 | [Gác Nhỏ Đêm Xuân](https://www.youtube.com/results?search_query=Gác+Nhỏ+Đêm+Xuân+Karaoke) | [Hoài Linh](hoài_linh.md) [Minh Kỳ](minh_kỳ.md) |  |
+| [Sầu Tím Thiệp Hồng](https://www.youtube.com/results?search_query=Sầu+Tím+Thiệp+Hồng+Karaoke) | [Hoài Linh](hoài_linh.md) [Minh Kỳ](minh_kỳ.md) |  |
+| [Tình Đời](https://www.youtube.com/results?search_query=Tình+Đời+Karaoke) | [Minh Kỳ](minh_kỳ.md) [Vũ Chương](vũ_chương.md) |  |
 | [Đón Xuân Thanh Bình](https://www.youtube.com/results?search_query=Đón+Xuân+Thanh+Bình+Karaoke) | [Minh Kỳ](minh_kỳ.md) | [mùa xuân](mùa_xuân.md) |

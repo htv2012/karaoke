@@ -13,6 +13,7 @@
 | [Em Về Mùa Thu](https://www.youtube.com/results?search_query=Em+Về+Mùa+Thu+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Giáng Ngọc](https://www.youtube.com/results?search_query=Giáng+Ngọc+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Giọt Nắng Hồng](https://www.youtube.com/results?search_query=Giọt+Nắng+Hồng+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
+| [Giọt Nước Mắt Ngà](https://www.youtube.com/results?search_query=Giọt+Nước+Mắt+Ngà+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Mùa Thu Cho Em](https://www.youtube.com/results?search_query=Mùa+Thu+Cho+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Mùa Thu Xa Em](https://www.youtube.com/results?search_query=Mùa+Thu+Xa+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa thu](mùa_thu.md) |
 | [Một Cõi Tình Phai](https://www.youtube.com/results?search_query=Một+Cõi+Tình+Phai+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
