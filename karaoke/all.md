@@ -558,7 +558,7 @@
 | [Tình Yêu Ơi Tình Yêu](https://www.youtube.com/results?search_query=Tình+Yêu+Ơi+Tình+Yêu+Karaoke) | [Phạm Duy](phạm_duy.md) | [ngoại quốc](ngoại_quốc.md) |
 | [Tình Đến Rồi Đi](https://www.youtube.com/results?search_query=Tình+Đến+Rồi+Đi+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Tình Đời](https://www.youtube.com/results?search_query=Tình+Đời+Karaoke) | [Minh Kỳ](minh_kỳ.md) [Vũ Chương](vũ_chương.md) |  |
-| [Tóc Giò Thôi Bay](https://www.youtube.com/results?search_query=Tóc+Giò+Thôi+Bay+Karaoke) | [Trần Tiến](trần_tiến.md) |  |
+| [Tóc Gió Thôi Bay](https://www.youtube.com/results?search_query=Tóc+Gió+Thôi+Bay+Karaoke) | [Trần Tiến](trần_tiến.md) |  |
 | [Tóc Mai Sợi Vắn Sợi Dài](https://www.youtube.com/results?search_query=Tóc+Mai+Sợi+Vắn+Sợi+Dài+Karaoke) | [Phạm Duy](phạm_duy.md) |  |
 | [Tóc Ngang Bờ Vai](https://www.youtube.com/results?search_query=Tóc+Ngang+Bờ+Vai+Karaoke) | [Vũ Tuấn Đức](vũ_tuấn_đức.md) |  |
 | [Trái Tim Ngục Tù](https://www.youtube.com/results?search_query=Trái+Tim+Ngục+Tù+Karaoke) | [Đức Huy](đức_huy.md) |  |
