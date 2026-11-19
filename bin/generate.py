@@ -6,6 +6,10 @@ import unicodedata
 
 
 def strip_diacritics(text: str) -> str:
+    """
+    Strip diacritics from text, so "Nguyễn Văn Đông" becomes
+    "Nguyen Van Dong".
+    """
     normalized = unicodedata.normalize("NFD", text)
     without_marks = "".join(
         char for char in normalized if unicodedata.category(char) != "Mn"
@@ -15,6 +19,10 @@ def strip_diacritics(text: str) -> str:
 
 
 def normalize_filename(text: str) -> str:
+    """
+    Given text such as "Nguyễn Văn Đông", return
+    "nguyen_van_dong.md"
+    """
     stripped = strip_diacritics(text)
     return stripped.replace(" ", "_").lower() + ".md"
 
@@ -81,7 +89,6 @@ def generate(doc_title: str, entries: list[Entry], dest):
 
 
 def main():
-    """Entry"""
     dest_dir = pathlib.Path(__file__).parent.parent / "karaoke"
     dest_dir.mkdir(exist_ok=True)
 
