@@ -2,6 +2,21 @@
 import csv
 import dataclasses
 import pathlib
+import unicodedata
+
+
+def strip_diacritics(text: str) -> str:
+    normalized = unicodedata.normalize("NFD", text)
+    without_marks = "".join(
+        char for char in normalized if unicodedata.category(char) != "Mn"
+    )
+    translation_table = str.maketrans({"đ": "d", "Đ": "D"})
+    return without_marks.translate(translation_table)
+
+
+def normalize_filename(text: str) -> str:
+    stripped = strip_diacritics(text)
+    return stripped.replace(" ", "_").lower() + ".md"
 
 
 @dataclasses.dataclass
@@ -82,7 +97,7 @@ def main():
         authors.update(entry.split_authors())
     for author in authors:
         found = [entry for entry in entries if entry.author_match(author)]
-        filename = author.replace(" ", "_").lower() + ".md"
+        filename = normalize_filename(author)
         generate(author, found, dest_dir / filename)
 
     # Tags
@@ -91,7 +106,7 @@ def main():
         tags.update(entry.split_tags())
     for tag in tags:
         found = [entry for entry in entries if entry.tag_match(tag)]
-        filename = tag.replace(" ", "_") + ".md"
+        filename = normalize_filename(tag)
         generate(tag, found, dest_dir / filename)
 
 

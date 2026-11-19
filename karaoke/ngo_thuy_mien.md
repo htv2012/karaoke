@@ -31,4 +31,4 @@
 | [Tình Khúc Tháng Sáu](https://www.youtube.com/results?search_query=Tình+Khúc+Tháng+Sáu+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Tuổi Mười Bà](https://www.youtube.com/results?search_query=Tuổi+Mười+Bà+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
 | [Từ Giọng Hát Em](https://www.youtube.com/results?search_query=Từ+Giọng+Hát+Em+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
-| [Ở Nơi Này Em Có Nhớ](https://www.youtube.com/results?search_query=Ở+Nơi+Này+Em+Có+Nhớ+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |
+| [Ở Nơi Nào Em Có Nhớ](https://www.youtube.com/results?search_query=Ở+Nơi+Nào+Em+Có+Nhớ+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) |  |

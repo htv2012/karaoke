@@ -13,7 +13,8 @@
 | [Chiều Xuân](https://www.youtube.com/results?search_query=Chiều+Xuân+Karaoke) | [Ngọc Châu](ngọc_châu.md) | [mùa xuân](mùa_xuân.md) |
 | [Cho Người Tình Lỡ](https://www.youtube.com/results?search_query=Cho+Người+Tình+Lỡ+Karaoke) | [Hoàng Nguyên](hoàng_nguyên.md) | [mùa xuân](mùa_xuân.md) |
 | [Chuyện Buồn Ngày Xuân](https://www.youtube.com/results?search_query=Chuyện+Buồn+Ngày+Xuân+Karaoke) | [Lam Phương](lam_phương.md) | [mùa xuân](mùa_xuân.md) |
-| [Chúc Xuân](https://www.youtube.com/results?search_query=Chúc+Xuân+Karaoke) | [Thanh Son](thanh_son.md) | [mùa xuân](mùa_xuân.md) |
+| [Chúc Xuân](https://www.youtube.com/results?search_query=Chúc+Xuân+Karaoke) | [Thanh Sơn](thanh_sơn.md) | [mùa xuân](mùa_xuân.md) |
+| [Chúc Xuân](https://www.youtube.com/results?search_query=Chúc+Xuân+Karaoke) | [Đinh Trung Chính](đinh_trung_chính.md) | [mùa xuân](mùa_xuân.md) |
 | [Dịu Dàng Sắc Xuân](https://www.youtube.com/results?search_query=Dịu+Dàng+Sắc+Xuân+Karaoke) | [Nguyễn Nam](nguyễn_nam.md) | [mùa xuân](mùa_xuân.md) |
 | [Em Còn Nhớ Mùa Xuân](https://www.youtube.com/results?search_query=Em+Còn+Nhớ+Mùa+Xuân+Karaoke) | [Ngô Thụy Miên](ngô_thụy_miên.md) | [mùa xuân](mùa_xuân.md) |
 | [Gái Xuân](https://www.youtube.com/results?search_query=Gái+Xuân+Karaoke) | [Từ Vũ](từ_vũ.md) | [mùa xuân](mùa_xuân.md) |
