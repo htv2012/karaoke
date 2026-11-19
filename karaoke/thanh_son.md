@@ -1,5 +1,5 @@
-# Thanh Son
+# Thanh Sơn
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Chúc Xuân](https://www.youtube.com/results?search_query=Chúc+Xuân+Karaoke) | [Thanh Son](thanh_son.md) | [mùa xuân](mùa_xuân.md) |
+| [Chúc Xuân](https://www.youtube.com/results?search_query=Chúc+Xuân+Karaoke) | [Thanh Sơn](thanh_sơn.md) | [mùa xuân](mùa_xuân.md) |
