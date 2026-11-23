@@ -2,5 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Loan Mắt Nhung](https://www.youtube.com/results?search_query=Loan+Mắt+Nhung+Karaoke) | [Huỳnh Anh](huỳnh_anh.md) |  |
-| [Thuở Ấy Có Em](https://www.youtube.com/results?search_query=Thuở+Ấy+Có+Em+Karaoke) | [Huỳnh Anh](huỳnh_anh.md) |  |
+| [Loan Mắt Nhung](https://www.youtube.com/results?search_query=Karaoke+Loan+Mắt+Nhung) | [Huỳnh Anh](huỳnh_anh.md) |  |
+| [Thuở Ấy Có Em](https://www.youtube.com/results?search_query=Karaoke+Thuở+Ấy+Có+Em) | [Huỳnh Anh](huỳnh_anh.md) |  |

@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Người Yêu Cũ Có Người Yêu Mới](https://www.youtube.com/results?search_query=Người+Yêu+Cũ+Có+Người+Yêu+Mới+Karaoke) | [Hamlet Trương](hamlet_trương.md) |  |
+| [Người Yêu Cũ Có Người Yêu Mới](https://www.youtube.com/results?search_query=Karaoke+Người+Yêu+Cũ+Có+Người+Yêu+Mới) | [Hamlet Trương](hamlet_trương.md) |  |

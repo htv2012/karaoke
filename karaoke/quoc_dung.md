@@ -2,6 +2,6 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Biển Mộng](https://www.youtube.com/results?search_query=Biển+Mộng+Karaoke) | [Quốc Dũng](quốc_dũng.md) |  |
-| [Mai](https://www.youtube.com/results?search_query=Mai+Karaoke) | [Quốc Dũng](quốc_dũng.md) |  |
-| [Điệp Khúc Mùa Xuân](https://www.youtube.com/results?search_query=Điệp+Khúc+Mùa+Xuân+Karaoke) | [Quốc Dũng](quốc_dũng.md) | [mùa xuân](mùa_xuân.md) |
+| [Biển Mộng](https://www.youtube.com/results?search_query=Karaoke+Biển+Mộng) | [Quốc Dũng](quốc_dũng.md) |  |
+| [Mai](https://www.youtube.com/results?search_query=Karaoke+Mai) | [Quốc Dũng](quốc_dũng.md) |  |
+| [Điệp Khúc Mùa Xuân](https://www.youtube.com/results?search_query=Karaoke+Điệp+Khúc+Mùa+Xuân) | [Quốc Dũng](quốc_dũng.md) | [mùa xuân](mùa_xuân.md) |

@@ -2,6 +2,6 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Cho Em Ngày Nắng Xanh](https://www.youtube.com/results?search_query=Cho+Em+Ngày+Nắng+Xanh+Karaoke) | [Quốc Bảo](quốc_bảo.md) |  |
-| [Còn Ta Với Nồng Nàn](https://www.youtube.com/results?search_query=Còn+Ta+Với+Nồng+Nàn+Karaoke) | [Quốc Bảo](quốc_bảo.md) |  |
-| [Em Về Tinh Khôi](https://www.youtube.com/results?search_query=Em+Về+Tinh+Khôi+Karaoke) | [Quốc Bảo](quốc_bảo.md) |  |
+| [Cho Em Ngày Nắng Xanh](https://www.youtube.com/results?search_query=Karaoke+Cho+Em+Ngày+Nắng+Xanh) | [Quốc Bảo](quốc_bảo.md) |  |
+| [Còn Ta Với Nồng Nàn](https://www.youtube.com/results?search_query=Karaoke+Còn+Ta+Với+Nồng+Nàn) | [Quốc Bảo](quốc_bảo.md) |  |
+| [Em Về Tinh Khôi](https://www.youtube.com/results?search_query=Karaoke+Em+Về+Tinh+Khôi) | [Quốc Bảo](quốc_bảo.md) |  |

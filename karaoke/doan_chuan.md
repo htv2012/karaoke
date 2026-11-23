@@ -2,12 +2,12 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Chuyển Bến](https://www.youtube.com/results?search_query=Chuyển+Bến+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
-| [Gửi Gió Cho Mây Ngàn Bay](https://www.youtube.com/results?search_query=Gửi+Gió+Cho+Mây+Ngàn+Bay+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
-| [Gửi Người Em Gái](https://www.youtube.com/results?search_query=Gửi+Người+Em+Gái+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
-| [Lá Thư](https://www.youtube.com/results?search_query=Lá+Thư+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
-| [Lá Đổ Muôn Chiều](https://www.youtube.com/results?search_query=Lá+Đổ+Muôn+Chiều+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
-| [Tà Áo Xanh](https://www.youtube.com/results?search_query=Tà+Áo+Xanh+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
-| [Thu Quyến Rũ](https://www.youtube.com/results?search_query=Thu+Quyến+Rũ+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [mùa thu](mùa_thu.md) [tiền chiến](tiền_chiến.md) |
-| [Tình Nghệ Sĩ](https://www.youtube.com/results?search_query=Tình+Nghệ+Sĩ+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
-| [Đường Về Việt Bắc](https://www.youtube.com/results?search_query=Đường+Về+Việt+Bắc+Karaoke) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) |  |
+| [Chuyển Bến](https://www.youtube.com/results?search_query=Karaoke+Chuyển+Bến) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
+| [Gửi Gió Cho Mây Ngàn Bay](https://www.youtube.com/results?search_query=Karaoke+Gửi+Gió+Cho+Mây+Ngàn+Bay) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
+| [Gửi Người Em Gái](https://www.youtube.com/results?search_query=Karaoke+Gửi+Người+Em+Gái) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
+| [Lá Thư](https://www.youtube.com/results?search_query=Karaoke+Lá+Thư) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
+| [Lá Đổ Muôn Chiều](https://www.youtube.com/results?search_query=Karaoke+Lá+Đổ+Muôn+Chiều) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
+| [Tà Áo Xanh](https://www.youtube.com/results?search_query=Karaoke+Tà+Áo+Xanh) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
+| [Thu Quyến Rũ](https://www.youtube.com/results?search_query=Karaoke+Thu+Quyến+Rũ) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [mùa thu](mùa_thu.md) [tiền chiến](tiền_chiến.md) |
+| [Tình Nghệ Sĩ](https://www.youtube.com/results?search_query=Karaoke+Tình+Nghệ+Sĩ) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) | [tiền chiến](tiền_chiến.md) |
+| [Đường Về Việt Bắc](https://www.youtube.com/results?search_query=Karaoke+Đường+Về+Việt+Bắc) | [Từ Linh](từ_linh.md) [Đoàn Chuẩn](đoàn_chuẩn.md) |  |

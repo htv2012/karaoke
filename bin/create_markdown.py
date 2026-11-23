@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 import csv
-import dataclasses
 import pathlib
 import unicodedata
+
+from entry import Entry
 
 
 def strip_diacritics(text: str) -> str:
@@ -25,56 +26,6 @@ def normalize_filename(text: str) -> str:
     """
     stripped = strip_diacritics(text)
     return stripped.replace(" ", "_").lower() + ".md"
-
-
-@dataclasses.dataclass
-class Entry:
-    name: str
-    author: str
-    tags: str
-
-    md_table_header = "| Name | Author | Tags |\n| --- | --- | --- |\n"
-
-    def as_md_row(self):
-        return f"| {self._name} | {self._author} | {self._tags} |\n"
-
-    def split_tags(self) -> list[str]:
-        return self._split(self.tags)
-
-    def split_authors(self) -> list[str]:
-        return self._split(self.author)
-
-    def tag_match(self, tag: str) -> bool:
-        return tag in self.split_tags()
-
-    def author_match(self, author: str) -> bool:
-        return author in self.split_authors()
-
-    @property
-    def _name(self):
-        terms = f"{self.name} Karaoke".split()
-        query = "+".join(terms)
-        url = f"https://www.youtube.com/results?search_query={query}"
-        return self.make_link(self.name, url)
-
-    @property
-    def _author(self):
-        return " ".join(self.make_link(author) for author in self.split_authors())
-
-    @property
-    def _tags(self):
-        return " ".join(self.make_link(tag) for tag in self.split_tags())
-
-    def _split(self, text: str) -> list[str]:
-        if text == "":
-            return []
-        return sorted(text.split("|"))
-
-    @staticmethod
-    def make_link(text: str, url=None):
-        if url is None:
-            url = text.replace(" ", "_").lower() + ".md"
-        return f"[{text}]({url})"
 
 
 def generate(doc_title: str, entries: list[Entry], dest):
@@ -101,7 +52,7 @@ def main():
     # Authors
     authors = set()
     for entry in entries:
-        authors.update(entry.split_authors())
+        authors.update(entry.authors)
     for author in authors:
         found = [entry for entry in entries if entry.author_match(author)]
         filename = normalize_filename(author)
@@ -110,7 +61,7 @@ def main():
     # Tags
     tags = set()
     for entry in entries:
-        tags.update(entry.split_tags())
+        tags.update(entry.tags)
     for tag in tags:
         found = [entry for entry in entries if entry.tag_match(tag)]
         filename = normalize_filename(tag)
