@@ -2,8 +2,8 @@
 import csv
 import pathlib
 
+import text
 from entry import Entry
-from text import normalize_filename
 
 
 def generate(doc_title: str, entries: list[Entry], dest):
@@ -33,7 +33,7 @@ def main():
         authors.update(entry.authors)
     for author in authors:
         found = [entry for entry in entries if author in entry.authors]
-        filename = normalize_filename(author)
+        filename = text.normalize_filename(author)
         generate(author, found, dest_dir / filename)
 
     # Tags
@@ -42,7 +42,7 @@ def main():
         tags.update(entry.tags)
     for tag in tags:
         found = [entry for entry in entries if tag in entry.tags]
-        filename = normalize_filename(tag)
+        filename = text.normalize_filename(tag)
         generate(tag, found, dest_dir / filename)
 
 
