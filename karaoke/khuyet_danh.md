@@ -2,5 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Cánh Bướm Vườn Xuân](https://www.youtube.com/results?search_query=Karaoke+Cánh+Bướm+Vườn+Xuân) | [Khuyết Danh](khuyết_danh.md) | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
-| [Chuông Ngân Vang](https://www.youtube.com/results?search_query=Karaoke+Chuông+Ngân+Vang) | [Khuyết Danh](khuyết_danh.md) | [giáng sinh](giáng_sinh.md) [ngoại quốc](ngoại_quốc.md) |
+| [Canh Buom Vuon Xuan](https://www.youtube.com/results?search_query=Karaoke+Cánh+Bướm+Vườn+Xuân) | [Khuyet Danh](khuyet_danh.md) | [mua xuan](mua_xuan.md) [ngoai quoc](ngoai_quoc.md) |
+| [Chuong Ngan Vang](https://www.youtube.com/results?search_query=Karaoke+Chuông+Ngân+Vang) | [Khuyet Danh](khuyet_danh.md) | [giang sinh](giang_sinh.md) [ngoai quoc](ngoai_quoc.md) |

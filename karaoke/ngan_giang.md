@@ -2,8 +2,8 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Chờ Đông](https://www.youtube.com/results?search_query=Karaoke+Chờ+Đông) | [Ngân Giang](ngân_giang.md) | [mùa đông](mùa_đông.md) |
-| [Dư Âm Mùa Giáng Sinh](https://www.youtube.com/results?search_query=Karaoke+Dư+Âm+Mùa+Giáng+Sinh) | [Ngân Giang](ngân_giang.md) | [giáng sinh](giáng_sinh.md) |
-| [Nối Lại Tình Xưa](https://www.youtube.com/results?search_query=Karaoke+Nối+Lại+Tình+Xưa) | [Ngân Giang](ngân_giang.md) |  |
-| [Tôi Vẫn Nhớ](https://www.youtube.com/results?search_query=Karaoke+Tôi+Vẫn+Nhớ) | [Ngân Giang](ngân_giang.md) |  |
-| [Đôi Mắt Người Xưa](https://www.youtube.com/results?search_query=Karaoke+Đôi+Mắt+Người+Xưa) | [Ngân Giang](ngân_giang.md) |  |
+| [Cho Dong](https://www.youtube.com/results?search_query=Karaoke+Chờ+Đông) | [Ngan Giang](ngan_giang.md) | [mua dong](mua_dong.md) |
+| [Du Am Mua Giang Sinh](https://www.youtube.com/results?search_query=Karaoke+Dư+Âm+Mùa+Giáng+Sinh) | [Ngan Giang](ngan_giang.md) | [giang sinh](giang_sinh.md) |
+| [Noi Lai Tinh Xua](https://www.youtube.com/results?search_query=Karaoke+Nối+Lại+Tình+Xưa) | [Ngan Giang](ngan_giang.md) |  |
+| [Toi Van Nho](https://www.youtube.com/results?search_query=Karaoke+Tôi+Vẫn+Nhớ) | [Ngan Giang](ngan_giang.md) |  |
+| [Doi Mat Nguoi Xua](https://www.youtube.com/results?search_query=Karaoke+Đôi+Mắt+Người+Xưa) | [Ngan Giang](ngan_giang.md) |  |

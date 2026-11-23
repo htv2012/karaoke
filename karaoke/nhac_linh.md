@@ -2,12 +2,12 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Chiều Hành Quân](https://www.youtube.com/results?search_query=Karaoke+Chiều+Hành+Quân) | [Lam Phương](lam_phương.md) | [nhạc lính](nhạc_lính.md) |
-| [Chiều Mưa Biên Giới](https://www.youtube.com/results?search_query=Karaoke+Chiều+Mưa+Biên+Giới) | [Nguyễn Văn Đông](nguyễn_văn_đông.md) | [nhạc lính](nhạc_lính.md) |
-| [Chúng Mình Ba Đứa](https://www.youtube.com/results?search_query=Karaoke+Chúng+Mình+Ba+Đứa) | [Hoài Linh](hoài_linh.md) | [nhạc lính](nhạc_lính.md) |
-| [Một Chuyến Bay Đêm](https://www.youtube.com/results?search_query=Karaoke+Một+Chuyến+Bay+Đêm) | [Hoài Linh](hoài_linh.md) | [nhạc lính](nhạc_lính.md) |
-| [Nhịp Cầu Tri Âm](https://www.youtube.com/results?search_query=Karaoke+Nhịp+Cầu+Tri+Âm) | [Hoài Linh](hoài_linh.md) | [nhạc lính](nhạc_lính.md) |
-| [Phiên Gác Đêm Xuân](https://www.youtube.com/results?search_query=Karaoke+Phiên+Gác+Đêm+Xuân) | [Nguyễn Văn Đông](nguyễn_văn_đông.md) | [nhạc lính](nhạc_lính.md) |
-| [Đám Cưới Nhà Binh](https://www.youtube.com/results?search_query=Karaoke+Đám+Cưới+Nhà+Binh) | [Minh Kỳ](minh_kỳ.md) [Vũ Chương](vũ_chương.md) | [nhạc lính](nhạc_lính.md) |
-| [Đoàn Người Lữ Thứ](https://www.youtube.com/results?search_query=Karaoke+Đoàn+Người+Lữ+Thứ) | [Lam Phương](lam_phương.md) | [nhạc lính](nhạc_lính.md) |
-| [Đêm Tiền Đồn](https://www.youtube.com/results?search_query=Karaoke+Đêm+Tiền+Đồn) | [Lam Phương](lam_phương.md) | [nhạc lính](nhạc_lính.md) |
+| [Chieu Hanh Quan](https://www.youtube.com/results?search_query=Karaoke+Chiều+Hành+Quân) | [Lam Phuong](lam_phuong.md) | [nhac linh](nhac_linh.md) |
+| [Chieu Mua Bien Gioi](https://www.youtube.com/results?search_query=Karaoke+Chiều+Mưa+Biên+Giới) | [Nguyen Van Dong](nguyen_van_dong.md) | [nhac linh](nhac_linh.md) |
+| [Chung Minh Ba Dua](https://www.youtube.com/results?search_query=Karaoke+Chúng+Mình+Ba+Đứa) | [Hoai Linh](hoai_linh.md) | [nhac linh](nhac_linh.md) |
+| [Mot Chuyen Bay Dem](https://www.youtube.com/results?search_query=Karaoke+Một+Chuyến+Bay+Đêm) | [Hoai Linh](hoai_linh.md) | [nhac linh](nhac_linh.md) |
+| [Nhip Cau Tri Am](https://www.youtube.com/results?search_query=Karaoke+Nhịp+Cầu+Tri+Âm) | [Hoai Linh](hoai_linh.md) | [nhac linh](nhac_linh.md) |
+| [Phien Gac Dem Xuan](https://www.youtube.com/results?search_query=Karaoke+Phiên+Gác+Đêm+Xuân) | [Nguyen Van Dong](nguyen_van_dong.md) | [nhac linh](nhac_linh.md) |
+| [Dam Cuoi Nha Binh](https://www.youtube.com/results?search_query=Karaoke+Đám+Cưới+Nhà+Binh) | [Minh Ky](minh_ky.md) [Vu Chuong](vu_chuong.md) | [nhac linh](nhac_linh.md) |
+| [Doan Nguoi Lu Thu](https://www.youtube.com/results?search_query=Karaoke+Đoàn+Người+Lữ+Thứ) | [Lam Phuong](lam_phuong.md) | [nhac linh](nhac_linh.md) |
+| [Dem Tien Don](https://www.youtube.com/results?search_query=Karaoke+Đêm+Tiền+Đồn) | [Lam Phuong](lam_phuong.md) | [nhac linh](nhac_linh.md) |

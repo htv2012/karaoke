@@ -2,6 +2,6 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Em Về Nào Có Hay](https://www.youtube.com/results?search_query=Karaoke+Em+Về+Nào+Có+Hay) | [Hoàng Trọng Thụy](hoàng_trọng_thụy.md) |  |
-| [Quên Câu Giã Từ](https://www.youtube.com/results?search_query=Karaoke+Quên+Câu+Giã+Từ) | [Hoàng Trọng Thụy](hoàng_trọng_thụy.md) |  |
-| [Đoản Khúc Cuối Cho Em](https://www.youtube.com/results?search_query=Karaoke+Đoản+Khúc+Cuối+Cho+Em) | [Hoàng Trọng Thụy](hoàng_trọng_thụy.md) |  |
+| [Em Ve Nao Co Hay](https://www.youtube.com/results?search_query=Karaoke+Em+Về+Nào+Có+Hay) | [Hoang Trong Thuy](hoang_trong_thuy.md) |  |
+| [Quen Cau Gia Tu](https://www.youtube.com/results?search_query=Karaoke+Quên+Câu+Giã+Từ) | [Hoang Trong Thuy](hoang_trong_thuy.md) |  |
+| [Doan Khuc Cuoi Cho Em](https://www.youtube.com/results?search_query=Karaoke+Đoản+Khúc+Cuối+Cho+Em) | [Hoang Trong Thuy](hoang_trong_thuy.md) |  |

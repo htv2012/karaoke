@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Chiều](https://www.youtube.com/results?search_query=Karaoke+Chiều) | [Dương Thiệu Tước](dương_thiệu_tước.md) [Hồ Dzếnh](hồ_dzếnh.md) |  |
+| [Chieu](https://www.youtube.com/results?search_query=Karaoke+Chiều) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) [Ho Dzenh](ho_dzenh.md) |  |

@@ -1,5 +1,7 @@
 import dataclasses
 
+import text
+
 
 @dataclasses.dataclass
 class Entry:
@@ -40,8 +42,8 @@ class Entry:
             splitted = []
         return splitted
 
-    @staticmethod
-    def make_link(text: str, url=None):
+    def make_link(self, raw_text: str, url=None):
+        stripped = text.strip_diacritics(raw_text)
         if url is None:
-            url = text.replace(" ", "_").lower() + ".md"
-        return f"[{text}]({url})"
+            url = stripped.replace(" ", "_").lower() + ".md"
+        return f"[{stripped}]({url})"

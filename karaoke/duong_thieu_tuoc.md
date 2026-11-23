@@ -2,13 +2,13 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Bóng Chiều Xưa](https://www.youtube.com/results?search_query=Karaoke+Bóng+Chiều+Xưa) | [Dương Thiệu Tước](dương_thiệu_tước.md) [Minh Trang](minh_trang.md) |  |
-| [Bến Xuân Xanh](https://www.youtube.com/results?search_query=Karaoke+Bến+Xuân+Xanh) | [Dương Thiệu Tước](dương_thiệu_tước.md) | [mùa xuân](mùa_xuân.md) |
-| [Chiều](https://www.youtube.com/results?search_query=Karaoke+Chiều) | [Dương Thiệu Tước](dương_thiệu_tước.md) [Hồ Dzếnh](hồ_dzếnh.md) |  |
-| [Giòng Sông Xanh](https://www.youtube.com/results?search_query=Karaoke+Giòng+Sông+Xanh) | [Dương Thiệu Tước](dương_thiệu_tước.md) | [ngoại quốc](ngoại_quốc.md) |
-| [Khúc Nhạc Dưới Trăng](https://www.youtube.com/results?search_query=Karaoke+Khúc+Nhạc+Dưới+Trăng) | [Dương Thiệu Tước](dương_thiệu_tước.md) |  |
-| [Kiếp Hoa](https://www.youtube.com/results?search_query=Karaoke+Kiếp+Hoa) | [Dương Thiệu Tước](dương_thiệu_tước.md) |  |
-| [Ngọc Lan](https://www.youtube.com/results?search_query=Karaoke+Ngọc+Lan) | [Dương Thiệu Tước](dương_thiệu_tước.md) |  |
-| [Tiếng Xưa](https://www.youtube.com/results?search_query=Karaoke+Tiếng+Xưa) | [Dương Thiệu Tước](dương_thiệu_tước.md) |  |
-| [Đêm Ngắn Tình Dài](https://www.youtube.com/results?search_query=Karaoke+Đêm+Ngắn+Tình+Dài) | [Dương Thiệu Tước](dương_thiệu_tước.md) | [tiền chiến](tiền_chiến.md) |
-| [Ước Hẹn Chiều Thu](https://www.youtube.com/results?search_query=Karaoke+Ước+Hẹn+Chiều+Thu) | [Dương Thiệu Tước](dương_thiệu_tước.md) |  |
+| [Bong Chieu Xua](https://www.youtube.com/results?search_query=Karaoke+Bóng+Chiều+Xưa) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) [Minh Trang](minh_trang.md) |  |
+| [Ben Xuan Xanh](https://www.youtube.com/results?search_query=Karaoke+Bến+Xuân+Xanh) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) | [mua xuan](mua_xuan.md) |
+| [Chieu](https://www.youtube.com/results?search_query=Karaoke+Chiều) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) [Ho Dzenh](ho_dzenh.md) |  |
+| [Giong Song Xanh](https://www.youtube.com/results?search_query=Karaoke+Giòng+Sông+Xanh) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) | [ngoai quoc](ngoai_quoc.md) |
+| [Khuc Nhac Duoi Trang](https://www.youtube.com/results?search_query=Karaoke+Khúc+Nhạc+Dưới+Trăng) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) |  |
+| [Kiep Hoa](https://www.youtube.com/results?search_query=Karaoke+Kiếp+Hoa) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) |  |
+| [Ngoc Lan](https://www.youtube.com/results?search_query=Karaoke+Ngọc+Lan) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) |  |
+| [Tieng Xua](https://www.youtube.com/results?search_query=Karaoke+Tiếng+Xưa) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) |  |
+| [Dem Ngan Tinh Dai](https://www.youtube.com/results?search_query=Karaoke+Đêm+Ngắn+Tình+Dài) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) | [tien chien](tien_chien.md) |
+| [Uoc Hen Chieu Thu](https://www.youtube.com/results?search_query=Karaoke+Ước+Hẹn+Chiều+Thu) | [Duong Thieu Tuoc](duong_thieu_tuoc.md) |  |

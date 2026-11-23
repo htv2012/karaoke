@@ -2,7 +2,7 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Em Ơi Hà Nội Phố](https://www.youtube.com/results?search_query=Karaoke+Em+Ơi+Hà+Nội+Phố) | [Phú Quang](phú_quang.md) |  |
-| [Lãng Đãng Chiều Đông Hà Nội](https://www.youtube.com/results?search_query=Karaoke+Lãng+Đãng+Chiều+Đông+Hà+Nội) | [Phú Quang](phú_quang.md) | [mùa đông](mùa_đông.md) |
-| [Nỗi Nhớ Mùa Đông](https://www.youtube.com/results?search_query=Karaoke+Nỗi+Nhớ+Mùa+Đông) | [Phú Quang](phú_quang.md) | [mùa đông](mùa_đông.md) |
-| [Đâu Phải Bởi Mùa Thu](https://www.youtube.com/results?search_query=Karaoke+Đâu+Phải+Bởi+Mùa+Thu) | [Phú Quang](phú_quang.md) | [mùa thu](mùa_thu.md) |
+| [Em Oi Ha Noi Pho](https://www.youtube.com/results?search_query=Karaoke+Em+Ơi+Hà+Nội+Phố) | [Phu Quang](phu_quang.md) |  |
+| [Lang Dang Chieu Dong Ha Noi](https://www.youtube.com/results?search_query=Karaoke+Lãng+Đãng+Chiều+Đông+Hà+Nội) | [Phu Quang](phu_quang.md) | [mua dong](mua_dong.md) |
+| [Noi Nho Mua Dong](https://www.youtube.com/results?search_query=Karaoke+Nỗi+Nhớ+Mùa+Đông) | [Phu Quang](phu_quang.md) | [mua dong](mua_dong.md) |
+| [Dau Phai Boi Mua Thu](https://www.youtube.com/results?search_query=Karaoke+Đâu+Phải+Bởi+Mùa+Thu) | [Phu Quang](phu_quang.md) | [mua thu](mua_thu.md) |

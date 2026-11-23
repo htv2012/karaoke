@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Xuân Yêu Thương](https://www.youtube.com/results?search_query=Karaoke+Xuân+Yêu+Thương) | [Lê Đức Cường](lê_đức_cường.md) | [mùa xuân](mùa_xuân.md) [ngoại quốc](ngoại_quốc.md) |
+| [Xuan Yeu Thuong](https://www.youtube.com/results?search_query=Karaoke+Xuân+Yêu+Thương) | [Le Duc Cuong](le_duc_cuong.md) | [mua xuan](mua_xuan.md) [ngoai quoc](ngoai_quoc.md) |

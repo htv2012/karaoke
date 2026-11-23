@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Chúc Xuân](https://www.youtube.com/results?search_query=Karaoke+Chúc+Xuân) | [Đinh Trung Chính](đinh_trung_chính.md) | [mùa xuân](mùa_xuân.md) |
+| [Chuc Xuan](https://www.youtube.com/results?search_query=Karaoke+Chúc+Xuân) | [Dinh Trung Chinh](dinh_trung_chinh.md) | [mua xuan](mua_xuan.md) |
