@@ -2,5 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Con Duong Xua Em Di](https://www.youtube.com/results?search_query=Karaoke+Con+Đường+Xưa+Em+Đi) | [Chau Ky](chau_ky.md) [Ho Dinh Phuong](ho_dinh_phuong.md) |  |
-| [Don Xuan Nay Nho Xuan Xua](https://www.youtube.com/results?search_query=Karaoke+Đón+Xuân+Này+Nhớ+Xuân+Xưa) | [Chau Ky](chau_ky.md) | [mua xuan](mua_xuan.md) |
+| [Con Đường Xưa Em Đi](https://www.youtube.com/results?search_query=Karaoke+Con+Đường+Xưa+Em+Đi) | [Châu Kỳ](chau_ky.md) [Hồ Đình Phương](ho_dinh_phuong.md) |  |
+| [Đón Xuân Này Nhớ Xuân Xưa](https://www.youtube.com/results?search_query=Karaoke+Đón+Xuân+Này+Nhớ+Xuân+Xưa) | [Châu Kỳ](chau_ky.md) | [mùa xuân](mua_xuan.md) |

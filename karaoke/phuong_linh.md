@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Bong Nho Giao Duong](https://www.youtube.com/results?search_query=Karaoke+Bóng+Nhỏ+Giáo+Đường) | [Phuong Linh](phuong_linh.md) | [cong giao](cong_giao.md) [giang sinh](giang_sinh.md) |
+| [Bóng Nhỏ Giáo Đường](https://www.youtube.com/results?search_query=Karaoke+Bóng+Nhỏ+Giáo+Đường) | [Phượng Linh](phuong_linh.md) | [công giáo](cong_giao.md) [giáng sinh](giang_sinh.md) |

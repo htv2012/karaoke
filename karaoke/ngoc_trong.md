@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Tinh Trong Di Vang](https://www.youtube.com/results?search_query=Karaoke+Tình+Trong+Dĩ+Vãng) | [Ngoc Trong](ngoc_trong.md) |  |
+| [Tình Trong Dĩ Vãng](https://www.youtube.com/results?search_query=Karaoke+Tình+Trong+Dĩ+Vãng) | [Ngọc Trọng](ngoc_trong.md) |  |

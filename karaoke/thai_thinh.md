@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Phai Chi Em Biet](https://www.youtube.com/results?search_query=Karaoke+Phải+Chi+Em+Biết) | [Thai Thinh](thai_thinh.md) |  |
+| [Phải Chi Em Biết](https://www.youtube.com/results?search_query=Karaoke+Phải+Chi+Em+Biết) | [Thái Thịnh](thai_thinh.md) |  |

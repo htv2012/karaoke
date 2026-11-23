@@ -2,5 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Chuyen Buon Tinh Yeu](https://www.youtube.com/results?search_query=Karaoke+Chuyện+Buồn+Tình+Yêu) | [Do Le](do_le.md) |  |
-| [Sang Ngang](https://www.youtube.com/results?search_query=Karaoke+Sang+Ngang) | [Do Le](do_le.md) |  |
+| [Chuyện Buồn Tình Yêu](https://www.youtube.com/results?search_query=Karaoke+Chuyện+Buồn+Tình+Yêu) | [Đỗ Lễ](do_le.md) |  |
+| [Sang Ngang](https://www.youtube.com/results?search_query=Karaoke+Sang+Ngang) | [Đỗ Lễ](do_le.md) |  |

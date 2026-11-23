@@ -2,5 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Mho Mot Nguoi](https://www.youtube.com/results?search_query=Karaoke+Mhớ+Một+Người) | [Hoai Linh](hoai_linh.md) [Manh Phat](manh_phat.md) |  |
-| [Noi Buon Gac Tro](https://www.youtube.com/results?search_query=Karaoke+Nỗi+Buồn+Gác+Trọ) | [Hoai Linh](hoai_linh.md) [Manh Phat](manh_phat.md) |  |
+| [Mhớ Một Người](https://www.youtube.com/results?search_query=Karaoke+Mhớ+Một+Người) | [Hoài Linh](hoai_linh.md) [Mạnh Phát](manh_phat.md) |  |
+| [Nỗi Buồn Gác Trọ](https://www.youtube.com/results?search_query=Karaoke+Nỗi+Buồn+Gác+Trọ) | [Hoài Linh](hoai_linh.md) [Mạnh Phát](manh_phat.md) |  |

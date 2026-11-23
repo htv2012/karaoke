@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Xoa Ten Nguoi Tinh](https://www.youtube.com/results?search_query=Karaoke+Xóa+Tên+Người+Tình) | [Vinh Su](vinh_su.md) |  |
+| [Xóa Tên Người Tình](https://www.youtube.com/results?search_query=Karaoke+Xóa+Tên+Người+Tình) | [Vinh Sử](vinh_su.md) |  |

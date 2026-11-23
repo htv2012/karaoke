@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Tinh Xuan](https://www.youtube.com/results?search_query=Karaoke+Tình+Xuân) | [Le Duc Long](le_duc_long.md) | [mua xuan](mua_xuan.md) |
+| [Tình Xuân](https://www.youtube.com/results?search_query=Karaoke+Tình+Xuân) | [Lê Đức Long](le_duc_long.md) | [mùa xuân](mua_xuan.md) |

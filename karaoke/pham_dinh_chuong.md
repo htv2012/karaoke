@@ -2,5 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Don Xuan](https://www.youtube.com/results?search_query=Karaoke+Đón+Xuân) | [Pham Dinh Chuong](pham_dinh_chuong.md) | [mua xuan](mua_xuan.md) |
-| [Dem Nho Trang Sai Gon](https://www.youtube.com/results?search_query=Karaoke+Đêm+Nhớ+Trăng+Sài+Gòn) | [Du Tu Le](du_tu_le.md) [Pham Dinh Chuong](pham_dinh_chuong.md) |  |
+| [Đón Xuân](https://www.youtube.com/results?search_query=Karaoke+Đón+Xuân) | [Phạm Đình Chương](pham_dinh_chuong.md) | [mùa xuân](mua_xuan.md) |
+| [Đêm Nhớ Trăng Sài Gòn](https://www.youtube.com/results?search_query=Karaoke+Đêm+Nhớ+Trăng+Sài+Gòn) | [Du Tử Lê](du_tu_le.md) [Phạm Đình Chương](pham_dinh_chuong.md) |  |

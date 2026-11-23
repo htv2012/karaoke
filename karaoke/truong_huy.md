@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Mot Thoi Da Xa](https://www.youtube.com/results?search_query=Karaoke+Một+Thời+Đã+Xa) | [Truong Huy](truong_huy.md) |  |
+| [Một Thời Đã Xa](https://www.youtube.com/results?search_query=Karaoke+Một+Thời+Đã+Xa) | [Trường Huy](truong_huy.md) |  |

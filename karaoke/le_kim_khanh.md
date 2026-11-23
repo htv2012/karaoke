@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Loi Con Xin Chua](https://www.youtube.com/results?search_query=Karaoke+Lời+Con+Xin+Chúa) | [Le Kim Khanh](le_kim_khanh.md) | [giang sinh](giang_sinh.md) |
+| [Lời Con Xin Chúa](https://www.youtube.com/results?search_query=Karaoke+Lời+Con+Xin+Chúa) | [Lê Kim Khánh](le_kim_khanh.md) | [giáng sinh](giang_sinh.md) |

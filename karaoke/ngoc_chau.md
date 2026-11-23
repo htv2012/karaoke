@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Chieu Xuan](https://www.youtube.com/results?search_query=Karaoke+Chiều+Xuân) | [Ngoc Chau](ngoc_chau.md) | [mua xuan](mua_xuan.md) |
+| [Chiều Xuân](https://www.youtube.com/results?search_query=Karaoke+Chiều+Xuân) | [Ngọc Châu](ngoc_chau.md) | [mùa xuân](mua_xuan.md) |

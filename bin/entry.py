@@ -46,4 +46,4 @@ class Entry:
         stripped = text.strip_diacritics(raw_text)
         if url is None:
             url = stripped.replace(" ", "_").lower() + ".md"
-        return f"[{stripped}]({url})"
+        return f"[{raw_text}]({url})"

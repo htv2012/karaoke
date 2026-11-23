@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Hoai Thu](https://www.youtube.com/results?search_query=Karaoke+Hoài+Thu) | [Van Tri](van_tri.md) | [mua thu](mua_thu.md) |
+| [Hoài Thu](https://www.youtube.com/results?search_query=Karaoke+Hoài+Thu) | [Văn Trí](van_tri.md) | [mùa thu](mua_thu.md) |

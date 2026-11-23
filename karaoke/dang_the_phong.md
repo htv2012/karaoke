@@ -2,5 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Con Thuyen Khong Ben](https://www.youtube.com/results?search_query=Karaoke+Con+Thuyền+Không+Bến) | [Dang The Phong](dang_the_phong.md) |  |
-| [Giot Mua Thu](https://www.youtube.com/results?search_query=Karaoke+Giọt+Mưa+Thu) | [Dang The Phong](dang_the_phong.md) | [mua thu](mua_thu.md) |
+| [Con Thuyền Không Bến](https://www.youtube.com/results?search_query=Karaoke+Con+Thuyền+Không+Bến) | [Đặng Thế Phong](dang_the_phong.md) |  |
+| [Giọt Mưa Thu](https://www.youtube.com/results?search_query=Karaoke+Giọt+Mưa+Thu) | [Đặng Thế Phong](dang_the_phong.md) | [mùa thu](mua_thu.md) |
