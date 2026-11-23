@@ -9,16 +9,24 @@ class Entry:
 
     md_table_header = "| Name | Author | Tags |\n| --- | --- | --- |\n"
 
+    def __post_init__(self):
+        self.authors = self._split(self.raw_author)
+        self.tags = self._split(self.raw_tags)
+
     def as_md_row(self):
-        return f"| {self._name} | {self._author} | {self._tags} |\n"
+        # name
+        terms = ["Karaoke"] + self.raw_name.split()
+        query = "+".join(terms)
+        url = f"https://www.youtube.com/results?search_query={query}"
+        name = self.make_link(self.raw_name, url)
 
-    @property
-    def tags(self) -> list[str]:
-        return self._split(self.raw_tags)
+        # author
+        author = " ".join(self.make_link(author) for author in self.authors)
 
-    @property
-    def authors(self) -> list[str]:
-        return self._split(self.raw_author)
+        # tags
+        tags = " ".join(self.make_link(tag) for tag in self.tags)
+
+        return f"| {name} | {author} | {tags} |\n"
 
     def tag_match(self, tag: str) -> bool:
         return tag in self.tags
@@ -26,25 +34,11 @@ class Entry:
     def author_match(self, author: str) -> bool:
         return author in self.authors
 
-    @property
-    def _name(self):
-        terms = f"Karaoke {self.raw_name}".split()
-        query = "+".join(terms)
-        url = f"https://www.youtube.com/results?search_query={query}"
-        return self.make_link(self.raw_name, url)
-
-    @property
-    def _author(self):
-        return " ".join(self.make_link(author) for author in self.authors)
-
-    @property
-    def _tags(self):
-        return " ".join(self.make_link(tag) for tag in self.tags)
-
     def _split(self, text: str) -> list[str]:
-        if text == "":
-            return []
-        return sorted(text.split("|"))
+        splitted = sorted(token.strip() for token in text.strip().split("|"))
+        if splitted == [""]:
+            splitted = []
+        return splitted
 
     @staticmethod
     def make_link(text: str, url=None):
