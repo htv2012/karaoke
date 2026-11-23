@@ -30,12 +30,6 @@ class Entry:
 
         return f"| {name} | {author} | {tags} |\n"
 
-    def tag_match(self, tag: str) -> bool:
-        return tag in self.tags
-
-    def author_match(self, author: str) -> bool:
-        return author in self.authors
-
     def _split(self, text: str) -> list[str]:
         splitted = sorted(token.strip() for token in text.strip().split("|"))
         if splitted == [""]:
