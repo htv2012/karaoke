@@ -1,5 +1,4 @@
 import dataclasses
-import io
 
 
 @dataclasses.dataclass
@@ -12,23 +11,6 @@ class Entry:
 
     def as_md_row(self):
         return f"| {self._name} | {self._author} | {self._tags} |\n"
-
-    def as_book_entry(self):
-        buf = io.StringIO()
-        buf.write(f"\n### {self._name}\n")
-        if self.authors:
-            s = "s" if len(self.authors) > 1 else ""
-            buf.write(f"- Author{s}: ")
-            buf.write(", ".join(f"[{author}]" for author in self.authors))
-            buf.write("\n")
-
-        if self.tags:
-            s = "s" if len(self.tags) > 1 else ""
-            buf.write(f"- Tags{s}: ")
-            buf.write(", ".join(f"- [{tag}]" for tag in self.tags))
-            buf.write("\n")
-
-        return buf.getvalue()
 
     @property
     def tags(self) -> list[str]:
