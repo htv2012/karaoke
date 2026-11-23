@@ -4,9 +4,9 @@ import io
 
 @dataclasses.dataclass
 class Entry:
-    in_name: str
-    in_author: str
-    in_tags: str
+    raw_name: str
+    raw_author: str
+    raw_tags: str
 
     md_table_header = "| Name | Author | Tags |\n| --- | --- | --- |\n"
 
@@ -32,11 +32,11 @@ class Entry:
 
     @property
     def tags(self) -> list[str]:
-        return self._split(self.in_tags)
+        return self._split(self.raw_tags)
 
     @property
     def authors(self) -> list[str]:
-        return self._split(self.in_author)
+        return self._split(self.raw_author)
 
     def tag_match(self, tag: str) -> bool:
         return tag in self.tags
@@ -46,10 +46,10 @@ class Entry:
 
     @property
     def _name(self):
-        terms = f"Karaoke {self.in_name}".split()
+        terms = f"Karaoke {self.raw_name}".split()
         query = "+".join(terms)
         url = f"https://www.youtube.com/results?search_query={query}"
-        return self.make_link(self.in_name, url)
+        return self.make_link(self.raw_name, url)
 
     @property
     def _author(self):
