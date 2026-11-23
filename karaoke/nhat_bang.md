@@ -2,5 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Bóng Chiều Tà](https://www.youtube.com/results?search_query=Bóng+Chiều+Tà+Karaoke) | [Nhật Bằng](nhật_bằng.md) |  |
-| [Một Chiều Thu](https://www.youtube.com/results?search_query=Một+Chiều+Thu+Karaoke) | [Nhật Bằng](nhật_bằng.md) | [mùa thu](mùa_thu.md) |
+| [Bóng Chiều Tà](https://www.youtube.com/results?search_query=Karaoke+Bóng+Chiều+Tà) | [Nhật Bằng](nhat_bang.md) |  |
+| [Một Chiều Thu](https://www.youtube.com/results?search_query=Karaoke+Một+Chiều+Thu) | [Nhật Bằng](nhat_bang.md) | [mùa thu](mua_thu.md) |

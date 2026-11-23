@@ -2,5 +2,5 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Hà Nội Mùa Vắng Nhũng Cơn Mưa](https://www.youtube.com/results?search_query=Hà+Nội+Mùa+Vắng+Nhũng+Cơn+Mưa+Karaoke) | [Trương Quý Hải](trương_quý_hải.md) |  |
-| [Khoảnh Khắc](https://www.youtube.com/results?search_query=Khoảnh+Khắc+Karaoke) | [Trương Quý Hải](trương_quý_hải.md) |  |
+| [Hà Nội Mùa Vắng Nhũng Cơn Mưa](https://www.youtube.com/results?search_query=Karaoke+Hà+Nội+Mùa+Vắng+Nhũng+Cơn+Mưa) | [Trương Quý Hải](truong_quy_hai.md) |  |
+| [Khoảnh Khắc](https://www.youtube.com/results?search_query=Karaoke+Khoảnh+Khắc) | [Trương Quý Hải](truong_quy_hai.md) |  |

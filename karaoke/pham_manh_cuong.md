@@ -2,4 +2,4 @@
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Thu Ca](https://www.youtube.com/results?search_query=Thu+Ca+Karaoke) | [Phạm Mạnh Cương](phạm_mạnh_cương.md) | [mùa thu](mùa_thu.md) |
+| [Thu Ca](https://www.youtube.com/results?search_query=Karaoke+Thu+Ca) | [Phạm Mạnh Cương](pham_manh_cuong.md) | [mùa thu](mua_thu.md) |
