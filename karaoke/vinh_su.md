@@ -1,5 +1,5 @@
-# Vinh Sử
+# Vinh Sử
 
 | Name | Author | Tags |
 | --- | --- | --- |
-| [Xóa Tên Người Tình](https://www.youtube.com/results?search_query=Karaoke+Xóa+Tên+Người+Tình) | [Vinh Sử](vinh_su.md) |  |
+| [Người Tình La Lan](https://www.youtube.com/results?search_query=Karaoke+Người+Tình+La+Lan) | [Vinh Sử](vinh_su.md) | [sơn cước](son_cuoc.md) |

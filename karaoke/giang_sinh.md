@@ -17,6 +17,7 @@
 | [Mùa Đông Năm Ấy](https://www.youtube.com/results?search_query=Karaoke+Mùa+Đông+Năm+Ấy) | [Hoài Đức](hoai_duc.md) | [giáng sinh](giang_sinh.md) |
 | [Nguyện Cầu Cho Nhau](https://www.youtube.com/results?search_query=Karaoke+Nguyện+Cầu+Cho+Nhau) | [Phanxicô](phanxico.md) | [giáng sinh](giang_sinh.md) |
 | [Nửa Đêm Khấn Hứa](https://www.youtube.com/results?search_query=Karaoke+Nửa+Đêm+Khấn+Hứa) | [Tuấn Hải](tuan_hai.md) | [giáng sinh](giang_sinh.md) |
+| [Ta Ao Dem Noel](https://www.youtube.com/results?search_query=Karaoke+Ta+Ao+Dem+Noel) |  | [giáng sinh](giang_sinh.md) |
 | [Tà Áo Đêm Noel](https://www.youtube.com/results?search_query=Karaoke+Tà+Áo+Đêm+Noel) | [Tuấn Lê](tuan_le.md) | [giáng sinh](giang_sinh.md) |
 | [Đêm Nay Noel Về](https://www.youtube.com/results?search_query=Karaoke+Đêm+Nay+Noel+Về) | [Xuân Thảo](xuan_thao.md) | [giáng sinh](giang_sinh.md) |
 | [Đêm Thắnh Vô Cùng](https://www.youtube.com/results?search_query=Karaoke+Đêm+Thắnh+Vô+Cùng) | [Hùng Lân](hung_lan.md) | [giáng sinh](giang_sinh.md) [ngoại quốc](ngoai_quoc.md) |
